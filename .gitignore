@@ -1,0 +1,14 @@
+# Backups
+*.backup.*
+
+# Cache
+.cache/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

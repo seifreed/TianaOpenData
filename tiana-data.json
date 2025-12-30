@@ -1,0 +1,2767 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdate": "2025-12-30T16:49:13.008381Z",
+    "languages": [
+      "ca",
+      "es",
+      "en",
+      "fr"
+    ],
+    "defaultLanguage": "ca",
+    "municipality": {
+      "name": "Tiana",
+      "province": "Barcelona",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.4925,
+        "lng": 2.2625
+      }
+    }
+  },
+  "categories": [
+    {
+      "id": "restaurants",
+      "icon": "utensils",
+      "order": 1,
+      "translations": {
+        "ca": {
+          "name": "Restaurants"
+        },
+        "es": {
+          "name": "Restaurantes"
+        },
+        "en": {
+          "name": "Restaurants"
+        },
+        "fr": {
+          "name": "Restaurants"
+        }
+      }
+    },
+    {
+      "id": "shops",
+      "icon": "shopping-bag",
+      "order": 2,
+      "translations": {
+        "ca": {
+          "name": "Botigues"
+        },
+        "es": {
+          "name": "Tiendas"
+        },
+        "en": {
+          "name": "Shops"
+        },
+        "fr": {
+          "name": "Boutiques"
+        }
+      }
+    },
+    {
+      "id": "culture",
+      "icon": "landmark",
+      "order": 3,
+      "translations": {
+        "ca": {
+          "name": "Cultura"
+        },
+        "es": {
+          "name": "Cultura"
+        },
+        "en": {
+          "name": "Culture"
+        },
+        "fr": {
+          "name": "Culture"
+        }
+      }
+    },
+    {
+      "id": "nature",
+      "icon": "tree",
+      "order": 4,
+      "translations": {
+        "ca": {
+          "name": "Naturalesa"
+        },
+        "es": {
+          "name": "Naturaleza"
+        },
+        "en": {
+          "name": "Nature"
+        },
+        "fr": {
+          "name": "Nature"
+        }
+      }
+    },
+    {
+      "id": "sports",
+      "icon": "futbol",
+      "order": 5,
+      "translations": {
+        "ca": {
+          "name": "Esports"
+        },
+        "es": {
+          "name": "Deportes"
+        },
+        "en": {
+          "name": "Sports"
+        },
+        "fr": {
+          "name": "Sports"
+        }
+      }
+    },
+    {
+      "id": "health",
+      "icon": "heart-pulse",
+      "order": 6,
+      "translations": {
+        "ca": {
+          "name": "Salut"
+        },
+        "es": {
+          "name": "Salud"
+        },
+        "en": {
+          "name": "Health"
+        },
+        "fr": {
+          "name": "Santé"
+        }
+      }
+    },
+    {
+      "id": "education",
+      "icon": "graduation-cap",
+      "order": 7,
+      "translations": {
+        "ca": {
+          "name": "Educació"
+        },
+        "es": {
+          "name": "Educación"
+        },
+        "en": {
+          "name": "Education"
+        },
+        "fr": {
+          "name": "Éducation"
+        }
+      }
+    },
+    {
+      "id": "services",
+      "icon": "briefcase",
+      "order": 8,
+      "translations": {
+        "ca": {
+          "name": "Serveis"
+        },
+        "es": {
+          "name": "Servicios"
+        },
+        "en": {
+          "name": "Services"
+        },
+        "fr": {
+          "name": "Services"
+        }
+      }
+    }
+  ],
+  "places": [
+    {
+      "id": "ajuntament-de-tiana",
+      "type": "poi",
+      "category": "services",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Ajuntament de Tiana",
+          "description": "L'Ajuntament de Tiana és l'edifici principal del govern municipal. Situat a la Plaça de la Vila, proporciona serveis administratius, assistència ciutadana i informació municipal.",
+          "shortDescription": "Edifici governamental per a serveis municipals a Tiana."
+        },
+        "es": {
+          "name": "Ayuntamiento de Tiana",
+          "description": "El Ayuntamiento de Tiana es el principal edificio gubernamental municipal. Ubicado en la Plaza de la Vila, ofrece servicios administrativos, asistencia ciudadana e información municipal.",
+          "shortDescription": "Edificio gubernamental para servicios municipales en Tiana."
+        },
+        "en": {
+          "name": "Town Hall of Tiana",
+          "description": "The Town Hall of Tiana is the main municipal government building. Located at Plaça de la Vila, it provides administrative services, citizen assistance, and municipal information.",
+          "shortDescription": "Government building for municipal services in Tiana."
+        },
+        "fr": {
+          "name": "Mairie de Tiana",
+          "description": "La Mairie de Tiana est le bâtiment principal du gouvernement municipal. Située à la Plaça de la Vila, elle offre des services administratifs, une assistance aux citoyens et des informations municipales.",
+          "shortDescription": "Bâtiment gouvernemental pour les services municipaux à Tiana."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Plaça de la Vila",
+          "number": "1",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4924,
+          "lng": 2.2626
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 74 11",
+        "email": null,
+        "website": "https://www.tiana.cat",
+        "socialMedia": {
+          "instagram": null,
+          "facebook": "https://www.facebook.com/AjuntamentTiana",
+          "twitter": "AjTiana"
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "closed": true
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "accessible",
+        "terrace",
+        "pet_friendly"
+      ],
+      "images": [],
+      "tags": [
+        "tiana",
+        "ajuntament",
+        "serveis municipals",
+        "govern local"
+      ]
+    },
+    {
+      "id": "biblioteca-municipal-de-tiana",
+      "type": "poi",
+      "category": "culture",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Biblioteca Municipal de Tiana",
+          "description": "Una biblioteca pública amb una àmplia col·lecció de llibres en català, espanyol i altres idiomes. Disposa d'espais de lectura, zones d'estudi, secció infantil i activitats culturals regulars com clubs de lectura, sessions de contacontes i xerrades d'autors.",
+          "shortDescription": "Biblioteca pública amb activitats culturals i àmplia col·lecció de llibres."
+        },
+        "es": {
+          "name": "Biblioteca Municipal de Tiana",
+          "description": "Una biblioteca pública con una extensa colección de libros en catalán, español y otros idiomas. Cuenta con salas de lectura, áreas de estudio, sección infantil y actividades culturales regulares como clubes de lectura, sesiones de cuentacuentos y charlas de autores.",
+          "shortDescription": "Biblioteca pública con actividades culturales y extensa colección de libros."
+        },
+        "en": {
+          "name": "Municipal Library of Tiana",
+          "description": "A public library with an extensive collection of books in Catalan, Spanish, and other languages. It features reading rooms, study areas, a children's section, and regular cultural activities including book clubs, storytelling sessions, and author talks.",
+          "shortDescription": "Public library with cultural activities and wide range of books."
+        },
+        "fr": {
+          "name": "Bibliothèque Municipale de Tiana",
+          "description": "Une bibliothèque publique avec une vaste collection de livres en catalan, espagnol et autres langues. Elle propose des salles de lecture, des zones d'étude, une section pour enfants et des activités culturelles régulières telles que des clubs de lecture, des séances de conte et des conférences d'auteurs.",
+          "shortDescription": "Bibliothèque publique avec activités culturelles et large collection de livres."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer de la Biblioteca",
+          "number": "4",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4926,
+          "lng": 2.2635
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 84 59",
+        "email": null,
+        "website": "https://bibliotecaspublicas.es/tiana/",
+        "socialMedia": {
+          "instagram": null,
+          "facebook": "https://www.facebook.com/BibliotecaTiana/",
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "16:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "16:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "16:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "16:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "16:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "open": "09:00",
+            "close": "13:00"
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "parking",
+        "accessible",
+        "kids_friendly"
+      ],
+      "images": [],
+      "tags": [
+        "biblioteca",
+        "cultura",
+        "lectura",
+        "activitats culturals",
+        "Tiana"
+      ]
+    },
+    {
+      "id": "parc-de-can-cabot",
+      "type": "poi",
+      "category": "nature",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Parc de Can Cabot",
+          "description": "El Parc de Can Cabot és l'espai verd principal de Tiana. Compta amb zones de joc per a diferents edats, àrees esportives incloent pistes de bàsquet, zones de pícnic amb taules, camins per a passejar i arbres madurs que proporcionen ombra. És un lloc popular per a famílies i esdeveniments comunitaris.",
+          "shortDescription": "El principal espai verd de Tiana amb zones de joc i esport."
+        },
+        "es": {
+          "name": "Parque de Can Cabot",
+          "description": "El Parque de Can Cabot es el principal espacio verde de Tiana. Dispone de áreas de juego para diferentes edades, zonas deportivas incluyendo pistas de baloncesto, áreas de picnic con mesas, senderos para caminar y árboles maduros que brindan sombra. Es un lugar popular para familias y eventos comunitarios.",
+          "shortDescription": "El principal espacio verde de Tiana con áreas de juego y deportivas."
+        },
+        "en": {
+          "name": "Can Cabot Park",
+          "description": "Can Cabot Park is Tiana's main green space. It features playgrounds for different age groups, sports areas including basketball courts, picnic areas with tables, walking paths, and mature trees providing shade. It's a popular venue for families and community events.",
+          "shortDescription": "Tiana's main green space with playgrounds and sports areas."
+        },
+        "fr": {
+          "name": "Parc de Can Cabot",
+          "description": "Le Parc de Can Cabot est le principal espace vert de Tiana. Il comprend des aires de jeux pour différents groupes d'âge, des zones sportives incluant des terrains de basket, des zones de pique-nique avec des tables, des chemins de promenade, et de grands arbres fournissant de l'ombre. C'est un lieu prisé des familles et pour les événements communautaires.",
+          "shortDescription": "Le principal espace vert de Tiana avec aires de jeux et zones sportives."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer de la Serra",
+          "number": "s/n",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4934,
+          "lng": 2.2635
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 74 11",
+        "email": null,
+        "website": null,
+        "socialMedia": {
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "closed": true
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "parking",
+        "accessible",
+        "kids_friendly"
+      ],
+      "images": [],
+      "tags": [
+        "parque",
+        "familiar",
+        "naturaleza",
+        "deporte"
+      ]
+    },
+    {
+      "id": "esglesia-de-sant-cebria",
+      "type": "poi",
+      "category": "culture",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Església de Sant Cebrià",
+          "description": "Església parroquial històrica de Tiana dedicada a Sant Cebrià. D'origen romànic, ha sofert diverses modificacions al llarg dels segles. És un important patrimoni arquitectònic i cultural al centre històric de la ciutat.",
+          "shortDescription": "Històrica església parroquial de Sant Cebrià a Tiana."
+        },
+        "es": {
+          "name": "Iglesia de San Cipriano",
+          "description": "Iglesia parroquial histórica de Tiana dedicada a San Cipriano. De origen románico con modificaciones posteriores. Importante patrimonio arquitectónico y cultural situado en el centro histórico, acoge servicios religiosos regulares y conciertos ocasionales.",
+          "shortDescription": "Histórica iglesia parroquial de San Cipriano en Tiana."
+        },
+        "en": {
+          "name": "Church of Saint Cyprian",
+          "description": "Historic parish church in Tiana dedicated to Saint Cyprian. It has Romanesque origins with later modifications. An important architectural and cultural heritage site located in the historic center, it hosts regular religious services and occasional concerts.",
+          "shortDescription": "Historic parish church of Saint Cyprian in Tiana."
+        },
+        "fr": {
+          "name": "Église de Saint Cyprien",
+          "description": "Église paroissiale historique de Tiana dédiée à Saint Cyprien. D'origine romane avec des modifications ultérieures. Important patrimoine architectural et culturel situé dans le centre historique, elle accueille des services religieux réguliers et des concerts occasionnels.",
+          "shortDescription": "Église paroissiale historique de Saint Cyprien à Tiana."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer de l'Església",
+          "number": "S/N",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4924,
+          "lng": 2.2626
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 74 25 or null",
+        "email": null,
+        "website": "https://diocesisbarcelona.org or null",
+        "socialMedia": {
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "closed": true
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "accessible",
+        "parking",
+        "scenic_views"
+      ],
+      "images": [],
+      "tags": [
+        "cultura",
+        "patrimoni",
+        "arquitectura",
+        "historia",
+        "Tiana"
+      ]
+    },
+    {
+      "id": "centre-civic-de-tiana",
+      "type": "poi",
+      "category": "culture",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Centre Cívic de Tiana",
+          "description": "El Centre Cívic de Tiana és un espai comunitari que ofereix una àmplia varietat d'activitats per a totes les edats. Des de tallers i classes fins a esdeveniments culturals, exposicions i reunions, és un punt de trobada clau per a la comunitat.",
+          "shortDescription": "Centre comunitari per a activitats culturals i educatives."
+        },
+        "es": {
+          "name": "Centro Cívico de Tiana",
+          "description": "El Centro Cívico de Tiana es un espacio comunitario que ofrece una amplia variedad de actividades para todas las edades. Desde talleres y clases hasta eventos culturales, exposiciones y reuniones, es un punto de encuentro clave para la comunidad.",
+          "shortDescription": "Centro comunitario para actividades culturales y educativas."
+        },
+        "en": {
+          "name": "Centre Cívic de Tiana",
+          "description": "The Centre Cívic de Tiana is a community civic center offering a wide range of activities for all ages. From workshops and classes to cultural events, exhibitions, and meetings, it serves as a key gathering point for the community.",
+          "shortDescription": "Community center for cultural and educational activities."
+        },
+        "fr": {
+          "name": "Centre Civique de Tiana",
+          "description": "Le Centre Civique de Tiana est un centre communautaire offrant une large gamme d'activités pour tous les âges. Des ateliers et des cours aux événements culturels, expositions et réunions, il sert de point de rassemblement clé pour la communauté.",
+          "shortDescription": "Centre communautaire pour les activités culturelles et éducatives."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer de l'Església",
+          "number": "5",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4924,
+          "lng": 2.2626
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 74 22",
+        "email": null,
+        "website": "https://www.tiana.cat",
+        "socialMedia": {
+          "instagram": null,
+          "facebook": "https://www.facebook.com/ajtiana",
+          "twitter": "@ajtiana"
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "open": "09:00",
+            "close": "14:00"
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "accessible",
+        "terrace",
+        "card_payment"
+      ],
+      "images": [],
+      "tags": [
+        "cultura",
+        "activitats",
+        "taller",
+        "exposicions",
+        "tiana"
+      ]
+    },
+    {
+      "id": "farmacia-central-de-tiana",
+      "type": "commerce",
+      "category": "health",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Farmàcia Central de Tiana",
+          "description": "La farmàcia principal de Tiana que ofereix serveis farmacèutics, medicaments, productes de salut, ortopèdia i consells professionals. Ampli horari i disponibilitat de servei d'emergència. Situada al centre de la ciutat per un fàcil accés.",
+          "shortDescription": "La teva farmàcia de confiança a Tiana per a tots els serveis farmacèutics."
+        },
+        "es": {
+          "name": "Farmacia Central de Tiana",
+          "description": "La farmacia principal en Tiana que proporciona servicios farmacéuticos, medicamentos, productos de salud, ortopedia y consejos profesionales. Horario extendido y disponibilidad de servicio de emergencia. Ubicada en el centro del pueblo para un fácil acceso.",
+          "shortDescription": "Tu farmacia de confianza en Tiana para todos los servicios farmacéuticos."
+        },
+        "en": {
+          "name": "Central Pharmacy of Tiana",
+          "description": "The main pharmacy in Tiana offering pharmaceutical services, medications, health products, orthopedics, and professional advice. Extended hours and emergency service availability. Located in the town center for easy access.",
+          "shortDescription": "Your trusted pharmacy in Tiana for all pharmaceutical services."
+        },
+        "fr": {
+          "name": "Pharmacie Centrale de Tiana",
+          "description": "La pharmacie principale de Tiana offrant des services pharmaceutiques, des médicaments, des produits de santé, de l'orthopédie et des conseils professionnels. Heures d'ouverture étendues et disponibilité des services d'urgence. Située au centre-ville pour un accès facile.",
+          "shortDescription": "Votre pharmacie de confiance à Tiana pour tous les services pharmaceutiques."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer Major",
+          "number": "1",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4924,
+          "lng": 2.2635
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 24 25",
+        "email": "info@farmaciacentraltiana.es",
+        "website": "https://www.farmaciacentraltiana.es",
+        "socialMedia": {
+          "instagram": "farmaciacentraltiana",
+          "facebook": "https://www.facebook.com/farmaciacentraltiana",
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "open": "09:00",
+            "close": "14:00"
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "accessible",
+        "air_conditioning",
+        "card_payment"
+      ],
+      "images": [],
+      "tags": [
+        "farmacia",
+        "salut",
+        "medicaments",
+        "tiana",
+        "salud",
+        "medicamentos"
+      ]
+    },
+    {
+      "id": "parc-del-montnegre",
+      "type": "poi",
+      "category": "nature",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Parc del Montnegre",
+          "description": "La porta d'entrada al Parc Natural del Montnegre-Corredor. Ofereix rutes de senderisme, rutes de bicicleta de muntanya i passejades per la natura amb vistes panoràmiques de la costa mediterrània. Rica biodiversitat amb bosc mediterrani, flora i fauna diverses.",
+          "shortDescription": "Accés al Parc Natural del Montnegre-Corredor amb activitats a l'aire lliure."
+        },
+        "es": {
+          "name": "Parc del Montnegre",
+          "description": "Puerta de entrada al Parque Natural Montnegre-Corredor. Ofrece senderos para caminatas, rutas de bicicleta de montaña y paseos por la naturaleza con vistas panorámicas de la costa mediterránea. Rico en biodiversidad con bosque mediterráneo, diversa flora y fauna.",
+          "shortDescription": "Acceso al Parque Natural Montnegre-Corredor con actividades al aire libre."
+        },
+        "en": {
+          "name": "Montnegre Park",
+          "description": "Gateway to the Montnegre-Corredor Natural Park. Offers hiking trails, mountain biking routes, and nature walks with panoramic views of the Mediterranean coast. Rich biodiversity with Mediterranean forest, diverse flora, and fauna.",
+          "shortDescription": "Gateway to Montnegre-Corredor Natural Park with outdoor activities."
+        },
+        "fr": {
+          "name": "Parc du Montnegre",
+          "description": "Porte d'entrée du Parc Naturel Montnegre-Corredor. Offre des sentiers de randonnée, des itinéraires de VTT et des promenades dans la nature avec des vues panoramiques sur la côte méditerranéenne. Riche biodiversité avec forêt méditerranéenne, diversité de flore et faune.",
+          "shortDescription": "Accès au Parc Naturel Montnegre-Corredor avec activités de plein air."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Unknown",
+          "number": "N/A",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4924,
+          "lng": 2.2626
+        }
+      },
+      "contact": {
+        "phone": "+34 93 000 00 00",
+        "email": null,
+        "website": null,
+        "socialMedia": {
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "closed": true
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "parking",
+        "accessible",
+        "scenic_views",
+        "outdoor_seating"
+      ],
+      "images": [],
+      "tags": [
+        "senderismo",
+        "bicicleta de montaña",
+        "naturaleza",
+        "vistas panorámicas",
+        "ecoturismo"
+      ]
+    },
+    {
+      "id": "can-font-restaurant",
+      "type": "commerce",
+      "category": "restaurants",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Restaurant Can Font",
+          "description": "Restaurant tradicional català amb més de 30 anys d'història a Tiana. Especialitzat en cuina catalana autèntica que inclou plats de temporada, carns a la graella, marisc fresc i postres casolanes. Ambient familiar amb terrassa. Conegut pels dinars familiars de diumenge.",
+          "shortDescription": "Cuina catalana tradicional amb terrassa i ambient familiar."
+        },
+        "es": {
+          "name": "Restaurante Can Font",
+          "description": "Restaurante catalán tradicional con más de 30 años de historia en Tiana. Especializado en cocina catalana auténtica, incluidos platos de temporada, carnes a la parrilla, mariscos frescos y postres caseros. Ambiente familiar con terraza. Conocido por los almuerzos familiares de los domingos.",
+          "shortDescription": "Cocina catalana tradicional con terraza y ambiente familiar."
+        },
+        "en": {
+          "name": "Can Font Restaurant",
+          "description": "Traditional Catalan restaurant with over 30 years of history in Tiana. Specializes in authentic Catalan cuisine including seasonal dishes, grilled meats, fresh seafood, and homemade desserts. Family-friendly atmosphere with terrace. Known for Sunday family lunches.",
+          "shortDescription": "Traditional Catalan cuisine with a terrace and family-friendly atmosphere."
+        },
+        "fr": {
+          "name": "Restaurant Can Font",
+          "description": "Restaurant catalan traditionnel avec plus de 30 ans d'histoire à Tiana. Spécialisé dans la cuisine catalane authentique, y compris les plats de saison, les viandes grillées, les fruits de mer frais et les desserts faits maison. Ambiance familiale avec terrasse. Connu pour les déjeuners familiaux du dimanche.",
+          "shortDescription": "Cuisine catalane traditionnelle avec terrasse et ambiance familiale."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer de la Font",
+          "number": "32",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4935,
+          "lng": 2.2635
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 10 05",
+        "email": null,
+        "website": "https://canfontrestaurant.es",
+        "socialMedia": {
+          "instagram": "canfontrestaurant",
+          "facebook": "https://www.facebook.com/CanFontRestaurant",
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "closed": true
+          },
+          "tuesday": {
+            "open": "13:00",
+            "close": "16:00",
+            "secondOpen": "20:00",
+            "secondClose": "23:00"
+          },
+          "wednesday": {
+            "open": "13:00",
+            "close": "16:00",
+            "secondOpen": "20:00",
+            "secondClose": "23:00"
+          },
+          "thursday": {
+            "open": "13:00",
+            "close": "16:00",
+            "secondOpen": "20:00",
+            "secondClose": "23:00"
+          },
+          "friday": {
+            "open": "13:00",
+            "close": "16:00",
+            "secondOpen": "20:00",
+            "secondClose": "23:00"
+          },
+          "saturday": {
+            "open": "13:00",
+            "close": "16:00",
+            "secondOpen": "20:00",
+            "secondClose": "23:00"
+          },
+          "sunday": {
+            "open": "13:00",
+            "close": "16:00"
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "parking",
+        "accessible",
+        "terrace",
+        "kids_friendly",
+        "scenic_views"
+      ],
+      "images": [],
+      "tags": [
+        "cuina catalana",
+        "terrassa",
+        "familiar",
+        "carns a la graella",
+        "marisc"
+      ]
+    },
+    {
+      "id": "pastisseria-sant-jordi",
+      "type": "commerce",
+      "category": "shops",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Pastisseria Sant Jordi",
+          "description": "Fleca i pastisseria artesana especialitzada en pastes tradicionals catalanes. Coneguda per les seves cocas, ensaïmades i especialitats de temporada com panellets i mona de Pasqua. Tots els productes són fets frescos diàriament. Pastissos personalitzats per a celebracions.",
+          "shortDescription": "Pastisseria artesana amb especialitats catalanes."
+        },
+        "es": {
+          "name": "Pastisseria Sant Jordi",
+          "description": "Panadería y pastelería artesanal especializada en pasteles tradicionales catalanes. Famosa por sus cocas, ensaïmadas y especialidades de temporada como panellets y mona de Pascua. Todos los productos se hacen frescos diariamente. Pasteles personalizados para celebraciones disponibles.",
+          "shortDescription": "Pastelería artesanal con especialidades catalanas."
+        },
+        "en": {
+          "name": "Pastisseria Sant Jordi",
+          "description": "Artisan bakery and pastry shop specializing in traditional Catalan pastries. Famous for cocas, ensaïmadas, and seasonal specialties like panellets and mona de Pasqua. All products made fresh daily. Custom cakes for celebrations available.",
+          "shortDescription": "Artisan bakery with Catalan specialties."
+        },
+        "fr": {
+          "name": "Pastisseria Sant Jordi",
+          "description": "Boulangerie et pâtisserie artisanale spécialisée dans les pâtisseries catalanes traditionnelles. Célèbre pour ses cocas, ensaïmadas et spécialités saisonnières comme les panellets et la mona de Pasqua. Tous les produits sont fabriqués frais chaque jour. Gâteaux personnalisés pour les célébrations disponibles.",
+          "shortDescription": "Boulangerie artisanale avec des spécialités catalanes."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer Major",
+          "number": "42",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4926,
+          "lng": 2.2635
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 74 20",
+        "email": null,
+        "website": null,
+        "socialMedia": {
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "closed": true
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "accessible",
+        "terrace",
+        "takeaway",
+        "card_payment"
+      ],
+      "images": [],
+      "tags": [
+        "pastisseria",
+        "cocas",
+        "ensaïmadas",
+        "panellets",
+        "mona de Pasqua",
+        "pastisseria artesana",
+        "Tiana"
+      ]
+    },
+    {
+      "id": "mercat-municipal-de-tiana",
+      "type": "commerce",
+      "category": "shops",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Mercat Municipal de Tiana",
+          "description": "El mercat municipal ofereix productes frescos com fruita, carn i peix, així com queviures de proximitat. És un punt de trobada essencial per als residents de la zona.",
+          "shortDescription": "Mercat de productes frescos i de proximitat."
+        },
+        "es": {
+          "name": "Mercado Municipal de Tiana",
+          "description": "El mercado municipal proporciona productos frescos como frutas, carnes y pescados, además de comestibles locales. Es un centro social clave para los residentes del área.",
+          "shortDescription": "Mercado de productos frescos y locales."
+        },
+        "en": {
+          "name": "Mercat Municipal de Tiana",
+          "description": "The local municipal market offers fresh produce, meat, and fish, as well as local groceries. It's a crucial social meeting point for area residents.",
+          "shortDescription": "Market of fresh and local products."
+        },
+        "fr": {
+          "name": "Marché Municipal de Tiana",
+          "description": "Le marché municipal offre des produits frais tels que des fruits, de la viande et du poisson, ainsi que des épicerie locales. C'est un point de rencontre social important pour les résidents de la région.",
+          "shortDescription": "Marché de produits frais et locaux."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer Major",
+          "number": "1",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4924,
+          "lng": 2.2635
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 74 61",
+        "email": null,
+        "website": null,
+        "socialMedia": {
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "closed": true
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": null,
+            "secondClose": null
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": null,
+            "secondClose": null
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": null,
+            "secondClose": null
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": null,
+            "secondClose": null
+          },
+          "saturday": {
+            "open": "09:00",
+            "close": "14:00"
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "parking",
+        "accessible",
+        "pet_friendly",
+        "card_payment"
+      ],
+      "images": [],
+      "tags": [
+        "mercat",
+        "tiana",
+        "productes frescos",
+        "compra local"
+      ]
+    },
+    {
+      "id": "escola-bellulla",
+      "type": "poi",
+      "category": "education",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Escola Bellulla",
+          "description": "Una escola pública primària que serveix Tiana i les àrees circumdants. Ofereix una educació d'immersió en català, instal·lacions modernes, àrees esportives, biblioteca i activitats extraescolars.",
+          "shortDescription": "Escola primària amb educació d'immersió en català."
+        },
+        "es": {
+          "name": "Escuela Bellulla",
+          "description": "Una escuela primaria pública que sirve a Tiana y las áreas circundantes. Ofrece educación de inmersión en catalán, instalaciones modernas, áreas deportivas, biblioteca y actividades extracurriculares.",
+          "shortDescription": "Escuela primaria con educación de inmersión en catalán."
+        },
+        "en": {
+          "name": "Escola Bellulla",
+          "description": "A primary public school serving Tiana and surrounding areas. Offers Catalan immersion education, modern facilities, sports areas, library, and extracurricular activities.",
+          "shortDescription": "Primary school with Catalan immersion education."
+        },
+        "fr": {
+          "name": "École Bellulla",
+          "description": "Une école primaire publique servant Tiana et les régions avoisinantes. Offre une éducation en immersion catalane, des installations modernes, des zones sportives, une bibliothèque et des activités parascolaires.",
+          "shortDescription": "École primaire avec éducation en immersion catalane."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer de l'Escola",
+          "number": "5",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4926,
+          "lng": 2.2624
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 74 75",
+        "email": null,
+        "website": "https://escolabellulla.cat",
+        "socialMedia": {
+          "instagram": null,
+          "facebook": "https://www.facebook.com/EscolaBellulla",
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "15:00",
+            "secondClose": "17:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "15:00",
+            "secondClose": "17:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "15:00",
+            "secondClose": "17:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "15:00",
+            "secondClose": "17:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00"
+          },
+          "saturday": {
+            "closed": true
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "parking",
+        "accessible",
+        "kids_friendly"
+      ],
+      "images": [],
+      "tags": [
+        "educació",
+        "escola",
+        "primària",
+        "tiana",
+        "immersió catalana"
+      ]
+    },
+    {
+      "id": "institut-de-tiana",
+      "type": "poi",
+      "category": "education",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Institut de Tiana",
+          "description": "Escola secundària pública que ofereix una educació integral per a adolescents amb instal·lacions modernes com laboratoris de ciències, aules d'informàtica, biblioteca, instal·lacions esportives i espais polivalents.",
+          "shortDescription": "Escola secundària amb educació integral i instal·lacions modernes."
+        },
+        "es": {
+          "name": "Instituto de Tiana",
+          "description": "Instituto público de educación secundaria (ESO y Bachillerato) que proporciona una educación integral para adolescentes. Cuenta con instalaciones modernas como laboratorios de ciencias, aulas de informática, biblioteca, instalaciones deportivas y espacios polivalentes.",
+          "shortDescription": "Instituto público con instalaciones modernas y educación integral."
+        },
+        "en": {
+          "name": "Institut de Tiana",
+          "description": "Public secondary school (ESO and Batxillerat) providing comprehensive education for teenagers. Features modern facilities including science labs, computer rooms, library, sports facilities, and multipurpose spaces.",
+          "shortDescription": "Secondary school with modern facilities and comprehensive education."
+        },
+        "fr": {
+          "name": "Institut de Tiana",
+          "description": "Lycée public offrant une éducation complète pour adolescents avec des installations modernes telles que des laboratoires de sciences, des salles informatiques, une bibliothèque, des installations sportives et des espaces polyvalents.",
+          "shortDescription": "Lycée avec installations modernes et éducation complète."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer de l'Educació",
+          "number": "5",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4926,
+          "lng": 2.2624
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 74 75",
+        "email": null,
+        "website": "https://institutdetiana.cat",
+        "socialMedia": {
+          "instagram": null,
+          "facebook": "https://www.facebook.com/institutdetiana",
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "08:00",
+            "close": "14:00",
+            "secondOpen": "15:00",
+            "secondClose": "17:00"
+          },
+          "tuesday": {
+            "open": "08:00",
+            "close": "14:00",
+            "secondOpen": "15:00",
+            "secondClose": "17:00"
+          },
+          "wednesday": {
+            "open": "08:00",
+            "close": "14:00",
+            "secondOpen": "15:00",
+            "secondClose": "17:00"
+          },
+          "thursday": {
+            "open": "08:00",
+            "close": "14:00",
+            "secondOpen": "15:00",
+            "secondClose": "17:00"
+          },
+          "friday": {
+            "open": "08:00",
+            "close": "14:00"
+          },
+          "saturday": {
+            "closed": true
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "parking",
+        "accessible",
+        "sports_facilities",
+        "library",
+        "computer_lab"
+      ],
+      "images": [],
+      "tags": [
+        "educació",
+        "secundària",
+        "Tiana",
+        "batxillerat",
+        "institut",
+        "públic"
+      ]
+    },
+    {
+      "id": "poliesportiu-municipal",
+      "type": "poi",
+      "category": "sports",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Poliesportiu Municipal",
+          "description": "Complex esportiu municipal amb pavelló cobert, pistes exteriors i instal·lacions per a diversos esports com bàsquet, voleibol, futbol sala i handbol. Ofereix classes, lligues i temps de gimnàs obert. Acull clubs esportius locals i tornejos comunitaris.",
+          "shortDescription": "Complex esportiu municipal amb activitats i instal·lacions diverses."
+        },
+        "es": {
+          "name": "Polideportivo Municipal",
+          "description": "Complejo deportivo municipal con pabellón cubierto, pistas exteriores e instalaciones para varios deportes como baloncesto, voleibol, fútbol sala y balonmano. Ofrece clases, ligas y tiempo de gimnasio abierto. Hospeda clubes deportivos locales y torneos comunitarios.",
+          "shortDescription": "Complejo deportivo municipal con actividades e instalaciones variadas."
+        },
+        "en": {
+          "name": "Municipal Sports Complex",
+          "description": "Municipal sports complex with indoor pavilion, outdoor courts, and facilities for various sports including basketball, volleyball, futsal, and handball. Offers classes, leagues, and open gym time. Hosts local sports clubs and community tournaments.",
+          "shortDescription": "Municipal sports complex with diverse activities and facilities."
+        },
+        "fr": {
+          "name": "Complexe Sportif Municipal",
+          "description": "Complexe sportif municipal avec pavillon couvert, terrains extérieurs et installations pour divers sports tels que le basketball, le volleyball, le futsal et le handball. Propose des cours, des ligues et des périodes de gym libre. Accueille des clubs sportifs locaux et des tournois communautaires.",
+          "shortDescription": "Complexe sportif municipal offrant diverses activités et installations."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer de la Unió",
+          "number": "10",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4927,
+          "lng": 2.2635
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 74 20",
+        "email": null,
+        "website": "https://example.com",
+        "socialMedia": {
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "closed": true
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "parking",
+        "accessible",
+        "terrace"
+      ],
+      "images": [],
+      "tags": [
+        "deporte",
+        "actividades",
+        "Tiana",
+        "poliesportiu",
+        "municipal"
+      ]
+    },
+    {
+      "id": "club-tennis-tiana",
+      "type": "poi",
+      "category": "sports",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Club Tennis Tiana",
+          "description": "Club privat de tennis i pàdel amb diverses pistes, instal·lacions socials i entrenament professional. Ofereix classes per a totes les edats i nivells, organitza tornejos i té un programa de desenvolupament juvenil actiu.",
+          "shortDescription": "Club de tennis i pàdel amb serveis complets."
+        },
+        "es": {
+          "name": "Club de Tenis Tiana",
+          "description": "Club privado de tenis y pádel con múltiples pistas, instalaciones sociales y coaching profesional. Ofrece clases para todas las edades y niveles, organiza torneos y tiene un programa activo de desarrollo juvenil.",
+          "shortDescription": "Club de tenis y pádel con todas las facilidades."
+        },
+        "en": {
+          "name": "Club Tennis Tiana",
+          "description": "Private tennis and paddle club with multiple courts, social facilities, and professional coaching. Offers classes for all ages and levels, organizes tournaments, and has active junior development program.",
+          "shortDescription": "Comprehensive tennis and paddle club services."
+        },
+        "fr": {
+          "name": "Club de Tennis Tiana",
+          "description": "Club privé de tennis et de paddle avec plusieurs courts, des installations sociales et un coaching professionnel. Propose des cours pour tous les âges et niveaux, organise des tournois et dispose d'un programme actif de développement junior.",
+          "shortDescription": "Club de tennis et de paddle avec services complets."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer de la Tennis",
+          "number": "10",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4935,
+          "lng": 2.2635
+        }
+      },
+      "contact": {
+        "phone": "+34 93 555 55 55",
+        "email": null,
+        "website": "https://clubtennistiana.es",
+        "socialMedia": {
+          "instagram": "clubtennistiana",
+          "facebook": null,
+          "twitter": "clubtennistiana"
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "open": "09:00",
+            "close": "14:00"
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "parking",
+        "accessible",
+        "terrace"
+      ],
+      "images": [],
+      "tags": [
+        "tenis",
+        "pàdel",
+        "club",
+        "Tiana",
+        "esport"
+      ]
+    },
+    {
+      "id": "bar-ca-l-andreu",
+      "type": "commerce",
+      "category": "restaurants",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Bar Ca l'Andreu",
+          "description": "Bar i restaurant de barri tradicional que serveix menú diari, tapes i begudes. Punt de trobada local popular amb terrassa. Conegut per la seva atmosfera amigable, preus assequibles i cuina casolana.",
+          "shortDescription": "Bar tradicional amb menú diari i terrassa"
+        },
+        "es": {
+          "name": "Bar Ca l'Andreu",
+          "description": "Bar y restaurante de barrio tradicional que ofrece menú del día, tapas y bebidas. Lugar de encuentro popular en la localidad con terraza. Famoso por su ambiente amigable, precios asequibles y cocina casera.",
+          "shortDescription": "Bar tradicional con menú del día y terraza"
+        },
+        "en": {
+          "name": "Bar Ca l'Andreu",
+          "description": "Traditional neighborhood bar and restaurant serving daily menu, tapas, and drinks. Popular local meeting spot with terrace. Known for friendly atmosphere, affordable prices, and home-style cooking.",
+          "shortDescription": "Traditional bar with daily menu and terrace"
+        },
+        "fr": {
+          "name": "Bar Ca l'Andreu",
+          "description": "Bar et restaurant de quartier traditionnel proposant un menu du jour, des tapas et des boissons. Lieu de rencontre local populaire avec terrasse. Connu pour son atmosphère conviviale, ses prix abordables et sa cuisine maison.",
+          "shortDescription": "Bar traditionnel avec menu du jour et terrasse"
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Calle Major",
+          "number": "42",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4935,
+          "lng": 2.2635
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 74 85",
+        "email": null,
+        "website": null,
+        "socialMedia": {
+          "instagram": "barcalandreu",
+          "facebook": null,
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "closed": true
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "terrace",
+        "accessible",
+        "pet_friendly",
+        "card_payment",
+        "takeaway"
+      ],
+      "images": [],
+      "tags": [
+        "bar-tradicional",
+        "menú-diari",
+        "terrassa",
+        "tapas",
+        "Tiana"
+      ]
+    },
+    {
+      "id": "parc-infantil-de-can-rates",
+      "type": "poi",
+      "category": "nature",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Parc Infantil de Can Ratés",
+          "description": "Parc infantil i petita àrea verda situada en una zona residencial. Compta amb equipament de joc modern per a totes les edats, bancs i zones d'ombra. Espai segur i tancat molt popular entre les famílies amb nens petits.",
+          "shortDescription": "Parc infantil amb jocs moderns per a nens."
+        },
+        "es": {
+          "name": "Parque Infantil de Can Ratés",
+          "description": "Parque infantil y pequeño parque en zona residencial. Dispone de equipamiento de juego moderno para todas las edades, bancos y áreas sombreadas. Espacio seguro y vallado muy popular entre familias con niños pequeños.",
+          "shortDescription": "Parque infantil con juegos modernos para niños."
+        },
+        "en": {
+          "name": "Can Ratés Children's Playground",
+          "description": "Children's playground and small park in a residential area. Features modern play equipment for various ages, benches, and shaded areas. A safe, fenced space popular with families with young children.",
+          "shortDescription": "Playground with modern equipment for children."
+        },
+        "fr": {
+          "name": "Aire de jeux Can Ratés",
+          "description": "Aire de jeux pour enfants et petit parc situé dans un quartier résidentiel. Il dispose d'équipements de jeu modernes pour tous les âges, de bancs et de zones ombragées. Espace sécurisé et clôturé très prisé des familles avec de jeunes enfants.",
+          "shortDescription": "Aire de jeux avec des équipements modernes pour enfants."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer de l'Església",
+          "number": "s/n",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4935,
+          "lng": 2.2635
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 74 11",
+        "email": null,
+        "website": null,
+        "socialMedia": {
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "closed": true
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "accessible",
+        "outdoor_seating",
+        "kids_friendly",
+        "scenic_views"
+      ],
+      "images": [],
+      "tags": [
+        "parc infantil",
+        "jocs per nens",
+        "zona residencial"
+      ]
+    },
+    {
+      "id": "casal-d-avis-de-tiana",
+      "type": "poi",
+      "category": "culture",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Casal d'Avis de Tiana",
+          "description": "El Casal d'Avis de Tiana és un centre per a gent gran que ofereix activitats, tallers, trobades socials i serveis per als residents de la tercera edat. Es promouen programes de salut, activitats culturals, excursions i interacció social diària.",
+          "shortDescription": "Centre per a la gent gran amb activitats i serveis a Tiana."
+        },
+        "es": {
+          "name": "Casal de Ancianos de Tiana",
+          "description": "El Casal de Ancianos de Tiana es un centro para personas mayores que ofrece actividades, talleres, encuentros sociales y servicios para los residentes de edad avanzada. Se promueven programas de salud, actividades culturales, excursiones e interacción social diaria.",
+          "shortDescription": "Centro para personas mayores con actividades y servicios en Tiana."
+        },
+        "en": {
+          "name": "Senior Citizens Center of Tiana",
+          "description": "The Senior Citizens Center of Tiana is a community hub that provides activities, workshops, social gatherings, and services for the elderly residents. It supports health programs, cultural activities, excursions, and daily social interaction.",
+          "shortDescription": "A center for the elderly with activities and services in Tiana."
+        },
+        "fr": {
+          "name": "Centre des Aînés de Tiana",
+          "description": "Le Centre des Aînés de Tiana est un lieu de rencontre communautaire offrant des activités, des ateliers, des rassemblements sociaux et des services pour les résidents âgés. Il soutient des programmes de santé, des activités culturelles, des excursions et des interactions sociales quotidiennes.",
+          "shortDescription": "Un centre pour les personnes âgées avec des activités et services à Tiana."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer de l'Església",
+          "number": "5",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4935,
+          "lng": 2.2635
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 74 85",
+        "email": null,
+        "website": "https://tiana.cat",
+        "socialMedia": {
+          "instagram": null,
+          "facebook": "https://www.facebook.com/AjuntamentTiana/",
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "closed": true
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "accessible",
+        "terrace",
+        "air_conditioning"
+      ],
+      "images": [],
+      "tags": [
+        "gent-gran",
+        "activitats-tiana",
+        "centre-social"
+      ]
+    },
+    {
+      "id": "estanc-tiana",
+      "type": "commerce",
+      "category": "shops",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Estanc Tiana",
+          "description": "Una botiga de tabac i quiosc que ven diaris, revistes, productes de tabac, bitllets de loteria, i articles de papereria. També ofereix serveis de paqueteria i informació local. Servei diari essencial per als residents.",
+          "shortDescription": "Botiga de tabac i quiosc amb serveis essencials i locals."
+        },
+        "es": {
+          "name": "Estanco Tiana",
+          "description": "Tienda de tabaco y quiosco que vende periódicos, revistas, productos de tabaco, billetes de lotería y material de papelería. También ofrece servicios de paquetería e información local. Servicio diario esencial para los residentes.",
+          "shortDescription": "Tienda de tabaco y quiosco con servicios esenciales y locales."
+        },
+        "en": {
+          "name": "Estanc Tiana",
+          "description": "Tobacco shop and newsstand selling newspapers, magazines, tobacco products, lottery tickets, and stationery. Also offers parcel services and local information. Essential daily service for residents.",
+          "shortDescription": "Tobacco shop and newsstand with essential and local services."
+        },
+        "fr": {
+          "name": "Tabac Tiana",
+          "description": "Bureau de tabac et kiosque vendant des journaux, des magazines, des produits du tabac, des billets de loterie et de la papeterie. Propose également des services de colis et des informations locales. Service quotidien essentiel pour les résidents.",
+          "shortDescription": "Bureau de tabac et kiosque avec services essentiels et locaux."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer Major",
+          "number": "42",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4926,
+          "lng": 2.2635
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 74 21",
+        "email": null,
+        "website": null,
+        "socialMedia": {
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "closed": true
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "parking",
+        "accessible",
+        "card_payment"
+      ],
+      "images": [],
+      "tags": [
+        "tabac",
+        "quiosc",
+        "loteria",
+        "papeleria",
+        "servei local"
+      ]
+    },
+    {
+      "id": "forn-de-pa-tiana",
+      "type": "commerce",
+      "category": "shops",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Forn de Pa Tiana",
+          "description": "Una fleca tradicional que produeix pa fresc cada dia utilitzant mètodes tradicionals. Ofereix una varietat de pans com el pa de pagès, baguettes i opcions integrals.",
+          "shortDescription": "Fleca tradicional amb varietat de pans i servei de lliurament matinal."
+        },
+        "es": {
+          "name": "Forn de Pa Tiana",
+          "description": "Una panadería tradicional que produce pan fresco diariamente utilizando métodos tradicionales. Ofrece una variedad de panes como el pa de pagès, baguettes y opciones integrales.",
+          "shortDescription": "Panadería tradicional con variedad de panes y servicio de entrega matutino."
+        },
+        "en": {
+          "name": "Forn de Pa Tiana",
+          "description": "Traditional bakery producing fresh bread daily using traditional methods. Offers a variety of breads including pa de pagès, baguettes, and integral options.",
+          "shortDescription": "Traditional bakery with a variety of breads and morning delivery service."
+        },
+        "fr": {
+          "name": "Forn de Pa Tiana",
+          "description": "Boulangerie traditionnelle produisant du pain frais quotidiennement en utilisant des méthodes traditionnelles. Propose une variété de pains, y compris le pa de pagès, les baguettes et les options intégrales.",
+          "shortDescription": "Boulangerie traditionnelle avec une variété de pains et service de livraison matinal."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer Major",
+          "number": "10",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4926,
+          "lng": 2.2624
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 78 12",
+        "email": null,
+        "website": null,
+        "socialMedia": {
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "open": "09:00",
+            "close": "14:00"
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "accessible",
+        "terrace",
+        "delivery"
+      ],
+      "images": [],
+      "tags": [
+        "fleca",
+        "pa",
+        "tiana",
+        "panaderia",
+        "bread",
+        "bakery"
+      ]
+    },
+    {
+      "id": "parc-de-can-riera",
+      "type": "poi",
+      "category": "nature",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Parc de Can Riera",
+          "description": "Parc urbà amb jardins, camins per passejar, bancs i espais verds. Zona tranquila per relaxar-se, llegir o fer exercici lleuger. Compta amb plantes i arbres nadius, creant una oasi de pau al barri.",
+          "shortDescription": "Oasi de pau amb espais verds i camins per passejar."
+        },
+        "es": {
+          "name": "Parc de Can Riera",
+          "description": "Parque urbano con jardines, senderos para caminar, bancos y espacios verdes. Área tranquila para relajarse, leer o hacer ejercicio ligero. Cuenta con plantas y árboles nativos, creando un oasis de paz en el vecindario.",
+          "shortDescription": "Oasis de paz con espacios verdes y senderos para caminar."
+        },
+        "en": {
+          "name": "Parc de Can Riera",
+          "description": "Urban park with gardens, walking paths, benches, and green spaces. Quiet area for relaxation, reading, or light exercise. Features native plants and trees, creating a peaceful neighborhood oasis.",
+          "shortDescription": "Peaceful oasis with green spaces and walking paths."
+        },
+        "fr": {
+          "name": "Parc de Can Riera",
+          "description": "Parc urbain avec des jardins, des sentiers de promenade, des bancs et des espaces verts. Zone calme pour la relaxation, la lecture ou l'exercice léger. Comporte des plantes et des arbres natifs, créant un oasis de paix dans le quartier.",
+          "shortDescription": "Oasis de paix avec espaces verts et chemins de promenade."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer de la Cisa",
+          "number": "s/n",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4924,
+          "lng": 2.2635
+        }
+      },
+      "contact": {
+        "phone": "+34 93 XXX XX XX",
+        "email": null,
+        "website": null,
+        "socialMedia": {
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "open": "09:00",
+            "close": "14:00"
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "parking",
+        "accessible",
+        "outdoor_seating",
+        "pet_friendly",
+        "scenic_views"
+      ],
+      "images": [],
+      "tags": [
+        "parque",
+        "naturaleza",
+        "relax",
+        "paseos",
+        "tiana"
+      ]
+    },
+    {
+      "id": "oficina-de-correus-tiana",
+      "type": "commerce",
+      "category": "services",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Oficina de Correus",
+          "description": "L'oficina de correus a Tiana ofereix serveis de correu, enviament de paquets, banca postal i serveis administratius. Gestiona enviaments nacionals i internacionals, correu registrat i productes postals.",
+          "shortDescription": "Serveis de correu i enviament a Tiana."
+        },
+        "es": {
+          "name": "Oficina de Correos",
+          "description": "La oficina de correos en Tiana proporciona servicios de correo, envío de paquetes, banca postal y servicios administrativos. Maneja envíos nacionales e internacionales, correo registrado y productos postales.",
+          "shortDescription": "Servicios de correo y envío en Tiana."
+        },
+        "en": {
+          "name": "Post Office",
+          "description": "The post office in Tiana offers mail services, package shipping, postal banking, and administrative services. It handles national and international shipping, registered mail, and postal products.",
+          "shortDescription": "Mail and shipping services in Tiana."
+        },
+        "fr": {
+          "name": "Bureau de Poste",
+          "description": "Le bureau de poste à Tiana offre des services de courrier, d'expédition de colis, de banque postale et de services administratifs. Il gère les expéditions nationales et internationales, le courrier enregistré et les produits postaux.",
+          "shortDescription": "Services de courrier et d'expédition à Tiana."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer Major",
+          "number": "15",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4924,
+          "lng": 2.2634
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 70 00",
+        "email": null,
+        "website": null,
+        "socialMedia": {
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "closed": true
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "accessible",
+        "air_conditioning",
+        "card_payment"
+      ],
+      "images": [],
+      "tags": [
+        "correu",
+        "enviaments",
+        "serveis postals",
+        "banca postal"
+      ]
+    },
+    {
+      "id": "restaurant-el-raco-de-tiana",
+      "type": "commerce",
+      "category": "restaurants",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Restaurant El Racó de Tiana",
+          "description": "Restaurant contemporani de cuina mediterrània que ofereix una cuina creativa amb ingredients locals. Menú de temporada, menús de degustació disponibles. Ambient elegant ideal per a ocasions especials.",
+          "shortDescription": "Cuina mediterrània creativa amb ingredients locals."
+        },
+        "es": {
+          "name": "Restaurante El Racó de Tiana",
+          "description": "Restaurante contemporáneo de cocina mediterránea que ofrece una cocina creativa con ingredientes locales. Menú de temporada, menús de degustación disponibles. Ambiente elegante adecuado para ocasiones especiales.",
+          "shortDescription": "Cocina mediterránea creativa con ingredientes locales."
+        },
+        "en": {
+          "name": "Restaurant El Racó de Tiana",
+          "description": "Contemporary Mediterranean restaurant offering creative cuisine with local ingredients. Seasonal menu, tasting menus available. Elegant ambiance suitable for special occasions.",
+          "shortDescription": "Creative Mediterranean cuisine with local ingredients."
+        },
+        "fr": {
+          "name": "Restaurant Le Coin de Tiana",
+          "description": "Restaurant méditerranéen contemporain proposant une cuisine créative avec des ingrédients locaux. Menu saisonnier, menus dégustation disponibles. Ambiance élégante adaptée aux occasions spéciales.",
+          "shortDescription": "Cuisine méditerranéenne créative avec des ingrédients locaux."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer Major",
+          "number": "23",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4924,
+          "lng": 2.2626
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 78 27",
+        "email": null,
+        "website": "https://elracodetiana.com",
+        "socialMedia": {
+          "instagram": "elracodetiana",
+          "facebook": "https://www.facebook.com/elracodetiana",
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "closed": true
+          },
+          "tuesday": {
+            "open": "13:00",
+            "close": "15:30",
+            "secondOpen": "20:00",
+            "secondClose": "23:00"
+          },
+          "wednesday": {
+            "open": "13:00",
+            "close": "15:30",
+            "secondOpen": "20:00",
+            "secondClose": "23:00"
+          },
+          "thursday": {
+            "open": "13:00",
+            "close": "15:30",
+            "secondOpen": "20:00",
+            "secondClose": "23:00"
+          },
+          "friday": {
+            "open": "13:00",
+            "close": "15:30",
+            "secondOpen": "20:00",
+            "secondClose": "23:00"
+          },
+          "saturday": {
+            "open": "13:00",
+            "close": "15:30",
+            "secondOpen": "20:00",
+            "secondClose": "23:00"
+          },
+          "sunday": {
+            "open": "13:00",
+            "close": "15:30"
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "parking",
+        "accessible",
+        "terrace",
+        "card_payment",
+        "outdoor_seating"
+      ],
+      "images": [],
+      "tags": [
+        "cuina local",
+        "menú degustació",
+        "ambient elegant",
+        "reserves",
+        "Tiana"
+      ]
+    },
+    {
+      "id": "supermercat-tiana",
+      "type": "commerce",
+      "category": "shops",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Supermercat Tiana",
+          "description": "Supermercat local que ofereix productes frescos, carn, làctics, articles de la llar i productes de cura personal. Ubicació convenient, preus competitius i servei personalitzat.",
+          "shortDescription": "El teu supermercat de confiança a Tiana."
+        },
+        "es": {
+          "name": "Supermercado Tiana",
+          "description": "Supermercado local que proporciona comestibles diarios, productos frescos, carne, lácteos, artículos para el hogar y productos de cuidado personal. Ubicación conveniente, precios competitivos y servicio personal.",
+          "shortDescription": "Tu supermercado de confianza en Tiana."
+        },
+        "en": {
+          "name": "Supermercat Tiana",
+          "description": "Local supermarket offering daily groceries, fresh produce, meat, dairy, household items, and personal care products. Convenient location, competitive prices, and personal service.",
+          "shortDescription": "Your trusted supermarket in Tiana."
+        },
+        "fr": {
+          "name": "Supermarché Tiana",
+          "description": "Supermarché local offrant des produits d'épicerie quotidiens, des produits frais, de la viande, des produits laitiers, des articles ménagers et des produits de soin personnel. Emplacement pratique, prix compétitifs et service personnalisé.",
+          "shortDescription": "Votre supermarché de confiance à Tiana."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Carrer de la Marina",
+          "number": "23",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4935,
+          "lng": 2.2635
+        }
+      },
+      "contact": {
+        "phone": "+34 93 395 78 25",
+        "email": null,
+        "website": null,
+        "socialMedia": {
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "tuesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "wednesday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "thursday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "friday": {
+            "open": "09:00",
+            "close": "14:00",
+            "secondOpen": "17:00",
+            "secondClose": "20:00"
+          },
+          "saturday": {
+            "open": "09:00",
+            "close": "14:00"
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "wifi",
+        "parking",
+        "accessible",
+        "card_payment"
+      ],
+      "images": [],
+      "tags": [
+        "supermercado",
+        "comestibles",
+        "frescos",
+        "Tiana",
+        "compra diaria"
+      ]
+    },
+    {
+      "id": "cami-de-can-bosch",
+      "type": "poi",
+      "category": "nature",
+      "featured": false,
+      "active": true,
+      "translations": {
+        "ca": {
+          "name": "Camí de Can Bosch",
+          "description": "Una ruta escènica que connecta Tiana amb el seu entorn natural. Popular entre caminants, corredors i ciclistes, ofereix vistes al Mediterrani i als turons circundants.",
+          "shortDescription": "Ruta escènica per caminar, córrer i anar en bicicleta."
+        },
+        "es": {
+          "name": "Camí de Can Bosch",
+          "description": "Sendero pintoresco que conecta Tiana con su entorno natural. Ruta popular para caminar, correr y ciclismo, ofrece vistas al Mediterráneo y las colinas circundantes.",
+          "shortDescription": "Sendero escénico para caminar, correr y ciclismo."
+        },
+        "en": {
+          "name": "Camí de Can Bosch",
+          "description": "Scenic walking trail connecting Tiana with its natural surroundings. Popular route for walking, jogging, and cycling, it offers views of the Mediterranean and surrounding hills.",
+          "shortDescription": "Scenic trail for walking, jogging, and cycling."
+        },
+        "fr": {
+          "name": "Camí de Can Bosch",
+          "description": "Chemin pittoresque reliant Tiana à son environnement naturel. Parcours populaire pour la marche, le jogging et le cyclisme, offrant des vues sur la Méditerranée et les collines environnantes.",
+          "shortDescription": "Chemin pittoresque pour marcher, courir et faire du vélo."
+        }
+      },
+      "location": {
+        "address": {
+          "street": "Camí de Can Bosch",
+          "number": "",
+          "postalCode": "08391",
+          "city": "Tiana",
+          "province": "Barcelona",
+          "country": "Spain"
+        },
+        "coordinates": {
+          "lat": 41.4927,
+          "lng": 2.2627
+        }
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "socialMedia": {
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
+        }
+      },
+      "schedule": {
+        "timezone": "Europe/Madrid",
+        "regularHours": {
+          "monday": {
+            "closed": true
+          },
+          "tuesday": {
+            "closed": true
+          },
+          "wednesday": {
+            "closed": true
+          },
+          "thursday": {
+            "closed": true
+          },
+          "friday": {
+            "closed": true
+          },
+          "saturday": {
+            "closed": true
+          },
+          "sunday": {
+            "closed": true
+          }
+        }
+      },
+      "features": [
+        "scenic_views",
+        "pet_friendly",
+        "outdoor_seating"
+      ],
+      "images": [],
+      "tags": [
+        "senderismo",
+        "naturaleza",
+        "Tiana",
+        "vistas al mar",
+        "ciclismo"
+      ]
+    }
+  ],
+  "events": [],
+  "features": {}
+}

@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2025-12-30T16:49:42.852366+00:00",
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2025-12-30T16:49:42.852695+00:00",
+      "changes": [
+        "Initial release with 24 places",
+        "Multi-language support (ca, es, en, fr)",
+        "Generated with LLM orchestration"
+      ]
+    }
+  ]
+}
