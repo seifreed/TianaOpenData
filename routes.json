@@ -1,26 +1,385 @@
 [
   {
-    "id": "ruta-centre-tiana",
+    "id": "ruta-cultural-centre",
     "name": {
-      "ca": "Passeig pel centre de Tiana",
-      "es": "Paseo por el centro de Tiana",
-      "en": "Walk through central Tiana"
+      "ca": "Ruta cultural pel centre",
+      "es": "Ruta cultural por el centro",
+      "en": "Cultural route through the centre"
     },
     "description": {
-      "ca": "Ruta curta per descobrir punts bàsics del nucli urbà.",
-      "es": "Ruta corta para descubrir puntos básicos del núcleo urbano.",
-      "en": "Short route for discovering basic points in the town centre."
+      "ca": "Itinerari cultural per Can Baratau, el Jardí Lola Anglada, les sales culturals i l’entorn del centre. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
+      "es": "Itinerari cultural per Can Baratau, el Jardí Lola Anglada, les sales culturals i l’entorn del centre. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Itinerari cultural per Can Baratau, el Jardí Lola Anglada, les sales culturals i l’entorn del centre. Source: Ajuntament de Tiana. Approximate track based on published points."
     },
     "difficulty": "easy",
-    "estimated_time_min": 30,
+    "estimated_time_min": 60,
     "geometry": {
       "type": "LineString",
       "coordinates": [
-        [2.2674, 41.4822],
-        [2.2683, 41.483]
+        [
+          2.2690124900283224,
+          41.48354198048145
+        ],
+        [
+          2.2692745865005968,
+          41.48220935279997
+        ],
+        [
+          2.268286312779468,
+          41.483480585405424
+        ],
+        [
+          2.268286312779469,
+          41.483480585405424
+        ],
+        [
+          2.268688259341542,
+          41.48424256725424
+        ]
       ]
     },
-    "related_pois": ["tiana-ajuntament"],
+    "related_pois": [
+      "biblioteca-can-baratau",
+      "jardi-lola-anglada",
+      "sala-albeniz",
+      "sala-sant-jordi",
+      "can-riera"
+    ],
+    "last_updated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "ruta-saludable-esportiva",
+    "name": {
+      "ca": "Ruta saludable esportiva",
+      "es": "Ruta saludable deportiva",
+      "en": "Healthy sports route"
+    },
+    "description": {
+      "ca": "Ruta saludable vinculada als equipaments esportius municipals. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
+      "es": "Ruta saludable vinculada als equipaments esportius municipals. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Ruta saludable vinculada als equipaments esportius municipals. Source: Ajuntament de Tiana. Approximate track based on published points."
+    },
+    "difficulty": "easy",
+    "estimated_time_min": 50,
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          2.2618447821106327,
+          41.49169059668916
+        ],
+        [
+          2.2619306127985674,
+          41.49162630502592
+        ],
+        [
+          2.2619306127985674,
+          41.49162630502592
+        ],
+        [
+          2.2655972514124576,
+          41.48713030568381
+        ]
+      ]
+    },
+    "related_pois": [
+      "camp-de-futbol-municipal",
+      "piscina-municipal-de-tiana",
+      "duet-sports-jordi-mari",
+      "parc-esportiu-de-can-puigcarbo"
+    ],
+    "last_updated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "ruta-vinya-i-vi",
+    "name": {
+      "ca": "Ruta de la vinya i el vi",
+      "es": "Ruta de la viña y el vino",
+      "en": "Vineyard and wine route"
+    },
+    "description": {
+      "ca": "Ruta saludable per l’entorn rural i el paisatge agrícola de Tiana. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
+      "es": "Ruta saludable per l’entorn rural i el paisatge agrícola de Tiana. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Ruta saludable per l’entorn rural i el paisatge agrícola de Tiana. Source: Ajuntament de Tiana. Approximate track based on published points."
+    },
+    "difficulty": "medium",
+    "estimated_time_min": 75,
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          2.267687736567387,
+          41.47413664562465
+        ],
+        [
+          2.2683743820708626,
+          41.4742652635969
+        ],
+        [
+          2.267687736567387,
+          41.47413664562465
+        ],
+        [
+          2.264,
+          41.476
+        ],
+        [
+          2.258,
+          41.481
+        ]
+      ]
+    },
+    "related_pois": [
+      "naturaula",
+      "parc-del-tramvia",
+      "zona-esbarjo-per-gossos-parc-del-tramvia"
+    ],
+    "last_updated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "ruta-rural-i-forestal",
+    "name": {
+      "ca": "Ruta rural i forestal",
+      "es": "Ruta rural y forestal",
+      "en": "Rural and forest route"
+    },
+    "description": {
+      "ca": "Ruta saludable pels espais naturals i forestals del municipi. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
+      "es": "Ruta saludable pels espais naturals i forestals del municipi. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Ruta saludable pels espais naturals i forestals del municipi. Source: Ajuntament de Tiana. Approximate track based on published points."
+    },
+    "difficulty": "medium",
+    "estimated_time_min": 90,
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          2.2651915841032,
+          41.47979490372
+        ],
+        [
+          2.267687736567387,
+          41.47413664562465
+        ],
+        [
+          2.2619306127985674,
+          41.49162630502592
+        ],
+        [
+          2.257,
+          41.495
+        ]
+      ]
+    },
+    "related_pois": [
+      "bosquet-de-can-tramuntana",
+      "naturaula",
+      "observatori-astronomic-de-tiana"
+    ],
+    "last_updated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "ruta-vall-montalegre",
+    "name": {
+      "ca": "La vall de Montalegre",
+      "es": "El valle de Montalegre",
+      "en": "Montalegre valley"
+    },
+    "description": {
+      "ca": "Ruta de la Serralada de Marina per l’entorn de Montalegre. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
+      "es": "Ruta de la Serralada de Marina per l’entorn de Montalegre. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Ruta de la Serralada de Marina per l’entorn de Montalegre. Source: Ajuntament de Tiana. Approximate track based on published points."
+    },
+    "difficulty": "medium",
+    "estimated_time_min": 120,
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          2.2619306127985674,
+          41.49162630502592
+        ],
+        [
+          2.2679043207331127,
+          41.490848528172926
+        ],
+        [
+          2.266,
+          41.499
+        ],
+        [
+          2.274,
+          41.501
+        ]
+      ]
+    },
+    "related_pois": [
+      "observatori-astronomic-de-tiana",
+      "cementiri"
+    ],
+    "last_updated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "ruta-font-alba-conreria",
+    "name": {
+      "ca": "De la font de l’Alba a la Conreria",
+      "es": "De la fuente del Alba a la Conreria",
+      "en": "From Font de l’Alba to La Conreria"
+    },
+    "description": {
+      "ca": "Ruta de la Serralada de Marina entre la font de l’Alba i la Conreria. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
+      "es": "Ruta de la Serralada de Marina entre la font de l’Alba i la Conreria. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Ruta de la Serralada de Marina entre la font de l’Alba i la Conreria. Source: Ajuntament de Tiana. Approximate track based on published points."
+    },
+    "difficulty": "medium",
+    "estimated_time_min": 100,
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          2.2619306127985674,
+          41.49162630502592
+        ],
+        [
+          2.268,
+          41.494
+        ],
+        [
+          2.253,
+          41.5
+        ]
+      ]
+    },
+    "related_pois": [
+      "observatori-astronomic-de-tiana"
+    ],
+    "last_updated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "ruta-turo-galceran",
+    "name": {
+      "ca": "De Tiana al turó d’en Galceran",
+      "es": "De Tiana al turó d’en Galceran",
+      "en": "From Tiana to Turó d’en Galceran"
+    },
+    "description": {
+      "ca": "Ruta de la Serralada de Marina cap al turó d’en Galceran. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
+      "es": "Ruta de la Serralada de Marina cap al turó d’en Galceran. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Ruta de la Serralada de Marina cap al turó d’en Galceran. Source: Ajuntament de Tiana. Approximate track based on published points."
+    },
+    "difficulty": "hard",
+    "estimated_time_min": 130,
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          2.2692745865005968,
+          41.48220935279997
+        ],
+        [
+          2.2619306127985674,
+          41.49162630502592
+        ],
+        [
+          2.246,
+          41.503
+        ]
+      ]
+    },
+    "related_pois": [
+      "jardi-lola-anglada",
+      "observatori-astronomic-de-tiana"
+    ],
+    "last_updated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "ruta-el-rocar",
+    "name": {
+      "ca": "El Rocar",
+      "es": "El Rocar",
+      "en": "El Rocar"
+    },
+    "description": {
+      "ca": "Itinerari de la Serralada de Marina per l’àmbit del Rocar. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
+      "es": "Itinerari de la Serralada de Marina per l’àmbit del Rocar. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Itinerari de la Serralada de Marina per l’àmbit del Rocar. Source: Ajuntament de Tiana. Approximate track based on published points."
+    },
+    "difficulty": "medium",
+    "estimated_time_min": 80,
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          2.2679043207331127,
+          41.490848528172926
+        ],
+        [
+          2.2679043207331127,
+          41.490848528172926
+        ],
+        [
+          2.2619306127985674,
+          41.49162630502592
+        ],
+        [
+          2.264,
+          41.493
+        ]
+      ]
+    },
+    "related_pois": [
+      "cementiri",
+      "espai-de-dol-perinatal",
+      "observatori-astronomic-de-tiana"
+    ],
+    "last_updated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "ruta-inclusiva-centre",
+    "name": {
+      "ca": "Itinerari inclusiu pel centre",
+      "es": "Itinerario inclusivo por el centro",
+      "en": "Inclusive town-centre route"
+    },
+    "description": {
+      "ca": "Itinerari inclusiu curt pels serveis i espais centrals del municipi. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
+      "es": "Itinerari inclusiu curt pels serveis i espais centrals del municipi. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Itinerari inclusiu curt pels serveis i espais centrals del municipi. Source: Ajuntament de Tiana. Approximate track based on published points."
+    },
+    "difficulty": "easy",
+    "estimated_time_min": 35,
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          2.2690124900283224,
+          41.48354198048145
+        ],
+        [
+          2.2692745865005968,
+          41.48220935279997
+        ],
+        [
+          2.268087382086642,
+          41.48103802571468
+        ],
+        [
+          2.2717415264145195,
+          41.479250083321325
+        ],
+        [
+          2.268280420714996,
+          41.482739890294354
+        ]
+      ]
+    },
+    "related_pois": [
+      "biblioteca-can-baratau",
+      "jardi-lola-anglada",
+      "centre-de-salut",
+      "serveis-socials",
+      "llar-de-persones-grans"
+    ],
     "last_updated": "2026-06-30T00:00:00.000Z"
   }
 ]

@@ -1,29 +1,1743 @@
 [
   {
-    "id": "tiana-ajuntament",
-    "type": "culture",
+    "id": "aparcament-public-carrer-verge-del-pilar",
+    "type": "nature",
     "geometry": {
       "type": "Point",
-      "coordinates": [2.2674, 41.4822]
+      "coordinates": [
+        2.269603490029409,
+        41.484914453873074
+      ]
     },
     "properties": {
       "name": {
-        "ca": "Ajuntament de Tiana",
-        "es": "Ayuntamiento de Tiana",
-        "en": "Tiana Town Hall"
+        "ca": "Aparcament públic carrer Verge del PIlar",
+        "es": "Aparcament públic carrer Verge del PIlar",
+        "en": "Aparcament públic carrer Verge del PIlar"
       },
       "description": {
-        "ca": "Punt institucional de referencia al centre de Tiana.",
-        "es": "Punto institucional de referencia en el centro de Tiana.",
-        "en": "Institutional reference point in central Tiana."
+        "ca": "Aprcament al costat de la Plaça de la Vila Adreça: c/ Verge del Pilar. Font: Ajuntament de Tiana.",
+        "es": "Aprcament al costat de la Plaça de la Vila Dirección: c/ Verge del Pilar. Fuente: Ajuntament de Tiana.",
+        "en": "Aprcament al costat de la Plaça de la Vila Address: c/ Verge del Pilar. Source: Ajuntament de Tiana."
       },
-      "tags": ["institucional", "centre", "serveis"],
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/",
+        "adreca:c/ Verge del Pilar"
+      ],
       "accessibility": {
-        "wheelchair": true,
-        "baby_stroller": true,
-        "low_vision": true
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
       },
-      "images": [],
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/APARCAMENT-VERGE-DEL-PILAR-2-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "aparcament-public-catequistica",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2677607701787466,
+        41.48497379749408
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Aparcament públic Catequística",
+        "es": "Aparcament públic Catequística",
+        "en": "Aparcament públic Catequística"
+      },
+      "description": {
+        "ca": "Aparcament casa de la Palmera Adreça: Carrer Edith Llaurador, 7, 08391 Tiana, Barcelona. Font: Ajuntament de Tiana.",
+        "es": "Aparcament casa de la Palmera Dirección: Carrer Edith Llaurador, 7, 08391 Tiana, Barcelona. Fuente: Ajuntament de Tiana.",
+        "en": "Aparcament casa de la Palmera Address: Carrer Edith Llaurador, 7, 08391 Tiana, Barcelona. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/",
+        "adreca:Carrer Edith Llaurador, 7, 08391 Tiana, Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/APARCAMENT-CATEQUISTICA-3-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "aparcament-public-de-l-esglesia",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268610635537714,
+        41.4858550377261
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Aparcament públic de l’Església",
+        "es": "Aparcament públic de l’Església",
+        "en": "Aparcament públic de l’Església"
+      },
+      "description": {
+        "ca": "Aparcament de l’Església Adreça: C/ sant Cebrià, 24. Font: Ajuntament de Tiana.",
+        "es": "Aparcament de l’Església Dirección: C/ sant Cebrià, 24. Fuente: Ajuntament de Tiana.",
+        "en": "Aparcament de l’Església Address: C/ sant Cebrià, 24. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/",
+        "adreca:C/ sant Cebrià, 24"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/APARCAMENT-ESGLESIA-1-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "biblioteca-can-baratau",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2690124900283224,
+        41.48354198048145
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Biblioteca Can Baratau",
+        "es": "Biblioteca Can Baratau",
+        "en": "Biblioteca Can Baratau"
+      },
+      "description": {
+        "ca": "És un servei públic municipal, obert a tota la població. Ofereix un fons de 28.000 llibres, 7.000 documents audiovisuals, 150 títols de revistes i diaris, i un fons de col·lecció local a disposició de tota la població que ho necessiti. Adreça: c. Lola Anglada, 10 - 08391 Tiana - Barcelona (Catalunya). Telèfon: 934 657 741. Web: http://biblioteca.tianat.cat. Font: Ajuntament de Tiana.",
+        "es": "És un servei públic municipal, obert a tota la població. Ofereix un fons de 28.000 llibres, 7.000 documents audiovisuals, 150 títols de revistes i diaris, i un fons de col·lecció local a disposició de tota la població que ho necessiti. Dirección: c. Lola Anglada, 10 - 08391 Tiana - Barcelona (Catalunya). Teléfono: 934 657 741. Web: http://biblioteca.tianat.cat. Fuente: Ajuntament de Tiana.",
+        "en": "És un servei públic municipal, obert a tota la població. Ofereix un fons de 28.000 llibres, 7.000 documents audiovisuals, 150 títols de revistes i diaris, i un fons de col·lecció local a disposició de tota la població que ho necessiti. Address: c. Lola Anglada, 10 - 08391 Tiana - Barcelona (Catalunya). Phone: 934 657 741. Web: http://biblioteca.tianat.cat. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/",
+        "adreca:c. Lola Anglada, 10 - 08391 Tiana - Barcelona (Catalunya)",
+        "telefon:934 657 741",
+        "web:http://biblioteca.tianat.cat"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/BIBLIOTECA-CAN-BARATAU-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "bosquet-de-can-tramuntana",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2651915841032,
+        41.47979490372
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Bosquet de can Tramuntana",
+        "es": "Bosquet de can Tramuntana",
+        "en": "Bosquet de can Tramuntana"
+      },
+      "description": {
+        "ca": "Equipament o lloc d’interès de Tiana. Adreça: Camí de Can Basora, 3, 08391 Tiana, Barcelona. Font: Ajuntament de Tiana.",
+        "es": "Equipament o lloc d’interès de Tiana. Dirección: Camí de Can Basora, 3, 08391 Tiana, Barcelona. Fuente: Ajuntament de Tiana.",
+        "en": "Equipament o lloc d’interès de Tiana. Address: Camí de Can Basora, 3, 08391 Tiana, Barcelona. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/",
+        "adreca:Camí de Can Basora, 3, 08391 Tiana, Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/BOSQUET-CAN-TRAMUNTANA-2-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "camp-de-futbol-municipal",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2618447821106327,
+        41.49169059668916
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Camp de Futbol Municipal",
+        "es": "Camp de Futbol Municipal",
+        "en": "Camp de Futbol Municipal"
+      },
+      "description": {
+        "ca": "La instal·lació esportiva compta amb un ampli camp de futbol 11 de gespa artificial amb la possibilitat de dividir-lo en 2 camps de futbol 7. A més, també disposa de 6 vestidors grupals, 2 vestidors per àrbitres i servei de bar. Adreça: Av. Eduard Fontseré, s/n - 08391 Tiana - Barcelona (Catalunya). Telèfon: 933 955 011. Font: Ajuntament de Tiana.",
+        "es": "La instal·lació esportiva compta amb un ampli camp de futbol 11 de gespa artificial amb la possibilitat de dividir-lo en 2 camps de futbol 7. A més, també disposa de 6 vestidors grupals, 2 vestidors per àrbitres i servei de bar. Dirección: Av. Eduard Fontseré, s/n - 08391 Tiana - Barcelona (Catalunya). Teléfono: 933 955 011. Fuente: Ajuntament de Tiana.",
+        "en": "La instal·lació esportiva compta amb un ampli camp de futbol 11 de gespa artificial amb la possibilitat de dividir-lo en 2 camps de futbol 7. A més, també disposa de 6 vestidors grupals, 2 vestidors per àrbitres i servei de bar. Address: Av. Eduard Fontseré, s/n - 08391 Tiana - Barcelona (Catalunya). Phone: 933 955 011. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/2/",
+        "adreca:Av. Eduard Fontseré, s/n - 08391 Tiana - Barcelona (Catalunya)",
+        "telefon:933 955 011"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/CAMP-DE-FUTBOL-MUNICIPAL-2-1-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "can-riera",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268688259341542,
+        41.48424256725424
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Riera",
+        "es": "Can Riera",
+        "en": "Can Riera"
+      },
+      "description": {
+        "ca": "Masia de Can Riera, espa cultural i polivalent. Adreça: c. Lola Anglada - 08391 Tiana - Barcelona (Catalunya). Telèfon: 933 955 011. Font: Ajuntament de Tiana.",
+        "es": "Masia de Can Riera, espa cultural i polivalent. Dirección: c. Lola Anglada - 08391 Tiana - Barcelona (Catalunya). Teléfono: 933 955 011. Fuente: Ajuntament de Tiana.",
+        "en": "Masia de Can Riera, espa cultural i polivalent. Address: c. Lola Anglada - 08391 Tiana - Barcelona (Catalunya). Phone: 933 955 011. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/2/",
+        "adreca:c. Lola Anglada - 08391 Tiana - Barcelona (Catalunya)",
+        "telefon:933 955 011"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/CAN-RIERA-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "cementiri",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2679043207331127,
+        41.490848528172926
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Cementiri",
+        "es": "Cementiri",
+        "en": "Cementiri"
+      },
+      "description": {
+        "ca": "Equipament o lloc d’interès de Tiana. Adreça: Camí del Cementiri, s/n - 08391 Tiana - Barcelona (Catalunya). Telèfon: 933 955 011. Font: Ajuntament de Tiana.",
+        "es": "Equipament o lloc d’interès de Tiana. Dirección: Camí del Cementiri, s/n - 08391 Tiana - Barcelona (Catalunya). Teléfono: 933 955 011. Fuente: Ajuntament de Tiana.",
+        "en": "Equipament o lloc d’interès de Tiana. Address: Camí del Cementiri, s/n - 08391 Tiana - Barcelona (Catalunya). Phone: 933 955 011. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/2/",
+        "adreca:Camí del Cementiri, s/n - 08391 Tiana - Barcelona (Catalunya)",
+        "telefon:933 955 011"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/CEMENTIRI-2-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "centre-de-salut",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268087382086642,
+        41.48103802571468
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Centre de salut",
+        "es": "Centre de salut",
+        "en": "Centre de salut"
+      },
+      "description": {
+        "ca": "Consultori d’atenció primària de Tiana Adreça: C/Franci 9. Telèfon: 934603900. Font: Ajuntament de Tiana.",
+        "es": "Consultori d’atenció primària de Tiana Dirección: C/Franci 9. Teléfono: 934603900. Fuente: Ajuntament de Tiana.",
+        "en": "Consultori d’atenció primària de Tiana Address: C/Franci 9. Phone: 934603900. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/2/",
+        "adreca:C/Franci 9",
+        "telefon:934603900"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2023/02/IMG_2175-300x225.jpeg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "deixalleria-municipal-de-tiana-i-montgat",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2619306127985674,
+        41.49162630502591
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Deixalleria Municipal de Tiana i Montgat",
+        "es": "Deixalleria Municipal de Tiana i Montgat",
+        "en": "Deixalleria Municipal de Tiana i Montgat"
+      },
+      "description": {
+        "ca": "La Deixalleria és el centre de recepció i emmagatzematge selectiu de residus municipals que no són objecte de recollida domiciliària. Adreça: Av. Eduard Fontseré, s/n - 08391 Tiana - Barcelona (Catalunya). Telèfon: 933 953 588. Font: Ajuntament de Tiana.",
+        "es": "La Deixalleria és el centre de recepció i emmagatzematge selectiu de residus municipals que no són objecte de recollida domiciliària. Dirección: Av. Eduard Fontseré, s/n - 08391 Tiana - Barcelona (Catalunya). Teléfono: 933 953 588. Fuente: Ajuntament de Tiana.",
+        "en": "La Deixalleria és el centre de recepció i emmagatzematge selectiu de residus municipals que no són objecte de recollida domiciliària. Address: Av. Eduard Fontseré, s/n - 08391 Tiana - Barcelona (Catalunya). Phone: 933 953 588. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/2/",
+        "adreca:Av. Eduard Fontseré, s/n - 08391 Tiana - Barcelona (Catalunya)",
+        "telefon:933 953 588"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/DEIXALLERIA-1-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "duet-sports-jordi-mari",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2619306127985674,
+        41.49162630502592
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Duet Sports – Jordi Marí",
+        "es": "Duet Sports – Jordi Marí",
+        "en": "Duet Sports – Jordi Marí"
+      },
+      "description": {
+        "ca": "gimnàs esportiu del municpi. Adreça: Av. Eduard Fonserè, s/n - 08391 Tiana - Barcelona. Telèfon: 934 970 309. Web: https://jordimari.duetsports.com/ES/Centers/Details/tiana. Font: Ajuntament de Tiana.",
+        "es": "gimnàs esportiu del municpi. Dirección: Av. Eduard Fonserè, s/n - 08391 Tiana - Barcelona. Teléfono: 934 970 309. Web: https://jordimari.duetsports.com/ES/Centers/Details/tiana. Fuente: Ajuntament de Tiana.",
+        "en": "gimnàs esportiu del municpi. Address: Av. Eduard Fonserè, s/n - 08391 Tiana - Barcelona. Phone: 934 970 309. Web: https://jordimari.duetsports.com/ES/Centers/Details/tiana. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/3/",
+        "adreca:Av. Eduard Fonserè, s/n - 08391 Tiana - Barcelona",
+        "telefon:934 970 309",
+        "web:https://jordimari.duetsports.com/ES/Centers/Details/tiana"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/JORDI-MARI-ALARGADA-scaled-1-300x173.jpeg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "escola-bressol-municipal-de-tiana",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.272183851232891,
+        41.480139033485884
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Escola bressol municipal de Tiana",
+        "es": "Escola bressol municipal de Tiana",
+        "en": "Escola bressol municipal de Tiana"
+      },
+      "description": {
+        "ca": "L’escola bressol El Més Petit de Tots ofereix a l’infant sentir-se segur, tot creant un ambient positiu en un entorn de protecció i afecte. Més info. Adreça: c. Can Gaietà, 2–6 i c. Josep París, 12 (Escorxador) - 08391 Tiana, Barcelona. Telèfon: 93 465 82 89. Font: Ajuntament de Tiana.",
+        "es": "L’escola bressol El Més Petit de Tots ofereix a l’infant sentir-se segur, tot creant un ambient positiu en un entorn de protecció i afecte. Més info. Dirección: c. Can Gaietà, 2–6 i c. Josep París, 12 (Escorxador) - 08391 Tiana, Barcelona. Teléfono: 93 465 82 89. Fuente: Ajuntament de Tiana.",
+        "en": "L’escola bressol El Més Petit de Tots ofereix a l’infant sentir-se segur, tot creant un ambient positiu en un entorn de protecció i afecte. Més info. Address: c. Can Gaietà, 2–6 i c. Josep París, 12 (Escorxador) - 08391 Tiana, Barcelona. Phone: 93 465 82 89. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/3/",
+        "adreca:c. Can Gaietà, 2–6 i c. Josep París, 12 (Escorxador) - 08391 Tiana, Barcelona",
+        "telefon:93 465 82 89"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2025/09/Escola-bressol-10-300x225.jpeg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "escola-d-adults-timo",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.274278415676568,
+        41.47242940950225
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Escola d’Adults Timó",
+        "es": "Escola d’Adults Timó",
+        "en": "Escola d’Adults Timó"
+      },
+      "description": {
+        "ca": "L’escola Timó es un punt d’informació i orientació del programa Acredita’t. És un centre municipal de formació de persones adultes on s’ofereixen metodologies per a adults, en un entorn de respecte, intercanvi i igualtat que afavoreix el procés d’aprenentatge. Més inflo. Adreça: Camí Vell a Tiana, s/n (cantonada carrer Matas)- 08391 Tiana, Barcelona. Telèfon: 934 690 172. Font: Ajuntament de Tiana.",
+        "es": "L’escola Timó es un punt d’informació i orientació del programa Acredita’t. És un centre municipal de formació de persones adultes on s’ofereixen metodologies per a adults, en un entorn de respecte, intercanvi i igualtat que afavoreix el procés d’aprenentatge. Més inflo. Dirección: Camí Vell a Tiana, s/n (cantonada carrer Matas)- 08391 Tiana, Barcelona. Teléfono: 934 690 172. Fuente: Ajuntament de Tiana.",
+        "en": "L’escola Timó es un punt d’informació i orientació del programa Acredita’t. És un centre municipal de formació de persones adultes on s’ofereixen metodologies per a adults, en un entorn de respecte, intercanvi i igualtat que afavoreix el procés d’aprenentatge. Més inflo. Address: Camí Vell a Tiana, s/n (cantonada carrer Matas)- 08391 Tiana, Barcelona. Phone: 934 690 172. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/3/",
+        "adreca:Camí Vell a Tiana, s/n (cantonada carrer Matas)- 08391 Tiana, Barcelona",
+        "telefon:934 690 172"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2023/02/ESCOLA-D_ADULTS-1-1536x841-1-300x164.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "escola-lola-anglada",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268910555552646,
+        41.47815804736086
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Escola Lola Anglada",
+        "es": "Escola Lola Anglada",
+        "en": "Escola Lola Anglada"
+      },
+      "description": {
+        "ca": "L’escola Lola Anglada som una escola arrelada al nostre entorn. Acompanyem l’alumnat en el seu projecte de creixement personal i educatiu, ja que el nostre objectiu és que rebi una educació que el capaciti per a la participació activa i responsable dins de la societat on haurà de viure. Més info. Adreça: Castellar, 7 - 08391 Tiana, Barcelona. Web: https://escolalolaangladatiana.info. Font: Ajuntament de Tiana.",
+        "es": "L’escola Lola Anglada som una escola arrelada al nostre entorn. Acompanyem l’alumnat en el seu projecte de creixement personal i educatiu, ja que el nostre objectiu és que rebi una educació que el capaciti per a la participació activa i responsable dins de la societat on haurà de viure. Més info. Dirección: Castellar, 7 - 08391 Tiana, Barcelona. Web: https://escolalolaangladatiana.info. Fuente: Ajuntament de Tiana.",
+        "en": "L’escola Lola Anglada som una escola arrelada al nostre entorn. Acompanyem l’alumnat en el seu projecte de creixement personal i educatiu, ja que el nostre objectiu és que rebi una educació que el capaciti per a la participació activa i responsable dins de la societat on haurà de viure. Més info. Address: Castellar, 7 - 08391 Tiana, Barcelona. Web: https://escolalolaangladatiana.info. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/3/",
+        "adreca:Castellar, 7 - 08391 Tiana, Barcelona",
+        "web:https://escolalolaangladatiana.info"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2023/02/IMG_6316-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "escola-municipal-de-musica-i-dansa",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.272803731298091,
+        41.4785508598649
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Escola municipal de Música i Dansa",
+        "es": "Escola municipal de Música i Dansa",
+        "en": "Escola municipal de Música i Dansa"
+      },
+      "description": {
+        "ca": "L’Escola Municipal de Música i Dansa, autoritzada per la Generalitat de Catalunya, ofereix espais i formació en música i dansa de manera pràctica i creativa. L’escola compta amb programes per a totes les edats i un ampli ventall de disciplines. Més info. Adreça: Carrer Ciutadella, 1 - 08391 Tiana, Barcelona. Telèfon: 93 179 27 97. Font: Ajuntament de Tiana.",
+        "es": "L’Escola Municipal de Música i Dansa, autoritzada per la Generalitat de Catalunya, ofereix espais i formació en música i dansa de manera pràctica i creativa. L’escola compta amb programes per a totes les edats i un ampli ventall de disciplines. Més info. Dirección: Carrer Ciutadella, 1 - 08391 Tiana, Barcelona. Teléfono: 93 179 27 97. Fuente: Ajuntament de Tiana.",
+        "en": "L’Escola Municipal de Música i Dansa, autoritzada per la Generalitat de Catalunya, ofereix espais i formació en música i dansa de manera pràctica i creativa. L’escola compta amb programes per a totes les edats i un ampli ventall de disciplines. Més info. Address: Carrer Ciutadella, 1 - 08391 Tiana, Barcelona. Phone: 93 179 27 97. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/3/",
+        "adreca:Carrer Ciutadella, 1 - 08391 Tiana, Barcelona",
+        "telefon:93 179 27 97"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2023/02/IMG_2180-300x225.jpeg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "escola-tiziana",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.272974048792309,
+        41.47789426671868
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Escola Tiziana",
+        "es": "Escola Tiziana",
+        "en": "Escola Tiziana"
+      },
+      "description": {
+        "ca": "Volem que a l’escola l’alumnat sigui feliç, que els emocioni participar en les nostres propostes, que siguin protagonistes i constructors de la seva pròpia xarxa d’aprenentatges, que s’esforcin per estar satisfets dels seus progressos i que adquireixin valors de vida que els facin triar bé, ser bons i compromesos. Més info. Adreça: Av. Ciutadella, 9 - 08391 Tiana, Barcelona. Telèfon: 93 465 54 64. Web: https://www.escolatiziana.cat/ca/. Font: Ajuntament de Tiana.",
+        "es": "Volem que a l’escola l’alumnat sigui feliç, que els emocioni participar en les nostres propostes, que siguin protagonistes i constructors de la seva pròpia xarxa d’aprenentatges, que s’esforcin per estar satisfets dels seus progressos i que adquireixin valors de vida que els facin triar bé, ser bons i compromesos. Més info. Dirección: Av. Ciutadella, 9 - 08391 Tiana, Barcelona. Teléfono: 93 465 54 64. Web: https://www.escolatiziana.cat/ca/. Fuente: Ajuntament de Tiana.",
+        "en": "Volem que a l’escola l’alumnat sigui feliç, que els emocioni participar en les nostres propostes, que siguin protagonistes i constructors de la seva pròpia xarxa d’aprenentatges, que s’esforcin per estar satisfets dels seus progressos i que adquireixin valors de vida que els facin triar bé, ser bons i compromesos. Més info. Address: Av. Ciutadella, 9 - 08391 Tiana, Barcelona. Phone: 93 465 54 64. Web: https://www.escolatiziana.cat/ca/. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/4/",
+        "adreca:Av. Ciutadella, 9 - 08391 Tiana, Barcelona",
+        "telefon:93 465 54 64",
+        "web:https://www.escolatiziana.cat/ca/"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2023/02/IMG_6466-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "espai-de-dol-perinatal",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2679043207331127,
+        41.490848528172926
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Espai de dol perinatal",
+        "es": "Espai de dol perinatal",
+        "en": "Espai de dol perinatal"
+      },
+      "description": {
+        "ca": "L’Espai del record per al dol gestacional i perinatal està ubicat al bosquet del Cementiri de Tiana, a la zona de l’Ermita de l’Alegria. Té una entrada independent pel Camí del Cementiri, està situat al mirador del bosquet i compta amb l’ escultura “ Penso en tu ” de Glòria Arrufat. Adreça: Camí del Cementiri, s/n - 08391 Tiana - Barcelona (Catalunya). Telèfon: 933 955 011. Font: Ajuntament de Tiana.",
+        "es": "L’Espai del record per al dol gestacional i perinatal està ubicat al bosquet del Cementiri de Tiana, a la zona de l’Ermita de l’Alegria. Té una entrada independent pel Camí del Cementiri, està situat al mirador del bosquet i compta amb l’ escultura “ Penso en tu ” de Glòria Arrufat. Dirección: Camí del Cementiri, s/n - 08391 Tiana - Barcelona (Catalunya). Teléfono: 933 955 011. Fuente: Ajuntament de Tiana.",
+        "en": "L’Espai del record per al dol gestacional i perinatal està ubicat al bosquet del Cementiri de Tiana, a la zona de l’Ermita de l’Alegria. Té una entrada independent pel Camí del Cementiri, està situat al mirador del bosquet i compta amb l’ escultura “ Penso en tu ” de Glòria Arrufat. Address: Camí del Cementiri, s/n - 08391 Tiana - Barcelona (Catalunya). Phone: 933 955 011. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/4/",
+        "adreca:Camí del Cementiri, s/n - 08391 Tiana - Barcelona (Catalunya)",
+        "telefon:933 955 011"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2025/10/dol-perinatal-horitzontal-300x225.jpeg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "espai-dioptria",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2708774,
+        41.481161
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Espai Dioptria",
+        "es": "Espai Dioptria",
+        "en": "Espai Dioptria"
+      },
+      "description": {
+        "ca": "Equipament municipal comunitari que ofereix un espai de treball i oportunitats per a les entitats, els col·lectius i els veïns i veïnes de Tiana. Engloba 3 blocs: l’espai de l’ AEIG Roger de Flor , la casa d’entitats i l’espai Jove , i la sala Dioptria , una sala de treball d’accés lliure per a veïns i veïnes. Adreça: Carrer Cals Frares, 29 Adreça electrònica dioptria@tiana.cat Lloc web tiana.cat/dioptria/. Web: https://tiana.cat/dioptria/. Font: Ajuntament de Tiana.",
+        "es": "Equipament municipal comunitari que ofereix un espai de treball i oportunitats per a les entitats, els col·lectius i els veïns i veïnes de Tiana. Engloba 3 blocs: l’espai de l’ AEIG Roger de Flor , la casa d’entitats i l’espai Jove , i la sala Dioptria , una sala de treball d’accés lliure per a veïns i veïnes. Dirección: Carrer Cals Frares, 29 Adreça electrònica dioptria@tiana.cat Lloc web tiana.cat/dioptria/. Web: https://tiana.cat/dioptria/. Fuente: Ajuntament de Tiana.",
+        "en": "Equipament municipal comunitari que ofereix un espai de treball i oportunitats per a les entitats, els col·lectius i els veïns i veïnes de Tiana. Engloba 3 blocs: l’espai de l’ AEIG Roger de Flor , la casa d’entitats i l’espai Jove , i la sala Dioptria , una sala de treball d’accés lliure per a veïns i veïnes. Address: Carrer Cals Frares, 29 Adreça electrònica dioptria@tiana.cat Lloc web tiana.cat/dioptria/. Web: https://tiana.cat/dioptria/. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/4/",
+        "adreca:Carrer Cals Frares, 29 Adreça electrònica dioptria@tiana.cat Lloc web tiana.cat/dioptria/",
+        "web:https://tiana.cat/dioptria/",
+        "coordenades-aproximades"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2024/06/8958e06d-d5a8-46be-b77a-b2493831c74a-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "espai-jove",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2708774,
+        41.481161
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Espai Jove",
+        "es": "Espai Jove",
+        "en": "Espai Jove"
+      },
+      "description": {
+        "ca": "L’ Espai Jove és un espai de lleure, formació i trobada per als joves de Tiana on s’hi desenvolupen activitats amb l’objectiu de fomentar l’aprenentatge i el creixement personal dels joves. L’Espai Jove forma part de la xarxa de punts d’informació juvenil de Catalunya (XNEJ). Adreça: Cals Frares, 29.. Web: https://tiana.cat/dioptria/. Font: Ajuntament de Tiana.",
+        "es": "L’ Espai Jove és un espai de lleure, formació i trobada per als joves de Tiana on s’hi desenvolupen activitats amb l’objectiu de fomentar l’aprenentatge i el creixement personal dels joves. L’Espai Jove forma part de la xarxa de punts d’informació juvenil de Catalunya (XNEJ). Dirección: Cals Frares, 29.. Web: https://tiana.cat/dioptria/. Fuente: Ajuntament de Tiana.",
+        "en": "L’ Espai Jove és un espai de lleure, formació i trobada per als joves de Tiana on s’hi desenvolupen activitats amb l’objectiu de fomentar l’aprenentatge i el creixement personal dels joves. L’Espai Jove forma part de la xarxa de punts d’informació juvenil de Catalunya (XNEJ). Address: Cals Frares, 29.. Web: https://tiana.cat/dioptria/. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/4/",
+        "adreca:Cals Frares, 29.",
+        "web:https://tiana.cat/dioptria/",
+        "coordenades-aproximades"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/WhatsApp-Image-2024-05-02-at-09.31.00-e1714683330899-300x205.jpeg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "institut-tiana",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2631467269831202,
+        41.491943455093654
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Institut Tiana",
+        "es": "Institut Tiana",
+        "en": "Institut Tiana"
+      },
+      "description": {
+        "ca": "El projecte educatiu de l’Institut Tiana vol potenciar el reconeixement pel treball personal i d’equip, l’esperit crític, l’ús de les noves tecnologies i la recerca innovadora. També vol acompanyar l’alumnat amb una acció tutorial personalitzada i orientada a la diversitat i al creixement personal. Adreça: Avinguda Eduard Fontserè, s/n, 08391 Tiana, Barcelona. Telèfon: 93 395 17 19. Font: Ajuntament de Tiana.",
+        "es": "El projecte educatiu de l’Institut Tiana vol potenciar el reconeixement pel treball personal i d’equip, l’esperit crític, l’ús de les noves tecnologies i la recerca innovadora. També vol acompanyar l’alumnat amb una acció tutorial personalitzada i orientada a la diversitat i al creixement personal. Dirección: Avinguda Eduard Fontserè, s/n, 08391 Tiana, Barcelona. Teléfono: 93 395 17 19. Fuente: Ajuntament de Tiana.",
+        "en": "El projecte educatiu de l’Institut Tiana vol potenciar el reconeixement pel treball personal i d’equip, l’esperit crític, l’ús de les noves tecnologies i la recerca innovadora. També vol acompanyar l’alumnat amb una acció tutorial personalitzada i orientada a la diversitat i al creixement personal. Address: Avinguda Eduard Fontserè, s/n, 08391 Tiana, Barcelona. Phone: 93 395 17 19. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/4/",
+        "adreca:Avinguda Eduard Fontserè, s/n, 08391 Tiana, Barcelona",
+        "telefon:93 395 17 19"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/institut_tiana-300x169.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "jardi-lola-anglada",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2692745865005968,
+        41.48220935279997
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Jardí Lola Anglada",
+        "es": "Jardí Lola Anglada",
+        "en": "Jardí Lola Anglada"
+      },
+      "description": {
+        "ca": "Equipament o lloc d’interès de Tiana. Adreça: Pl. de la Vila, 3, 08391 Tiana, Barcelona. Font: Ajuntament de Tiana.",
+        "es": "Equipament o lloc d’interès de Tiana. Dirección: Pl. de la Vila, 3, 08391 Tiana, Barcelona. Fuente: Ajuntament de Tiana.",
+        "en": "Equipament o lloc d’interès de Tiana. Address: Pl. de la Vila, 3, 08391 Tiana, Barcelona. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/5/",
+        "adreca:Pl. de la Vila, 3, 08391 Tiana, Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/JARDI-LOLA-ANGLADA-1-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "llar-de-persones-grans",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268280420714996,
+        41.482739890294354
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Llar de persones grans",
+        "es": "Llar de persones grans",
+        "en": "Llar de persones grans"
+      },
+      "description": {
+        "ca": "L’associació de gent gran, jubilats i pensionistes de Tiana neix l’any 1978 i durant 20 anys té la seva seu social a El Casal, donant el servei de Centre de Dia. Adreça: C/ Anselm Clavé, 20 - 08391 Tiana - Barcelona (Catalunya). Web: https://www.facebook.com/llardepersonesgrans.lesplaitiana. Font: Ajuntament de Tiana.",
+        "es": "L’associació de gent gran, jubilats i pensionistes de Tiana neix l’any 1978 i durant 20 anys té la seva seu social a El Casal, donant el servei de Centre de Dia. Dirección: C/ Anselm Clavé, 20 - 08391 Tiana - Barcelona (Catalunya). Web: https://www.facebook.com/llardepersonesgrans.lesplaitiana. Fuente: Ajuntament de Tiana.",
+        "en": "L’associació de gent gran, jubilats i pensionistes de Tiana neix l’any 1978 i durant 20 anys té la seva seu social a El Casal, donant el servei de Centre de Dia. Address: C/ Anselm Clavé, 20 - 08391 Tiana - Barcelona (Catalunya). Web: https://www.facebook.com/llardepersonesgrans.lesplaitiana. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/5/",
+        "adreca:C/ Anselm Clavé, 20 - 08391 Tiana - Barcelona (Catalunya)",
+        "web:https://www.facebook.com/llardepersonesgrans.lesplaitiana"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/10/LLarGentGran-300x200.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "naturaula",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.267687736567387,
+        41.47413664562465
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Naturaula",
+        "es": "Naturaula",
+        "en": "Naturaula"
+      },
+      "description": {
+        "ca": "El projecte Naturaula (Natur@ula) de l’AMB és entendre el parc com a aula educativa a l’aire lliure, esdevenint una extensió més del centre educatiu. Per això, de manera coordinada amb cada ajuntament l’AMB, es pretén facilitar que els centres educatius utilitzin el parc amb aquesta finalitat. Adreça: Passeig de la Vilesa, 87. Font: Ajuntament de Tiana.",
+        "es": "El projecte Naturaula (Natur@ula) de l’AMB és entendre el parc com a aula educativa a l’aire lliure, esdevenint una extensió més del centre educatiu. Per això, de manera coordinada amb cada ajuntament l’AMB, es pretén facilitar que els centres educatius utilitzin el parc amb aquesta finalitat. Dirección: Passeig de la Vilesa, 87. Fuente: Ajuntament de Tiana.",
+        "en": "El projecte Naturaula (Natur@ula) de l’AMB és entendre el parc com a aula educativa a l’aire lliure, esdevenint una extensió més del centre educatiu. Per això, de manera coordinada amb cada ajuntament l’AMB, es pretén facilitar que els centres educatius utilitzin el parc amb aquesta finalitat. Address: Passeig de la Vilesa, 87. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/5/",
+        "adreca:Passeig de la Vilesa, 87"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/NATURAULA-2-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "observatori-astronomic-de-tiana",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2619306127985674,
+        41.49162630502592
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Observatori Astrònomic de Tiana",
+        "es": "Observatori Astrònomic de Tiana",
+        "en": "Observatori Astrònomic de Tiana"
+      },
+      "description": {
+        "ca": "Punt d’Informació del Parc de la Serralada de Marina i seu del Grup d’Astronomia de Tiana Adreça: Av. Eduard Fontsere, s/n - 08391 Tiana - Barcelona (Catalunya). Telèfon: 934 650 626. Web: https://astrotiana.org/es. Font: Ajuntament de Tiana.",
+        "es": "Punt d’Informació del Parc de la Serralada de Marina i seu del Grup d’Astronomia de Tiana Dirección: Av. Eduard Fontsere, s/n - 08391 Tiana - Barcelona (Catalunya). Teléfono: 934 650 626. Web: https://astrotiana.org/es. Fuente: Ajuntament de Tiana.",
+        "en": "Punt d’Informació del Parc de la Serralada de Marina i seu del Grup d’Astronomia de Tiana Address: Av. Eduard Fontsere, s/n - 08391 Tiana - Barcelona (Catalunya). Phone: 934 650 626. Web: https://astrotiana.org/es. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/5/",
+        "adreca:Av. Eduard Fontsere, s/n - 08391 Tiana - Barcelona (Catalunya)",
+        "telefon:934 650 626",
+        "web:https://astrotiana.org/es"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/OBSERVATORI-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "parc-de-can-puigcarbo",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.265586671154455,
+        41.48596625503132
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc de can Puigcarbó",
+        "es": "Parc de can Puigcarbó",
+        "en": "Parc de can Puigcarbó"
+      },
+      "description": {
+        "ca": "Equipament o lloc d’interès de Tiana. Adreça: c/ Sant Albert, 4. Font: Ajuntament de Tiana.",
+        "es": "Equipament o lloc d’interès de Tiana. Dirección: c/ Sant Albert, 4. Fuente: Ajuntament de Tiana.",
+        "en": "Equipament o lloc d’interès de Tiana. Address: c/ Sant Albert, 4. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/5/",
+        "adreca:c/ Sant Albert, 4"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/PARC-CAN-PUIGCARBO-2-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "parc-de-l-antic-camp-de-futbol",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2708798275879185,
+        41.48002174048842
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc de l’Antic Camp de Futbol",
+        "es": "Parc de l’Antic Camp de Futbol",
+        "en": "Parc de l’Antic Camp de Futbol"
+      },
+      "description": {
+        "ca": "Equipament o lloc d’interès de Tiana. Adreça: c/Matas, 19. Font: Ajuntament de Tiana.",
+        "es": "Equipament o lloc d’interès de Tiana. Dirección: c/Matas, 19. Fuente: Ajuntament de Tiana.",
+        "en": "Equipament o lloc d’interès de Tiana. Address: c/Matas, 19. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/6/",
+        "adreca:c/Matas, 19"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/PARC-ANTIC-CAMP-DE-FUTBOL-1-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "parc-de-les-olors",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268,
+        41.4743
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc de les Olors",
+        "es": "Parc de les Olors",
+        "en": "Parc de les Olors"
+      },
+      "description": {
+        "ca": "Equipament o lloc d’interès de Tiana. Font: Ajuntament de Tiana.",
+        "es": "Equipament o lloc d’interès de Tiana. Fuente: Ajuntament de Tiana.",
+        "en": "Equipament o lloc d’interès de Tiana. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/6/",
+        "coordenades-aproximades"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/PARC-DE-LES-OLORS-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "parc-del-doctor-mascaro",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2669728365892645,
+        41.48438866737868
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc del Doctor Mascaró",
+        "es": "Parc del Doctor Mascaró",
+        "en": "Parc del Doctor Mascaró"
+      },
+      "description": {
+        "ca": "Equipament o lloc d’interès de Tiana. Adreça: c/ Dr Mascaró, 21. Font: Ajuntament de Tiana.",
+        "es": "Equipament o lloc d’interès de Tiana. Dirección: c/ Dr Mascaró, 21. Fuente: Ajuntament de Tiana.",
+        "en": "Equipament o lloc d’interès de Tiana. Address: c/ Dr Mascaró, 21. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/6/",
+        "adreca:c/ Dr Mascaró, 21"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/DR-MASCARO-1-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "parc-del-tramvia",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2683743820708626,
+        41.4742652635969
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc del Tramvia",
+        "es": "Parc del Tramvia",
+        "en": "Parc del Tramvia"
+      },
+      "description": {
+        "ca": "Equipament o lloc d’interès de Tiana. Adreça: Passeig de la Vilesa, 87. Font: Ajuntament de Tiana.",
+        "es": "Equipament o lloc d’interès de Tiana. Dirección: Passeig de la Vilesa, 87. Fuente: Ajuntament de Tiana.",
+        "en": "Equipament o lloc d’interès de Tiana. Address: Passeig de la Vilesa, 87. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/6/",
+        "adreca:Passeig de la Vilesa, 87"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/PARC-DEL-TRAMVIA-1-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "parc-doctor-barraquer",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.272470330679995,
+        41.477160894995144
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc Doctor Barraquer",
+        "es": "Parc Doctor Barraquer",
+        "en": "Parc Doctor Barraquer"
+      },
+      "description": {
+        "ca": "Equipament o lloc d’interès de Tiana. Adreça: c/Dr. Barraquer, 14. Font: Ajuntament de Tiana.",
+        "es": "Equipament o lloc d’interès de Tiana. Dirección: c/Dr. Barraquer, 14. Fuente: Ajuntament de Tiana.",
+        "en": "Equipament o lloc d’interès de Tiana. Address: c/Dr. Barraquer, 14. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/6/",
+        "adreca:c/Dr. Barraquer, 14"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/PARC-DR-BARRAQUER-2-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "parc-doctor-lino-ferrandiz",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2682762820781197,
+        41.477279089486935
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc Doctor Lino Ferrandiz",
+        "es": "Parc Doctor Lino Ferrandiz",
+        "en": "Parc Doctor Lino Ferrandiz"
+      },
+      "description": {
+        "ca": "Equipament o lloc d’interès de Tiana. Adreça: Avinguda Creu de Terme. Font: Ajuntament de Tiana.",
+        "es": "Equipament o lloc d’interès de Tiana. Dirección: Avinguda Creu de Terme. Fuente: Ajuntament de Tiana.",
+        "en": "Equipament o lloc d’interès de Tiana. Address: Avinguda Creu de Terme. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/7/",
+        "adreca:Avinguda Creu de Terme"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/IMG_2019-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "parc-esportiu-de-can-puigcarbo",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2655972514124576,
+        41.48713030568381
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc Esportiu de Can Puigcarbó",
+        "es": "Parc Esportiu de Can Puigcarbó",
+        "en": "Parc Esportiu de Can Puigcarbó"
+      },
+      "description": {
+        "ca": "L’objectiu del parc es fomentar l’activitat física (a través de la millora del condicionament físic de les persones i la promoció d’estils de vida saludables i actius) i augmentar l’oferta esportiva outdoor atenent sempre a les diferents necessitats esportives i públics objectius (gent gran, gent amb patologies, adults, joves i infants). Adreça: c/ Sant Albert 4-10. Font: Ajuntament de Tiana.",
+        "es": "L’objectiu del parc es fomentar l’activitat física (a través de la millora del condicionament físic de les persones i la promoció d’estils de vida saludables i actius) i augmentar l’oferta esportiva outdoor atenent sempre a les diferents necessitats esportives i públics objectius (gent gran, gent amb patologies, adults, joves i infants). Dirección: c/ Sant Albert 4-10. Fuente: Ajuntament de Tiana.",
+        "en": "L’objectiu del parc es fomentar l’activitat física (a través de la millora del condicionament físic de les persones i la promoció d’estils de vida saludables i actius) i augmentar l’oferta esportiva outdoor atenent sempre a les diferents necessitats esportives i públics objectius (gent gran, gent amb patologies, adults, joves i infants). Address: c/ Sant Albert 4-10. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/7/",
+        "adreca:c/ Sant Albert 4-10"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/PARC-ESPORTIU-CAN-PUIGCARBO-3-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "parc-joan-armengol-i-moliner",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.269485628664493,
+        41.488186718205604
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc Joan Armengol i Moliner",
+        "es": "Parc Joan Armengol i Moliner",
+        "en": "Parc Joan Armengol i Moliner"
+      },
+      "description": {
+        "ca": "Equipament o lloc d’interès de Tiana. Adreça: Cami de Dalt d'Alella, 15. Font: Ajuntament de Tiana.",
+        "es": "Equipament o lloc d’interès de Tiana. Dirección: Cami de Dalt d'Alella, 15. Fuente: Ajuntament de Tiana.",
+        "en": "Equipament o lloc d’interès de Tiana. Address: Cami de Dalt d'Alella, 15. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/7/",
+        "adreca:Cami de Dalt d'Alella, 15"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/JOAN-ARMENGOL-1-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "parc-rafael-de-casanova",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2672,
+        41.4822
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc Rafael de Casanova",
+        "es": "Parc Rafael de Casanova",
+        "en": "Parc Rafael de Casanova"
+      },
+      "description": {
+        "ca": "Equipament o lloc d’interès de Tiana. Font: Ajuntament de Tiana.",
+        "es": "Equipament o lloc d’interès de Tiana. Fuente: Ajuntament de Tiana.",
+        "en": "Equipament o lloc d’interès de Tiana. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/7/",
+        "coordenades-aproximades"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/PARC-RAFEL-DE-CASANOVA-2-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "petanca-tiana",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2690113855137497,
+        41.48590236756133
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Petanca Tiana",
+        "es": "Petanca Tiana",
+        "en": "Petanca Tiana"
+      },
+      "description": {
+        "ca": "Fundat l’any 1986 com a una de les seccions de l’Agrupació Recreativa del Casal. A principis del 1994 es registra com entitat esportiva a la Federació Catalana de Petanca amb el nom de Club Petanca Tiana. Adreça: Camí de Dalt d'Alella, 08391 Tiana, Barcelona. Telèfon: 933952303. Font: Ajuntament de Tiana.",
+        "es": "Fundat l’any 1986 com a una de les seccions de l’Agrupació Recreativa del Casal. A principis del 1994 es registra com entitat esportiva a la Federació Catalana de Petanca amb el nom de Club Petanca Tiana. Dirección: Camí de Dalt d'Alella, 08391 Tiana, Barcelona. Teléfono: 933952303. Fuente: Ajuntament de Tiana.",
+        "en": "Fundat l’any 1986 com a una de les seccions de l’Agrupació Recreativa del Casal. A principis del 1994 es registra com entitat esportiva a la Federació Catalana de Petanca amb el nom de Club Petanca Tiana. Address: Camí de Dalt d'Alella, 08391 Tiana, Barcelona. Phone: 933952303. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/7/",
+        "adreca:Camí de Dalt d'Alella, 08391 Tiana, Barcelona",
+        "telefon:933952303"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/PETANCA-2-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "piscina-municipal-de-tiana",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2619306127985674,
+        41.49162630502592
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Piscina Municipal de Tiana",
+        "es": "Piscina Municipal de Tiana",
+        "en": "Piscina Municipal de Tiana"
+      },
+      "description": {
+        "ca": "La piscina municipal de Tiana és un espai familiar i esportiu, un refugi climàtic, on passar els dies d’estiu. Disposa de dues piscines, zona de pícnic, vestuaris amb aigua calenta, servei de Bibliopiscina i servei de bar. Més info. Adreça: Av. Eduard Fontseré, s/n - 08391 Tiana - Barcelona (Catalunya). Telèfon: 660 111 502. Font: Ajuntament de Tiana.",
+        "es": "La piscina municipal de Tiana és un espai familiar i esportiu, un refugi climàtic, on passar els dies d’estiu. Disposa de dues piscines, zona de pícnic, vestuaris amb aigua calenta, servei de Bibliopiscina i servei de bar. Més info. Dirección: Av. Eduard Fontseré, s/n - 08391 Tiana - Barcelona (Catalunya). Teléfono: 660 111 502. Fuente: Ajuntament de Tiana.",
+        "en": "La piscina municipal de Tiana és un espai familiar i esportiu, un refugi climàtic, on passar els dies d’estiu. Disposa de dues piscines, zona de pícnic, vestuaris amb aigua calenta, servei de Bibliopiscina i servei de bar. Més info. Address: Av. Eduard Fontseré, s/n - 08391 Tiana - Barcelona (Catalunya). Phone: 660 111 502. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/8/",
+        "adreca:Av. Eduard Fontseré, s/n - 08391 Tiana - Barcelona (Catalunya)",
+        "telefon:660 111 502"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-22-at-13.40.00-300x225.jpeg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "pista-poliesportiva-escola-tiziana",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.272269520706415,
+        41.479150961301166
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Pista poliesportiva Escola Tiziana",
+        "es": "Pista poliesportiva Escola Tiziana",
+        "en": "Pista poliesportiva Escola Tiziana"
+      },
+      "description": {
+        "ca": "Les instal·lacions de l’escola Tiziana de Tiana ubicada a Avinguda Ciutadella, 9 consten d’un espai esportiu compost per una posta poliesportiva doble a l’aire lliure amb paviment de ciment i on es poden practicar esports com el bàsquet o el futbol sala. Adreça: c/ Ciutadella, 6. Telèfon: 93 465 54 64. Font: Ajuntament de Tiana.",
+        "es": "Les instal·lacions de l’escola Tiziana de Tiana ubicada a Avinguda Ciutadella, 9 consten d’un espai esportiu compost per una posta poliesportiva doble a l’aire lliure amb paviment de ciment i on es poden practicar esports com el bàsquet o el futbol sala. Dirección: c/ Ciutadella, 6. Teléfono: 93 465 54 64. Fuente: Ajuntament de Tiana.",
+        "en": "Les instal·lacions de l’escola Tiziana de Tiana ubicada a Avinguda Ciutadella, 9 consten d’un espai esportiu compost per una posta poliesportiva doble a l’aire lliure amb paviment de ciment i on es poden practicar esports com el bàsquet o el futbol sala. Address: c/ Ciutadella, 6. Phone: 93 465 54 64. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/8/",
+        "adreca:c/ Ciutadella, 6",
+        "telefon:93 465 54 64"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2025/09/pista-tiziana-linies-voley-300x225.jpeg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "pista-poliesportiva-parc-de-l-antic-camp-de-futbol",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2694684593320775,
+        41.48013346513402
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Pista poliesportiva Parc de l’Antic Camp de Futbol",
+        "es": "Pista poliesportiva Parc de l’Antic Camp de Futbol",
+        "en": "Pista poliesportiva Parc de l’Antic Camp de Futbol"
+      },
+      "description": {
+        "ca": "Espai obert a l’aire lliure on es disposa de dues cistelles de mini-bàsquet exteriors i una porteria de futbol sala. El paviment de la pista poliesportiva és de ciment. Adreça: Parc antic Camp de Futbol. Font: Ajuntament de Tiana.",
+        "es": "Espai obert a l’aire lliure on es disposa de dues cistelles de mini-bàsquet exteriors i una porteria de futbol sala. El paviment de la pista poliesportiva és de ciment. Dirección: Parc antic Camp de Futbol. Fuente: Ajuntament de Tiana.",
+        "en": "Espai obert a l’aire lliure on es disposa de dues cistelles de mini-bàsquet exteriors i una porteria de futbol sala. El paviment de la pista poliesportiva és de ciment. Address: Parc antic Camp de Futbol. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/8/",
+        "adreca:Parc antic Camp de Futbol"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/PISTA-POLIESPORTIVA-TUBIS-1-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "pista-poliesportiva-parc-doctor-barraquer",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2729231741441436,
+        41.478374382035554
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Pista poliesportiva Parc Doctor Barraquer",
+        "es": "Pista poliesportiva Parc Doctor Barraquer",
+        "en": "Pista poliesportiva Parc Doctor Barraquer"
+      },
+      "description": {
+        "ca": "Espai obert a l’aire lliure on es disposa de dues cistelles de bàsquet exteriors i paviment de sorra. Adreça: C/ Doctor Barraquer - 08391 Tiana - Barcelona (Catalunya). Font: Ajuntament de Tiana.",
+        "es": "Espai obert a l’aire lliure on es disposa de dues cistelles de bàsquet exteriors i paviment de sorra. Dirección: C/ Doctor Barraquer - 08391 Tiana - Barcelona (Catalunya). Fuente: Ajuntament de Tiana.",
+        "en": "Espai obert a l’aire lliure on es disposa de dues cistelles de bàsquet exteriors i paviment de sorra. Address: C/ Doctor Barraquer - 08391 Tiana - Barcelona (Catalunya). Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/8/",
+        "adreca:C/ Doctor Barraquer - 08391 Tiana - Barcelona (Catalunya)"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/PISTA-POLIESPORTIVA-DR-BARRAQUER-2-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "sala-albeniz",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268286312779468,
+        41.483480585405424
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Sala Albéniz",
+        "es": "Sala Albéniz",
+        "en": "Sala Albéniz"
+      },
+      "description": {
+        "ca": "Teatre i sala polivalent per portar a terme activitats culturals. Adreça: Av. Isaac Albéniz, 8-10 - 08391 Tiana - Barcelona (Catalunya). Telèfon: 933955011. Font: Ajuntament de Tiana.",
+        "es": "Teatre i sala polivalent per portar a terme activitats culturals. Dirección: Av. Isaac Albéniz, 8-10 - 08391 Tiana - Barcelona (Catalunya). Teléfono: 933955011. Fuente: Ajuntament de Tiana.",
+        "en": "Teatre i sala polivalent per portar a terme activitats culturals. Address: Av. Isaac Albéniz, 8-10 - 08391 Tiana - Barcelona (Catalunya). Phone: 933955011. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/8/",
+        "adreca:Av. Isaac Albéniz, 8-10 - 08391 Tiana - Barcelona (Catalunya)",
+        "telefon:933955011"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2023/01/25522_342625623822_5587030_n-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "sala-d-exposicions-casa-de-la-punxa",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.26828631277947,
+        41.483480585405424
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Sala d’Exposicions casa de la Punxa",
+        "es": "Sala d’Exposicions casa de la Punxa",
+        "en": "Sala d’Exposicions casa de la Punxa"
+      },
+      "description": {
+        "ca": "Sala d’exposicions al Casal Adreça: Av. Isaac Albéniz, 8-10 - 08391 Tiana - Barcelona (Catalunya). Telèfon: 933955011. Font: Ajuntament de Tiana.",
+        "es": "Sala d’exposicions al Casal Dirección: Av. Isaac Albéniz, 8-10 - 08391 Tiana - Barcelona (Catalunya). Teléfono: 933955011. Fuente: Ajuntament de Tiana.",
+        "en": "Sala d’exposicions al Casal Address: Av. Isaac Albéniz, 8-10 - 08391 Tiana - Barcelona (Catalunya). Phone: 933955011. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/9/",
+        "adreca:Av. Isaac Albéniz, 8-10 - 08391 Tiana - Barcelona (Catalunya)",
+        "telefon:933955011"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2023/02/IMG_8592-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "sala-sant-jordi",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268286312779469,
+        41.483480585405424
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Sala Sant Jordi",
+        "es": "Sala Sant Jordi",
+        "en": "Sala Sant Jordi"
+      },
+      "description": {
+        "ca": "Sala polivalent en l’àmbit cultural. Adreça: Av. Isaac Albéniz, 8-10 - 08391 Tiana - Barcelona (Catalunya). Telèfon: 933955011. Font: Ajuntament de Tiana.",
+        "es": "Sala polivalent en l’àmbit cultural. Dirección: Av. Isaac Albéniz, 8-10 - 08391 Tiana - Barcelona (Catalunya). Teléfono: 933955011. Fuente: Ajuntament de Tiana.",
+        "en": "Sala polivalent en l’àmbit cultural. Address: Av. Isaac Albéniz, 8-10 - 08391 Tiana - Barcelona (Catalunya). Phone: 933955011. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/9/",
+        "adreca:Av. Isaac Albéniz, 8-10 - 08391 Tiana - Barcelona (Catalunya)",
+        "telefon:933955011"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/Manual-1-TIANA-2022-300x225.jpeg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "serveis-socials",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2717415264145195,
+        41.479250083321325
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Serveis Socials",
+        "es": "Serveis Socials",
+        "en": "Serveis Socials"
+      },
+      "description": {
+        "ca": "Millorem el benestar social del poble proporcionant informació, atenció i suport a la comunitat. Els equips professionals dels serveis socials acompanyem situacions personals, familiars o socials que necessiten suport. Valorem cada situació, definim un pla de treball i orientem sobre els recursos, les prestacions i els serveis més adequats en cada cas. Adreça: Carrer Josep París, 12.. Telèfon: 934 65 75 25. Web: https://tiana.cat/serveis/families/serveis-socials/. Font: Ajuntament de Tiana.",
+        "es": "Millorem el benestar social del poble proporcionant informació, atenció i suport a la comunitat. Els equips professionals dels serveis socials acompanyem situacions personals, familiars o socials que necessiten suport. Valorem cada situació, definim un pla de treball i orientem sobre els recursos, les prestacions i els serveis més adequats en cada cas. Dirección: Carrer Josep París, 12.. Teléfono: 934 65 75 25. Web: https://tiana.cat/serveis/families/serveis-socials/. Fuente: Ajuntament de Tiana.",
+        "en": "Millorem el benestar social del poble proporcionant informació, atenció i suport a la comunitat. Els equips professionals dels serveis socials acompanyem situacions personals, familiars o socials que necessiten suport. Valorem cada situació, definim un pla de treball i orientem sobre els recursos, les prestacions i els serveis més adequats en cada cas. Address: Carrer Josep París, 12.. Phone: 934 65 75 25. Web: https://tiana.cat/serveis/families/serveis-socials/. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/9/",
+        "adreca:Carrer Josep París, 12.",
+        "telefon:934 65 75 25",
+        "web:https://tiana.cat/serveis/families/serveis-socials/"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2025/05/serveis-socials-3-300x225.jpeg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "zona-esbarjo-per-gossos-parc-del-tramvia",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.267687736567387,
+        41.47413664562465
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Zona esbarjo per gossos Parc del Tramvia",
+        "es": "Zona esbarjo per gossos Parc del Tramvia",
+        "en": "Zona esbarjo per gossos Parc del Tramvia"
+      },
+      "description": {
+        "ca": "Espai d’esbarjo per a gossos Adreça: Passeig de la Vilesa, 87. Font: Ajuntament de Tiana.",
+        "es": "Espai d’esbarjo per a gossos Dirección: Passeig de la Vilesa, 87. Fuente: Ajuntament de Tiana.",
+        "en": "Espai d’esbarjo per a gossos Address: Passeig de la Vilesa, 87. Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/9/",
+        "adreca:Passeig de la Vilesa, 87"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2022/11/PIPI-CAN-TRAMVIA-3-300x225.jpg"
+      ],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "zona-esbarjo-per-gossos-riera-de-tiana",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2628881,
+        41.4824961
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Zona esbarjo per gossos Riera de Tiana",
+        "es": "Zona esbarjo per gossos Riera de Tiana",
+        "en": "Zona esbarjo per gossos Riera de Tiana"
+      },
+      "description": {
+        "ca": "Espai d’esbarjo per a gossos Font: Ajuntament de Tiana.",
+        "es": "Espai d’esbarjo per a gossos Fuente: Ajuntament de Tiana.",
+        "en": "Espai d’esbarjo per a gossos Source: Ajuntament de Tiana."
+      },
+      "tags": [
+        "tiana",
+        "ajuntament-de-tiana",
+        "https://tiana.cat/poble/equipaments/pagina/9/",
+        "coordenades-aproximades"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [
+        "https://tiana.cat/wp-content/uploads/2023/01/1e636332-fe11-4035-b2aa-af5d088606c8-300x225.jpg"
+      ],
       "last_updated": "2026-06-30T00:00:00.000Z"
     }
   }

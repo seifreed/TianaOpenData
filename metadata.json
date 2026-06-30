@@ -1,5 +1,19 @@
 {
   "version": "2026-06-30",
-  "generated_by": "seed",
-  "language_support": ["ca", "es", "en"]
+  "generated_by": "official-sources-generator",
+  "language_support": [
+    "ca",
+    "es",
+    "en"
+  ],
+  "sources": [
+    "https://tiana.cat/poble/equipaments/",
+    "https://tiana.cat/rutes/",
+    "https://tiana.cat/rutes/rutes-culturals/",
+    "https://tiana.cat/rutes/rutes-saludables/",
+    "https://tiana.cat/rutes/rutes-serralada-marina/"
+  ],
+  "places_count": 45,
+  "routes_count": 9,
+  "note": "Equipaments extrets del directori municipal. Algunes rutes i coordenades sense traçat publicat són aproximades."
 }
