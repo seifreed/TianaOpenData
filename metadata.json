@@ -11,9 +11,11 @@
     "https://tiana.cat/rutes/",
     "https://tiana.cat/rutes/rutes-culturals/",
     "https://tiana.cat/rutes/rutes-saludables/",
-    "https://tiana.cat/rutes/rutes-serralada-marina/"
+    "https://tiana.cat/rutes/rutes-serralada-marina/",
+    "https://www.openstreetmap.org/",
+    "https://overpass-api.de/"
   ],
-  "places_count": 45,
-  "routes_count": 9,
-  "note": "Equipaments extrets del directori municipal. Algunes rutes i coordenades sense traçat publicat són aproximades."
+  "places_count": 216,
+  "routes_count": 17,
+  "note": "Equipaments extrets del directori municipal. Algunes rutes i coordenades sense traçat publicat són aproximades. POIs nombrados adicionales importados desde OpenStreetMap y deduplicados por nombre/proximidad. Rutes senderistes/BTT addicionals importades des de relacions OpenStreetMap; línies de bus/carreteres no importades perquè el schema actual és de rutes caminables."
 }

@@ -1740,5 +1740,6196 @@
       ],
       "last_updated": "2026-06-30T00:00:00.000Z"
     }
+  },
+  {
+    "id": "osm-can-ballus",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2674844,
+        41.4957366
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Ballus",
+        "es": "Can Ballus",
+        "en": "Can Ballus"
+      },
+      "description": {
+        "ca": "Can Ballus. Punt d'interès de Tiana registrat a OpenStreetMap com guest_house. Font: OpenStreetMap.",
+        "es": "Can Ballus. Punto de interés de Tiana registrado en OpenStreetMap como guest_house. Fuente: OpenStreetMap.",
+        "en": "Can Ballus. Tiana point of interest listed in OpenStreetMap as guest_house. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/2608076822",
+        "osm-kind:guest_house"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-el-nou-casal",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2683349,
+        41.4820888
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "El nou Casal",
+        "es": "El nou Casal",
+        "en": "El nou Casal"
+      },
+      "description": {
+        "ca": "El nou Casal. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
+        "es": "El nou Casal. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
+        "en": "El nou Casal. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/3204198562",
+        "osm-kind:restaurant"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-l-avi-mingo",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2685536,
+        41.483326
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "L'avi Mingo",
+        "es": "L'avi Mingo",
+        "en": "L'avi Mingo"
+      },
+      "description": {
+        "ca": "L'avi Mingo. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
+        "es": "L'avi Mingo. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
+        "en": "L'avi Mingo. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/3204198564",
+        "osm-kind:restaurant",
+        "telefon:+34933952206",
+        "web:https://avimingo.com"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-cementiri-dels-empestats",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2551347,
+        41.4920114
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Cementiri dels Empestats",
+        "es": "Cementiri dels Empestats",
+        "en": "Cementiri dels Empestats"
+      },
+      "description": {
+        "ca": "Cementiri dels Empestats. Punt d'interès de Tiana registrat a OpenStreetMap com memorial. Font: OpenStreetMap.",
+        "es": "Cementiri dels Empestats. Punto de interés de Tiana registrado en OpenStreetMap como memorial. Fuente: OpenStreetMap.",
+        "en": "Cementiri dels Empestats. Tiana point of interest listed in OpenStreetMap as memorial. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/3722334250",
+        "osm-kind:memorial"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-area-d-esplai-de-la-font-de-l-alba",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2602039,
+        41.4909322
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Àrea d'esplai de la Font de l'Alba",
+        "es": "Àrea d'esplai de la Font de l'Alba",
+        "en": "Àrea d'esplai de la Font de l'Alba"
+      },
+      "description": {
+        "ca": "Àrea d'esplai de la Font de l'Alba. Punt d'interès de Tiana registrat a OpenStreetMap com picnic_site. Font: OpenStreetMap.",
+        "es": "Àrea d'esplai de la Font de l'Alba. Punto de interés de Tiana registrado en OpenStreetMap como picnic_site. Fuente: OpenStreetMap.",
+        "en": "Àrea d'esplai de la Font de l'Alba. Tiana point of interest listed in OpenStreetMap as picnic_site. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/3722334294",
+        "osm-kind:picnic_site"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-llop",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2683581,
+        41.4813573
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Llop",
+        "es": "Llop",
+        "en": "Llop"
+      },
+      "description": {
+        "ca": "Llop. Punt d'interès de Tiana registrat a OpenStreetMap com hairdresser. Font: OpenStreetMap.",
+        "es": "Llop. Punto de interés de Tiana registrado en OpenStreetMap como hairdresser. Fuente: OpenStreetMap.",
+        "en": "Llop. Tiana point of interest listed in OpenStreetMap as hairdresser. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367221",
+        "osm-kind:hairdresser"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-llar-de-persones-grans-l-esplai-tiana",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2684855,
+        41.481698
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Llar De Persones Grans L'Esplai Tiana",
+        "es": "Llar De Persones Grans L'Esplai Tiana",
+        "en": "Llar De Persones Grans L'Esplai Tiana"
+      },
+      "description": {
+        "ca": "Llar De Persones Grans L'Esplai Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com social_facility. Font: OpenStreetMap.",
+        "es": "Llar De Persones Grans L'Esplai Tiana. Punto de interés de Tiana registrado en OpenStreetMap como social_facility. Fuente: OpenStreetMap.",
+        "en": "Llar De Persones Grans L'Esplai Tiana. Tiana point of interest listed in OpenStreetMap as social_facility. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367222",
+        "osm-kind:social_facility"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-la-cuina-de-can-vilaro",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2686659,
+        41.4823256
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "La cuina de Can Vilaró",
+        "es": "La cuina de Can Vilaró",
+        "en": "La cuina de Can Vilaró"
+      },
+      "description": {
+        "ca": "La cuina de Can Vilaró. Punt d'interès de Tiana registrat a OpenStreetMap com fast_food. Font: OpenStreetMap.",
+        "es": "La cuina de Can Vilaró. Punto de interés de Tiana registrado en OpenStreetMap como fast_food. Fuente: OpenStreetMap.",
+        "en": "La cuina de Can Vilaró. Tiana point of interest listed in OpenStreetMap as fast_food. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367223",
+        "osm-kind:fast_food",
+        "horari:Fr-Su,PH 10:00-15:30"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-centro-pilates-tiana",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2686962,
+        41.4826422
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Centro Pilates Tiana",
+        "es": "Centro Pilates Tiana",
+        "en": "Centro Pilates Tiana"
+      },
+      "description": {
+        "ca": "Centro Pilates Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com fitness_centre. Font: OpenStreetMap.",
+        "es": "Centro Pilates Tiana. Punto de interés de Tiana registrado en OpenStreetMap como fitness_centre. Fuente: OpenStreetMap.",
+        "en": "Centro Pilates Tiana. Tiana point of interest listed in OpenStreetMap as fitness_centre. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367224",
+        "osm-kind:fitness_centre",
+        "horari:Mo-Fr 08:00-13:00,16:00-20:00"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-cal-fabre",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2687239,
+        41.4828248
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Cal Fabre",
+        "es": "Cal Fabre",
+        "en": "Cal Fabre"
+      },
+      "description": {
+        "ca": "Cal Fabre. Punt d'interès de Tiana registrat a OpenStreetMap com greengrocer. Font: OpenStreetMap.",
+        "es": "Cal Fabre. Punto de interés de Tiana registrado en OpenStreetMap como greengrocer. Fuente: OpenStreetMap.",
+        "en": "Cal Fabre. Tiana point of interest listed in OpenStreetMap as greengrocer. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367229",
+        "osm-kind:greengrocer",
+        "horari:Mo-Fr 09:00-13:00,17:00-20:00; Sa 09:00-14:00"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-la-centraleta",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2686775,
+        41.4827526
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "La Centraleta",
+        "es": "La Centraleta",
+        "en": "La Centraleta"
+      },
+      "description": {
+        "ca": "La Centraleta. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
+        "es": "La Centraleta. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
+        "en": "La Centraleta. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367230",
+        "osm-kind:restaurant",
+        "horari:Mo-Fr 19:00-22:30; Sa 11:00-15:00,19:00-23:00; Su 11:00-15:00"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-polit-swing",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2684677,
+        41.4826824
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Polit Swing",
+        "es": "Polit Swing",
+        "en": "Polit Swing"
+      },
+      "description": {
+        "ca": "Polit Swing. Punt d'interès de Tiana registrat a OpenStreetMap com hairdresser. Font: OpenStreetMap.",
+        "es": "Polit Swing. Punto de interés de Tiana registrado en OpenStreetMap como hairdresser. Fuente: OpenStreetMap.",
+        "en": "Polit Swing. Tiana point of interest listed in OpenStreetMap as hairdresser. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367231",
+        "osm-kind:hairdresser"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-banco-sabadell",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2681164,
+        41.4828961
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Banco Sabadell",
+        "es": "Banco Sabadell",
+        "en": "Banco Sabadell"
+      },
+      "description": {
+        "ca": "Banco Sabadell. Punt d'interès de Tiana registrat a OpenStreetMap com bank. Font: OpenStreetMap.",
+        "es": "Banco Sabadell. Punto de interés de Tiana registrado en OpenStreetMap como bank. Fuente: OpenStreetMap.",
+        "en": "Banco Sabadell. Tiana point of interest listed in OpenStreetMap as bank. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367236",
+        "osm-kind:bank"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-administracion-once",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2682563,
+        41.4827451
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Administración ONCE",
+        "es": "Administración ONCE",
+        "en": "Administración ONCE"
+      },
+      "description": {
+        "ca": "Administración ONCE. Punt d'interès de Tiana registrat a OpenStreetMap com lottery. Font: OpenStreetMap.",
+        "es": "Administración ONCE. Punto de interés de Tiana registrado en OpenStreetMap como lottery. Fuente: OpenStreetMap.",
+        "en": "Administración ONCE. Tiana point of interest listed in OpenStreetMap as lottery. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367237",
+        "osm-kind:lottery"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-salud-dental-laura-moize",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2680625,
+        41.4826607
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Salud Dental. Laura Moize",
+        "es": "Salud Dental. Laura Moize",
+        "en": "Salud Dental. Laura Moize"
+      },
+      "description": {
+        "ca": "Salud Dental. Laura Moize. Punt d'interès de Tiana registrat a OpenStreetMap com dentist. Font: OpenStreetMap.",
+        "es": "Salud Dental. Laura Moize. Punto de interés de Tiana registrado en OpenStreetMap como dentist. Fuente: OpenStreetMap.",
+        "en": "Salud Dental. Laura Moize. Tiana point of interest listed in OpenStreetMap as dentist. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367238",
+        "osm-kind:dentist"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-portes-i-finestres",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268024,
+        41.4825556
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Portes i Finestres",
+        "es": "Portes i Finestres",
+        "en": "Portes i Finestres"
+      },
+      "description": {
+        "ca": "Portes i Finestres. Punt d'interès de Tiana registrat a OpenStreetMap com furniture. Font: OpenStreetMap.",
+        "es": "Portes i Finestres. Punto de interés de Tiana registrado en OpenStreetMap como furniture. Fuente: OpenStreetMap.",
+        "en": "Portes i Finestres. Tiana point of interest listed in OpenStreetMap as furniture. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367239",
+        "osm-kind:furniture"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-estanco",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2683876,
+        41.4830692
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Estanco",
+        "es": "Estanco",
+        "en": "Estanco"
+      },
+      "description": {
+        "ca": "Estanco. Punt d'interès de Tiana registrat a OpenStreetMap com tobacco. Font: OpenStreetMap.",
+        "es": "Estanco. Punto de interés de Tiana registrado en OpenStreetMap como tobacco. Fuente: OpenStreetMap.",
+        "en": "Estanco. Tiana point of interest listed in OpenStreetMap as tobacco. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367240",
+        "osm-kind:tobacco"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-forn-i-pastisseria-aixela",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2683413,
+        41.4829723
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Forn i Pastisseria Aixelà",
+        "es": "Forn i Pastisseria Aixelà",
+        "en": "Forn i Pastisseria Aixelà"
+      },
+      "description": {
+        "ca": "Forn i Pastisseria Aixelà. Punt d'interès de Tiana registrat a OpenStreetMap com bakery. Font: OpenStreetMap.",
+        "es": "Forn i Pastisseria Aixelà. Punto de interés de Tiana registrado en OpenStreetMap como bakery. Fuente: OpenStreetMap.",
+        "en": "Forn i Pastisseria Aixelà. Tiana point of interest listed in OpenStreetMap as bakery. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367241",
+        "osm-kind:bakery",
+        "telefon:+34933952702",
+        "horari:Mo-Fr 07:30-14:30,17:00-20:30; Sa 07:30-14:30; Su 08:00-14:30"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bbva",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2683891,
+        41.4831673
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "BBVA",
+        "es": "BBVA",
+        "en": "BBVA"
+      },
+      "description": {
+        "ca": "BBVA. Punt d'interès de Tiana registrat a OpenStreetMap com bank. Font: OpenStreetMap.",
+        "es": "BBVA. Punto de interés de Tiana registrado en OpenStreetMap como bank. Fuente: OpenStreetMap.",
+        "en": "BBVA. Tiana point of interest listed in OpenStreetMap as bank. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367242",
+        "osm-kind:bank",
+        "telefon:+34 934970606",
+        "web:https://www.bbva.es/general/buscador-oficinas.html",
+        "horari:Mon-Fr 07:30-13:15"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-optica-la-punxa",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2682304,
+        41.4831442
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Optica \"La Punxa\"",
+        "es": "Optica \"La Punxa\"",
+        "en": "Optica \"La Punxa\""
+      },
+      "description": {
+        "ca": "Optica \"La Punxa\". Punt d'interès de Tiana registrat a OpenStreetMap com optician. Font: OpenStreetMap.",
+        "es": "Optica \"La Punxa\". Punto de interés de Tiana registrado en OpenStreetMap como optician. Fuente: OpenStreetMap.",
+        "en": "Optica \"La Punxa\". Tiana point of interest listed in OpenStreetMap as optician. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367243",
+        "osm-kind:optician"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-ca-l-anita",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2682101,
+        41.4832509
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Ca L'Anita",
+        "es": "Ca L'Anita",
+        "en": "Ca L'Anita"
+      },
+      "description": {
+        "ca": "Ca L'Anita. Punt d'interès de Tiana registrat a OpenStreetMap com convenience. Font: OpenStreetMap.",
+        "es": "Ca L'Anita. Punto de interés de Tiana registrado en OpenStreetMap como convenience. Fuente: OpenStreetMap.",
+        "en": "Ca L'Anita. Tiana point of interest listed in OpenStreetMap as convenience. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367244",
+        "osm-kind:convenience"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-farmacia-maqua-escanon-m-pilar",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2685539,
+        41.4834374
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Farmàcia Maqua Escanon, M. Pilar",
+        "es": "Farmàcia Maqua Escanon, M. Pilar",
+        "en": "Farmàcia Maqua Escanon, M. Pilar"
+      },
+      "description": {
+        "ca": "Farmàcia Maqua Escanon, M. Pilar. Punt d'interès de Tiana registrat a OpenStreetMap com pharmacy. Font: OpenStreetMap.",
+        "es": "Farmàcia Maqua Escanon, M. Pilar. Punto de interés de Tiana registrado en OpenStreetMap como pharmacy. Fuente: OpenStreetMap.",
+        "en": "Farmàcia Maqua Escanon, M. Pilar. Tiana point of interest listed in OpenStreetMap as pharmacy. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367247",
+        "osm-kind:pharmacy",
+        "horari:Mo-Fr 09:00-13:30,16:30-20:00; Sa 09:00-13:30"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-petit-supermercat-tiana",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2684369,
+        41.4835124
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Petit Supermercat Tiana",
+        "es": "Petit Supermercat Tiana",
+        "en": "Petit Supermercat Tiana"
+      },
+      "description": {
+        "ca": "Petit Supermercat Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com supermarket. Font: OpenStreetMap.",
+        "es": "Petit Supermercat Tiana. Punto de interés de Tiana registrado en OpenStreetMap como supermarket. Fuente: OpenStreetMap.",
+        "en": "Petit Supermercat Tiana. Tiana point of interest listed in OpenStreetMap as supermarket. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367248",
+        "osm-kind:supermarket"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-peixateria-cuni",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2684184,
+        41.4832354
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Peixateria Cuní",
+        "es": "Peixateria Cuní",
+        "en": "Peixateria Cuní"
+      },
+      "description": {
+        "ca": "Peixateria Cuní. Punt d'interès de Tiana registrat a OpenStreetMap com seafood. Font: OpenStreetMap.",
+        "es": "Peixateria Cuní. Punto de interés de Tiana registrado en OpenStreetMap como seafood. Fuente: OpenStreetMap.",
+        "en": "Peixateria Cuní. Tiana point of interest listed in OpenStreetMap as seafood. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367249",
+        "osm-kind:seafood"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-espai-ecologic",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2682627,
+        41.4809424
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Espai Ecològic",
+        "es": "Espai Ecològic",
+        "en": "Espai Ecològic"
+      },
+      "description": {
+        "ca": "Espai Ecològic. Punt d'interès de Tiana registrat a OpenStreetMap com health_food. Font: OpenStreetMap.",
+        "es": "Espai Ecològic. Punto de interés de Tiana registrado en OpenStreetMap como health_food. Fuente: OpenStreetMap.",
+        "en": "Espai Ecològic. Tiana point of interest listed in OpenStreetMap as health_food. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367252",
+        "osm-kind:health_food",
+        "horari:Mo-Fr 09:00-13:30,17:00-20:00; Sa 10:00-14:00"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-agropecuaria-de-tiana-s-coop-s-l",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268245,
+        41.4808257
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Agropecuaria de Tiana S.COOP.S.L.",
+        "es": "Agropecuaria de Tiana S.COOP.S.L.",
+        "en": "Agropecuaria de Tiana S.COOP.S.L."
+      },
+      "description": {
+        "ca": "Agropecuaria de Tiana S.COOP.S.L.. Punt d'interès de Tiana registrat a OpenStreetMap com farm. Font: OpenStreetMap.",
+        "es": "Agropecuaria de Tiana S.COOP.S.L.. Punto de interés de Tiana registrado en OpenStreetMap como farm. Fuente: OpenStreetMap.",
+        "en": "Agropecuaria de Tiana S.COOP.S.L.. Tiana point of interest listed in OpenStreetMap as farm. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367253",
+        "osm-kind:farm"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-consultori-local-de-tiana",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2677558,
+        41.4798064
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Consultori Local de Tiana",
+        "es": "Consultori Local de Tiana",
+        "en": "Consultori Local de Tiana"
+      },
+      "description": {
+        "ca": "Consultori Local de Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com doctors. Font: OpenStreetMap.",
+        "es": "Consultori Local de Tiana. Punto de interés de Tiana registrado en OpenStreetMap como doctors. Fuente: OpenStreetMap.",
+        "en": "Consultori Local de Tiana. Tiana point of interest listed in OpenStreetMap as doctors. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367254",
+        "osm-kind:doctors"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-malenkas",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.267642,
+        41.4800216
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Malenkas",
+        "es": "Malenkas",
+        "en": "Malenkas"
+      },
+      "description": {
+        "ca": "Malenkas. Punt d'interès de Tiana registrat a OpenStreetMap com cafe. Font: OpenStreetMap.",
+        "es": "Malenkas. Punto de interés de Tiana registrado en OpenStreetMap como cafe. Fuente: OpenStreetMap.",
+        "en": "Malenkas. Tiana point of interest listed in OpenStreetMap as cafe. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367255",
+        "osm-kind:cafe"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-oficina-de-correos",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2675752,
+        41.4801218
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Oficina de Correos",
+        "es": "Oficina de Correos",
+        "en": "Oficina de Correos"
+      },
+      "description": {
+        "ca": "Oficina de Correos. Punt d'interès de Tiana registrat a OpenStreetMap com post_office. Font: OpenStreetMap.",
+        "es": "Oficina de Correos. Punto de interés de Tiana registrado en OpenStreetMap como post_office. Fuente: OpenStreetMap.",
+        "en": "Oficina de Correos. Tiana point of interest listed in OpenStreetMap as post_office. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367256",
+        "osm-kind:post_office",
+        "web:https://www.correos.es/"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-cura-sana",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2682892,
+        41.4835658
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Cura Sana",
+        "es": "Cura Sana",
+        "en": "Cura Sana"
+      },
+      "description": {
+        "ca": "Cura Sana. Punt d'interès de Tiana registrat a OpenStreetMap com medical_supply. Font: OpenStreetMap.",
+        "es": "Cura Sana. Punto de interés de Tiana registrado en OpenStreetMap como medical_supply. Fuente: OpenStreetMap.",
+        "en": "Cura Sana. Tiana point of interest listed in OpenStreetMap as medical_supply. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367271",
+        "osm-kind:medical_supply"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-mario-tarrago-tattoo",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2676739,
+        41.483316
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Mario Tarragó Tattoo",
+        "es": "Mario Tarragó Tattoo",
+        "en": "Mario Tarragó Tattoo"
+      },
+      "description": {
+        "ca": "Mario Tarragó Tattoo. Punt d'interès de Tiana registrat a OpenStreetMap com tattoo. Font: OpenStreetMap.",
+        "es": "Mario Tarragó Tattoo. Punto de interés de Tiana registrado en OpenStreetMap como tattoo. Fuente: OpenStreetMap.",
+        "en": "Mario Tarragó Tattoo. Tiana point of interest listed in OpenStreetMap as tattoo. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367272",
+        "osm-kind:tattoo"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-condis",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2679493,
+        41.4822864
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Condis",
+        "es": "Condis",
+        "en": "Condis"
+      },
+      "description": {
+        "ca": "Condis. Punt d'interès de Tiana registrat a OpenStreetMap com supermarket. Font: OpenStreetMap.",
+        "es": "Condis. Punto de interés de Tiana registrado en OpenStreetMap como supermarket. Fuente: OpenStreetMap.",
+        "en": "Condis. Tiana point of interest listed in OpenStreetMap as supermarket. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367283",
+        "osm-kind:supermarket",
+        "horari:Mo-Sa 09:00-21:00"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-tiana-supermercat",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2687112,
+        41.4794479
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Tiana Supermercat",
+        "es": "Tiana Supermercat",
+        "en": "Tiana Supermercat"
+      },
+      "description": {
+        "ca": "Tiana Supermercat. Punt d'interès de Tiana registrat a OpenStreetMap com convenience. Font: OpenStreetMap.",
+        "es": "Tiana Supermercat. Punto de interés de Tiana registrado en OpenStreetMap como convenience. Fuente: OpenStreetMap.",
+        "en": "Tiana Supermercat. Tiana point of interest listed in OpenStreetMap as convenience. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367289",
+        "osm-kind:convenience"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-restaurante-mas-blanc",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2697563,
+        41.4874247
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Restaurante Mas Blanc",
+        "es": "Restaurante Mas Blanc",
+        "en": "Restaurante Mas Blanc"
+      },
+      "description": {
+        "ca": "Restaurante Mas Blanc. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
+        "es": "Restaurante Mas Blanc. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
+        "en": "Restaurante Mas Blanc. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367302",
+        "osm-kind:restaurant"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-el-9-choco",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2684985,
+        41.482678
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "El 9 choco",
+        "es": "El 9 choco",
+        "en": "El 9 choco"
+      },
+      "description": {
+        "ca": "El 9 choco. Punt d'interès de Tiana registrat a OpenStreetMap com cafe. Font: OpenStreetMap.",
+        "es": "El 9 choco. Punto de interés de Tiana registrado en OpenStreetMap como cafe. Fuente: OpenStreetMap.",
+        "en": "El 9 choco. Tiana point of interest listed in OpenStreetMap as cafe. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367314",
+        "osm-kind:cafe"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-caixabank",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2682861,
+        41.4826189
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Caixabank",
+        "es": "Caixabank",
+        "en": "Caixabank"
+      },
+      "description": {
+        "ca": "Caixabank. Punt d'interès de Tiana registrat a OpenStreetMap com bank. Font: OpenStreetMap.",
+        "es": "Caixabank. Punto de interés de Tiana registrado en OpenStreetMap como bank. Fuente: OpenStreetMap.",
+        "en": "Caixabank. Tiana point of interest listed in OpenStreetMap as bank. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367315",
+        "osm-kind:bank"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-centre-veterinari-tiana",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2684997,
+        41.4826218
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Centre Veterinari Tiana",
+        "es": "Centre Veterinari Tiana",
+        "en": "Centre Veterinari Tiana"
+      },
+      "description": {
+        "ca": "Centre Veterinari Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com veterinary. Font: OpenStreetMap.",
+        "es": "Centre Veterinari Tiana. Punto de interés de Tiana registrado en OpenStreetMap como veterinary. Fuente: OpenStreetMap.",
+        "en": "Centre Veterinari Tiana. Tiana point of interest listed in OpenStreetMap as veterinary. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367316",
+        "osm-kind:veterinary"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-quissos",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2683161,
+        41.4827154
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Quissos",
+        "es": "Quissos",
+        "en": "Quissos"
+      },
+      "description": {
+        "ca": "Quissos. Punt d'interès de Tiana registrat a OpenStreetMap com pet_grooming. Font: OpenStreetMap.",
+        "es": "Quissos. Punto de interés de Tiana registrado en OpenStreetMap como pet_grooming. Fuente: OpenStreetMap.",
+        "en": "Quissos. Tiana point of interest listed in OpenStreetMap as pet_grooming. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367317",
+        "osm-kind:pet_grooming"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-admon-1-loteria-y-apuestas-del-estado",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2683654,
+        41.4826988
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Admon. 1 Loteria y Apuestas del Estado",
+        "es": "Admon. 1 Loteria y Apuestas del Estado",
+        "en": "Admon. 1 Loteria y Apuestas del Estado"
+      },
+      "description": {
+        "ca": "Admon. 1 Loteria y Apuestas del Estado. Punt d'interès de Tiana registrat a OpenStreetMap com lottery. Font: OpenStreetMap.",
+        "es": "Admon. 1 Loteria y Apuestas del Estado. Punto de interés de Tiana registrado en OpenStreetMap como lottery. Fuente: OpenStreetMap.",
+        "en": "Admon. 1 Loteria y Apuestas del Estado. Tiana point of interest listed in OpenStreetMap as lottery. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367318",
+        "osm-kind:lottery"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-mi-bella-serendipia",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268416,
+        41.4826908
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Mi bella serendipia",
+        "es": "Mi bella serendipia",
+        "en": "Mi bella serendipia"
+      },
+      "description": {
+        "ca": "Mi bella serendipia. Punt d'interès de Tiana registrat a OpenStreetMap com books. Font: OpenStreetMap.",
+        "es": "Mi bella serendipia. Punto de interés de Tiana registrado en OpenStreetMap como books. Fuente: OpenStreetMap.",
+        "en": "Mi bella serendipia. Tiana point of interest listed in OpenStreetMap as books. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367319",
+        "osm-kind:books"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-kids-us",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2686907,
+        41.4825365
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Kids&Us",
+        "es": "Kids&Us",
+        "en": "Kids&Us"
+      },
+      "description": {
+        "ca": "Kids&Us. Punt d'interès de Tiana registrat a OpenStreetMap com language_school. Font: OpenStreetMap.",
+        "es": "Kids&Us. Punto de interés de Tiana registrado en OpenStreetMap como language_school. Fuente: OpenStreetMap.",
+        "en": "Kids&Us. Tiana point of interest listed in OpenStreetMap as language_school. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5521367321",
+        "osm-kind:language_school",
+        "telefon:+34934657605",
+        "web:https://tiana.kidsandus.es/ca/"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-farmacia-capdevila-bassols-montserrat",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2682494,
+        41.4802299
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Farmàcia Capdevila Bassols, Montserrat",
+        "es": "Farmàcia Capdevila Bassols, Montserrat",
+        "en": "Farmàcia Capdevila Bassols, Montserrat"
+      },
+      "description": {
+        "ca": "Farmàcia Capdevila Bassols, Montserrat. Punt d'interès de Tiana registrat a OpenStreetMap com pharmacy. Font: OpenStreetMap.",
+        "es": "Farmàcia Capdevila Bassols, Montserrat. Punto de interés de Tiana registrado en OpenStreetMap como pharmacy. Fuente: OpenStreetMap.",
+        "en": "Farmàcia Capdevila Bassols, Montserrat. Tiana point of interest listed in OpenStreetMap as pharmacy. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5522065831",
+        "osm-kind:pharmacy",
+        "horari:Mo-Fr 08:30-20:30; Sa 09:00-13:30"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-decor-casa",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2683307,
+        41.4805055
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Decor casa",
+        "es": "Decor casa",
+        "en": "Decor casa"
+      },
+      "description": {
+        "ca": "Decor casa. Punt d'interès de Tiana registrat a OpenStreetMap com convenience. Font: OpenStreetMap.",
+        "es": "Decor casa. Punto de interés de Tiana registrado en OpenStreetMap como convenience. Fuente: OpenStreetMap.",
+        "en": "Decor casa. Tiana point of interest listed in OpenStreetMap as convenience. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5522065832",
+        "osm-kind:convenience",
+        "horari:Mo-Sa 09:30-14:00,16:15-20:30"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-modomio",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2681945,
+        41.4803258
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Modomio",
+        "es": "Modomio",
+        "en": "Modomio"
+      },
+      "description": {
+        "ca": "Modomio. Punt d'interès de Tiana registrat a OpenStreetMap com fast_food. Font: OpenStreetMap.",
+        "es": "Modomio. Punto de interés de Tiana registrado en OpenStreetMap como fast_food. Fuente: OpenStreetMap.",
+        "en": "Modomio. Tiana point of interest listed in OpenStreetMap as fast_food. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/5522065833",
+        "osm-kind:fast_food",
+        "horari:Mo-Su 19:30-23:30"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-badagres",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2579404,
+        41.4786744
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Badagres",
+        "es": "Badagres",
+        "en": "Badagres"
+      },
+      "description": {
+        "ca": "Badagres. Punt d'interès de Tiana registrat a OpenStreetMap com trade. Font: OpenStreetMap.",
+        "es": "Badagres. Punto de interés de Tiana registrado en OpenStreetMap como trade. Fuente: OpenStreetMap.",
+        "en": "Badagres. Tiana point of interest listed in OpenStreetMap as trade. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/7143269378",
+        "osm-kind:trade",
+        "web:http://www.grumat.cat/"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-parc-de-la-serralada-litoral",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2621725,
+        41.4913824
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc de la Serralada Litoral",
+        "es": "Parc de la Serralada Litoral",
+        "en": "Parc de la Serralada Litoral"
+      },
+      "description": {
+        "ca": "Parc de la Serralada Litoral. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "Parc de la Serralada Litoral. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "Parc de la Serralada Litoral. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/8574635718",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-font-de-sant-bru",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2562312,
+        41.4855573
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Font de Sant Bru",
+        "es": "Font de Sant Bru",
+        "en": "Font de Sant Bru"
+      },
+      "description": {
+        "ca": "Font de Sant Bru. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "Font de Sant Bru. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "Font de Sant Bru. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/8574636317",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-ruta-sl-c-146",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2610436,
+        41.4907889
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "ruta SL-C 146",
+        "es": "ruta SL-C 146",
+        "en": "ruta SL-C 146"
+      },
+      "description": {
+        "ca": "ruta SL-C 146. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "ruta SL-C 146. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "ruta SL-C 146. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/8574636420",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-slc",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2584949,
+        41.4825518
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Slc",
+        "es": "Slc",
+        "en": "Slc"
+      },
+      "description": {
+        "ca": "Slc. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "Slc. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "Slc. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/8574636618",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-95-145-146",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2614604,
+        41.4918432
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "95 145 146",
+        "es": "95 145 146",
+        "en": "95 145 146"
+      },
+      "description": {
+        "ca": "95 145 146. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "95 145 146. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "95 145 146. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/8574653520",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-ruta-sl-c-145",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2619356,
+        41.4918236
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "ruta SL-C 145",
+        "es": "ruta SL-C 145",
+        "en": "ruta SL-C 145"
+      },
+      "description": {
+        "ca": "ruta SL-C 145. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "ruta SL-C 145. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "ruta SL-C 145. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/8574668817",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-slc-146",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2549514,
+        41.4918429
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Slc 146",
+        "es": "Slc 146",
+        "en": "Slc 146"
+      },
+      "description": {
+        "ca": "Slc 146. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "Slc 146. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "Slc 146. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/8574843517",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-parc-serralada-de-la-marina",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2539478,
+        41.4916499
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc Serralada de la Marina",
+        "es": "Parc Serralada de la Marina",
+        "en": "Parc Serralada de la Marina"
+      },
+      "description": {
+        "ca": "Parc Serralada de la Marina. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "Parc Serralada de la Marina. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "Parc Serralada de la Marina. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/8574876517",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-les-terrasses-de-sant-roma",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2600614,
+        41.4837115
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Les Terrasses de Sant Romà",
+        "es": "Les Terrasses de Sant Romà",
+        "en": "Les Terrasses de Sant Romà"
+      },
+      "description": {
+        "ca": "Les Terrasses de Sant Romà. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
+        "es": "Les Terrasses de Sant Romà. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
+        "en": "Les Terrasses de Sant Romà. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/8866921947",
+        "osm-kind:restaurant",
+        "web:https://lesterrasses.cat/"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-sl-c-95-sl-c-145-sl-c-146",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2586314,
+        41.4925666
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "SL-C 95 SL-C 145 SL-C 146",
+        "es": "SL-C 95 SL-C 145 SL-C 146",
+        "en": "SL-C 95 SL-C 145 SL-C 146"
+      },
+      "description": {
+        "ca": "SL-C 95 SL-C 145 SL-C 146. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "SL-C 95 SL-C 145 SL-C 146. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "SL-C 95 SL-C 145 SL-C 146. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/10601093905",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-refugi-climatic-biblioteca-can-baratau",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.269063,
+        41.482591
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Refugi climàtic Biblioteca Can Baratau",
+        "es": "Refugi climàtic Biblioteca Can Baratau",
+        "en": "Refugi climàtic Biblioteca Can Baratau"
+      },
+      "description": {
+        "ca": "Refugi climàtic Biblioteca Can Baratau. Punt d'interès de Tiana registrat a OpenStreetMap com shelter. Font: OpenStreetMap.",
+        "es": "Refugi climàtic Biblioteca Can Baratau. Punto de interés de Tiana registrado en OpenStreetMap como shelter. Fuente: OpenStreetMap.",
+        "en": "Refugi climàtic Biblioteca Can Baratau. Tiana point of interest listed in OpenStreetMap as shelter. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/11057421323",
+        "osm-kind:shelter"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-refugi-climatic-placa-de-salvador-espriu",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2716111,
+        41.4781038
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Refugi climàtic Plaça de Salvador Espriu",
+        "es": "Refugi climàtic Plaça de Salvador Espriu",
+        "en": "Refugi climàtic Plaça de Salvador Espriu"
+      },
+      "description": {
+        "ca": "Refugi climàtic Plaça de Salvador Espriu. Punt d'interès de Tiana registrat a OpenStreetMap com shelter. Font: OpenStreetMap.",
+        "es": "Refugi climàtic Plaça de Salvador Espriu. Punto de interés de Tiana registrado en OpenStreetMap como shelter. Fuente: OpenStreetMap.",
+        "en": "Refugi climàtic Plaça de Salvador Espriu. Tiana point of interest listed in OpenStreetMap as shelter. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/11057421324",
+        "osm-kind:shelter"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-refugi-climatic-parc-de-l-antic-camp-de-futbol-de-tiana",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2694197,
+        41.478974
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Refugi climàtic Parc de l'antic camp de futbol de Tiana",
+        "es": "Refugi climàtic Parc de l'antic camp de futbol de Tiana",
+        "en": "Refugi climàtic Parc de l'antic camp de futbol de Tiana"
+      },
+      "description": {
+        "ca": "Refugi climàtic Parc de l'antic camp de futbol de Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com shelter. Font: OpenStreetMap.",
+        "es": "Refugi climàtic Parc de l'antic camp de futbol de Tiana. Punto de interés de Tiana registrado en OpenStreetMap como shelter. Fuente: OpenStreetMap.",
+        "en": "Refugi climàtic Parc de l'antic camp de futbol de Tiana. Tiana point of interest listed in OpenStreetMap as shelter. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/11057421325",
+        "osm-kind:shelter"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-refugi-climatic-parc-de-joan-armengol-i-moline",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2699698,
+        41.4865287
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Refugi climàtic Parc de Joan Armengol i Moliné",
+        "es": "Refugi climàtic Parc de Joan Armengol i Moliné",
+        "en": "Refugi climàtic Parc de Joan Armengol i Moliné"
+      },
+      "description": {
+        "ca": "Refugi climàtic Parc de Joan Armengol i Moliné. Punt d'interès de Tiana registrat a OpenStreetMap com shelter. Font: OpenStreetMap.",
+        "es": "Refugi climàtic Parc de Joan Armengol i Moliné. Punto de interés de Tiana registrado en OpenStreetMap como shelter. Fuente: OpenStreetMap.",
+        "en": "Refugi climàtic Parc de Joan Armengol i Moliné. Tiana point of interest listed in OpenStreetMap as shelter. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/11057421326",
+        "osm-kind:shelter"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-refugi-climatic-llar-de-persones-grans",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2684354,
+        41.4817189
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Refugi climàtic Llar de persones grans",
+        "es": "Refugi climàtic Llar de persones grans",
+        "en": "Refugi climàtic Llar de persones grans"
+      },
+      "description": {
+        "ca": "Refugi climàtic Llar de persones grans. Punt d'interès de Tiana registrat a OpenStreetMap com shelter. Font: OpenStreetMap.",
+        "es": "Refugi climàtic Llar de persones grans. Punto de interés de Tiana registrado en OpenStreetMap como shelter. Fuente: OpenStreetMap.",
+        "en": "Refugi climàtic Llar de persones grans. Tiana point of interest listed in OpenStreetMap as shelter. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/11057421327",
+        "osm-kind:shelter"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-la-bodega-del-mascaro",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2678098,
+        41.4826881
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "La Bodega del Mascaró",
+        "es": "La Bodega del Mascaró",
+        "en": "La Bodega del Mascaró"
+      },
+      "description": {
+        "ca": "La Bodega del Mascaró. Punt d'interès de Tiana registrat a OpenStreetMap com bar. Font: OpenStreetMap.",
+        "es": "La Bodega del Mascaró. Punto de interés de Tiana registrado en OpenStreetMap como bar. Fuente: OpenStreetMap.",
+        "en": "La Bodega del Mascaró. Tiana point of interest listed in OpenStreetMap as bar. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/11063045905",
+        "osm-kind:bar",
+        "web:https://labodegadelmascaro.cat/"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-monument-a-joan-armengol",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2704898,
+        41.4856777
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Monument a Joan Armengol",
+        "es": "Monument a Joan Armengol",
+        "en": "Monument a Joan Armengol"
+      },
+      "description": {
+        "ca": "Monument a Joan Armengol. Punt d'interès de Tiana registrat a OpenStreetMap com memorial. Font: OpenStreetMap.",
+        "es": "Monument a Joan Armengol. Punto de interés de Tiana registrado en OpenStreetMap como memorial. Fuente: OpenStreetMap.",
+        "en": "Monument a Joan Armengol. Tiana point of interest listed in OpenStreetMap as memorial. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/11093529002",
+        "osm-kind:memorial"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-la-local-radio-tiana",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2689222,
+        41.4815489
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "La Local Ràdio Tiana",
+        "es": "La Local Ràdio Tiana",
+        "en": "La Local Ràdio Tiana"
+      },
+      "description": {
+        "ca": "La Local Ràdio Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com studio. Font: OpenStreetMap.",
+        "es": "La Local Ràdio Tiana. Punto de interés de Tiana registrado en OpenStreetMap como studio. Fuente: OpenStreetMap.",
+        "en": "La Local Ràdio Tiana. Tiana point of interest listed in OpenStreetMap as studio. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/11117901686",
+        "osm-kind:studio",
+        "telefon:+34 609 16 45 02",
+        "web:https://lalocal.tianat.cat/"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-boter",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2701229,
+        41.4857449
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Boter",
+        "es": "Can Boter",
+        "en": "Can Boter"
+      },
+      "description": {
+        "ca": "Can Boter. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
+        "es": "Can Boter. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
+        "en": "Can Boter. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/11309990090",
+        "osm-kind:restaurant"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-la-ben-plantada",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2691412,
+        41.4825082
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "La ben plantada",
+        "es": "La ben plantada",
+        "en": "La ben plantada"
+      },
+      "description": {
+        "ca": "La ben plantada. Punt d'interès de Tiana registrat a OpenStreetMap com memorial. Font: OpenStreetMap.",
+        "es": "La ben plantada. Punto de interés de Tiana registrado en OpenStreetMap como memorial. Fuente: OpenStreetMap.",
+        "en": "La ben plantada. Tiana point of interest listed in OpenStreetMap as memorial. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/11310029376",
+        "osm-kind:memorial",
+        "web:https://patrimonicultural.diba.cat/element/la-ben-plantada"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-forn-de-pa-enric-sola",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268037,
+        41.4832253
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Forn de pa Enric Solà",
+        "es": "Forn de pa Enric Solà",
+        "en": "Forn de pa Enric Solà"
+      },
+      "description": {
+        "ca": "Forn de pa Enric Solà. Punt d'interès de Tiana registrat a OpenStreetMap com bakery. Font: OpenStreetMap.",
+        "es": "Forn de pa Enric Solà. Punto de interés de Tiana registrado en OpenStreetMap como bakery. Fuente: OpenStreetMap.",
+        "en": "Forn de pa Enric Solà. Tiana point of interest listed in OpenStreetMap as bakery. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12043191223",
+        "osm-kind:bakery",
+        "horari:Mo-Fr 07:00-15:00,16:30-20:30; Sa 07:30-15:00; PH,Su 08:00-15:00"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-la-fortune",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2676082,
+        41.4862538
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "la Fortune",
+        "es": "la Fortune",
+        "en": "la Fortune"
+      },
+      "description": {
+        "ca": "la Fortune. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
+        "es": "la Fortune. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
+        "en": "la Fortune. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12043901731",
+        "osm-kind:restaurant",
+        "horari:Mo-Th 08:45-00:00"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-farmacia-tiana",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2708028,
+        41.4783608
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Farmàcia Tiana",
+        "es": "Farmàcia Tiana",
+        "en": "Farmàcia Tiana"
+      },
+      "description": {
+        "ca": "Farmàcia Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com pharmacy. Font: OpenStreetMap.",
+        "es": "Farmàcia Tiana. Punto de interés de Tiana registrado en OpenStreetMap como pharmacy. Fuente: OpenStreetMap.",
+        "en": "Farmàcia Tiana. Tiana point of interest listed in OpenStreetMap as pharmacy. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12060882249",
+        "osm-kind:pharmacy"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-igreen-garden",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2574489,
+        41.4762427
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "igreen Garden",
+        "es": "igreen Garden",
+        "en": "igreen Garden"
+      },
+      "description": {
+        "ca": "igreen Garden. Punt d'interès de Tiana registrat a OpenStreetMap com garden_centre. Font: OpenStreetMap.",
+        "es": "igreen Garden. Punto de interés de Tiana registrado en OpenStreetMap como garden_centre. Fuente: OpenStreetMap.",
+        "en": "igreen Garden. Tiana point of interest listed in OpenStreetMap as garden_centre. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12079902512",
+        "osm-kind:garden_centre"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-tiana-contra-les-agressions-masclistes-benvinguts-a-tiana",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2655654,
+        41.4880303
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Tiana contra les agressions masclistes. Benvinguts a Tiana.",
+        "es": "Tiana contra les agressions masclistes. Benvinguts a Tiana.",
+        "en": "Tiana contra les agressions masclistes. Benvinguts a Tiana."
+      },
+      "description": {
+        "ca": "Tiana contra les agressions masclistes. Benvinguts a Tiana.. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "Tiana contra les agressions masclistes. Benvinguts a Tiana.. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "Tiana contra les agressions masclistes. Benvinguts a Tiana.. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12125064085",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-miracor-de-la-vall-de-montalegre",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2496254,
+        41.4839256
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Miracor de la vall de Montalegre",
+        "es": "Miracor de la vall de Montalegre",
+        "en": "Miracor de la vall de Montalegre"
+      },
+      "description": {
+        "ca": "Miracor de la vall de Montalegre. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "Miracor de la vall de Montalegre. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "Miracor de la vall de Montalegre. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12348579701",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-la-migracio-de-les-aus-rapinyaires-diurnes",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2661361,
+        41.5041241
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "La migració de les aus rapinyaires diürnes",
+        "es": "La migració de les aus rapinyaires diürnes",
+        "en": "La migració de les aus rapinyaires diürnes"
+      },
+      "description": {
+        "ca": "La migració de les aus rapinyaires diürnes. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "La migració de les aus rapinyaires diürnes. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "La migració de les aus rapinyaires diürnes. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12486277901",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-sl-c-95",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.266488,
+        41.5044811
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "SL-C 95",
+        "es": "SL-C 95",
+        "en": "SL-C 95"
+      },
+      "description": {
+        "ca": "SL-C 95. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "SL-C 95. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "SL-C 95. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12486278001",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-coll-del-turo-d-en-galceran",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2679447,
+        41.5028447
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Coll del Turó d'en Galceran",
+        "es": "Coll del Turó d'en Galceran",
+        "en": "Coll del Turó d'en Galceran"
+      },
+      "description": {
+        "ca": "Coll del Turó d'en Galceran. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "Coll del Turó d'en Galceran. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "Coll del Turó d'en Galceran. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12486291601",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-sl-c-135",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2685816,
+        41.5011762
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "SL-C 135",
+        "es": "SL-C 135",
+        "en": "SL-C 135"
+      },
+      "description": {
+        "ca": "SL-C 135. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "SL-C 135. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "SL-C 135. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12486299502",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-sl-c-96",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2813928,
+        41.4904801
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "SL-C 96",
+        "es": "SL-C 96",
+        "en": "SL-C 96"
+      },
+      "description": {
+        "ca": "SL-C 96. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "SL-C 96. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "SL-C 96. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12486342001",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-celler-alta-alella-mirgin",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2848353,
+        41.4848481
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Celler Alta Alella Mirgin",
+        "es": "Celler Alta Alella Mirgin",
+        "en": "Celler Alta Alella Mirgin"
+      },
+      "description": {
+        "ca": "Celler Alta Alella Mirgin. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "Celler Alta Alella Mirgin. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "Celler Alta Alella Mirgin. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12486363301",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-eix-central-del-maresme",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2848579,
+        41.4848072
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Eix Central del Maresme",
+        "es": "Eix Central del Maresme",
+        "en": "Eix Central del Maresme"
+      },
+      "description": {
+        "ca": "Eix Central del Maresme. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "Eix Central del Maresme. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "Eix Central del Maresme. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12488029643",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-tranvia-de-montgat-tiana",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2678943,
+        41.4811723
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Tranvia de Montgat-Tiana",
+        "es": "Tranvia de Montgat-Tiana",
+        "en": "Tranvia de Montgat-Tiana"
+      },
+      "description": {
+        "ca": "Tranvia de Montgat-Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "Tranvia de Montgat-Tiana. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "Tranvia de Montgat-Tiana. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12658057002",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-elies",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2653026,
+        41.4777606
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Elies",
+        "es": "Can Elies",
+        "en": "Can Elies"
+      },
+      "description": {
+        "ca": "Can Elies. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Elies. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Elies. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12787005166",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-jaciment-de-ca-l-andreu",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2714448,
+        41.4902566
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Jaciment de Ca l'Andreu",
+        "es": "Jaciment de Ca l'Andreu",
+        "en": "Jaciment de Ca l'Andreu"
+      },
+      "description": {
+        "ca": "Jaciment de Ca l'Andreu. Punt d'interès de Tiana registrat a OpenStreetMap com archaeological_site. Font: OpenStreetMap.",
+        "es": "Jaciment de Ca l'Andreu. Punto de interés de Tiana registrado en OpenStreetMap como archaeological_site. Fuente: OpenStreetMap.",
+        "en": "Jaciment de Ca l'Andreu. Tiana point of interest listed in OpenStreetMap as archaeological_site. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12787026442",
+        "osm-kind:archaeological_site"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-orella",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2663732,
+        41.4801151
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Orella",
+        "es": "Can Orella",
+        "en": "Can Orella"
+      },
+      "description": {
+        "ca": "Can Orella. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Orella. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Orella. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12787061620",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-bocatto",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2689188,
+        41.4795914
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Bocatto",
+        "es": "Can Bocatto",
+        "en": "Can Bocatto"
+      },
+      "description": {
+        "ca": "Can Bocatto. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Bocatto. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Bocatto. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12787242705",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-bretos",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2689843,
+        41.4794981
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Bretos",
+        "es": "Can Bretos",
+        "en": "Can Bretos"
+      },
+      "description": {
+        "ca": "Can Bretos. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Bretos. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Bretos. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12787671211",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-cruspinera",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2696062,
+        41.4765134
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Cruspinera",
+        "es": "Can Cruspinera",
+        "en": "Can Cruspinera"
+      },
+      "description": {
+        "ca": "Can Cruspinera. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Cruspinera. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Cruspinera. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12787671212",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-ca-la-doloretes",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2695793,
+        41.4830108
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Ca la Doloretes",
+        "es": "Ca la Doloretes",
+        "en": "Ca la Doloretes"
+      },
+      "description": {
+        "ca": "Ca la Doloretes. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Ca la Doloretes. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Ca la Doloretes. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12787671213",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-gari",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2684799,
+        41.4794633
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Garí",
+        "es": "Can Garí",
+        "en": "Can Garí"
+      },
+      "description": {
+        "ca": "Can Garí. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Garí. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Garí. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12787671214",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-ca-la-godo",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2665208,
+        41.4868859
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Ca la Godó",
+        "es": "Ca la Godó",
+        "en": "Ca la Godó"
+      },
+      "description": {
+        "ca": "Ca la Godó. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Ca la Godó. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Ca la Godó. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12787671215",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-grasses",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2690815,
+        41.4846774
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Grasses",
+        "es": "Can Grasses",
+        "en": "Can Grasses"
+      },
+      "description": {
+        "ca": "Can Grasses. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Grasses. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Grasses. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12787671216",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-jaumet",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2683242,
+        41.4809812
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Jaumet",
+        "es": "Can Jaumet",
+        "en": "Can Jaumet"
+      },
+      "description": {
+        "ca": "Can Jaumet. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Jaumet. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Jaumet. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12787671217",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-ca-lamana",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2669093,
+        41.4835225
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Ca Lamaña",
+        "es": "Ca Lamaña",
+        "en": "Ca Lamaña"
+      },
+      "description": {
+        "ca": "Ca Lamaña. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Ca Lamaña. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Ca Lamaña. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/12787671218",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-verd-es-bo",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2684229,
+        41.4834195
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Verd es bo",
+        "es": "Verd es bo",
+        "en": "Verd es bo"
+      },
+      "description": {
+        "ca": "Verd es bo. Punt d'interès de Tiana registrat a OpenStreetMap com florist. Font: OpenStreetMap.",
+        "es": "Verd es bo. Punto de interés de Tiana registrado en OpenStreetMap como florist. Fuente: OpenStreetMap.",
+        "en": "Verd es bo. Tiana point of interest listed in OpenStreetMap as florist. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/13514157037",
+        "osm-kind:florist",
+        "horari:Tu-Fr 10:00-13:30,17:30-20:00; Sa 10:00-13:30"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-vsk-beauty-experience",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2688014,
+        41.4829231
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "VSK Beauty Experience",
+        "es": "VSK Beauty Experience",
+        "en": "VSK Beauty Experience"
+      },
+      "description": {
+        "ca": "VSK Beauty Experience. Punt d'interès de Tiana registrat a OpenStreetMap com beauty. Font: OpenStreetMap.",
+        "es": "VSK Beauty Experience. Punto de interés de Tiana registrado en OpenStreetMap como beauty. Fuente: OpenStreetMap.",
+        "en": "VSK Beauty Experience. Tiana point of interest listed in OpenStreetMap as beauty. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/13744614774",
+        "osm-kind:beauty"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-petit-micacu",
+    "type": "commerce",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2687354,
+        41.4829427
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Petit Micacu",
+        "es": "Petit Micacu",
+        "en": "Petit Micacu"
+      },
+      "description": {
+        "ca": "Petit Micacu. Punt d'interès de Tiana registrat a OpenStreetMap com toys. Font: OpenStreetMap.",
+        "es": "Petit Micacu. Punto de interés de Tiana registrado en OpenStreetMap como toys. Fuente: OpenStreetMap.",
+        "en": "Petit Micacu. Tiana point of interest listed in OpenStreetMap as toys. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:node/13744614775",
+        "osm-kind:toys"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-alberg-la-conreria-fundacio-pere-tarres",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2525071,
+        41.4915544
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Alberg La Conreria. Fundació Pere Tarrés",
+        "es": "Alberg La Conreria. Fundació Pere Tarrés",
+        "en": "Alberg La Conreria. Fundació Pere Tarrés"
+      },
+      "description": {
+        "ca": "Alberg La Conreria. Fundació Pere Tarrés. Punt d'interès de Tiana registrat a OpenStreetMap com hostel. Font: OpenStreetMap.",
+        "es": "Alberg La Conreria. Fundació Pere Tarrés. Punto de interés de Tiana registrado en OpenStreetMap como hostel. Fuente: OpenStreetMap.",
+        "en": "Alberg La Conreria. Fundació Pere Tarrés. Tiana point of interest listed in OpenStreetMap as hostel. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/127979277",
+        "osm-kind:hostel",
+        "telefon:+34 933951011",
+        "web:https://www.peretarres.org/conreria/"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-zona-esportiva-municipal-de-tiana",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.261873,
+        41.4907259
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Zona esportiva municipal de Tiana",
+        "es": "Zona esportiva municipal de Tiana",
+        "en": "Zona esportiva municipal de Tiana"
+      },
+      "description": {
+        "ca": "Zona esportiva municipal de Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com sports_centre. Font: OpenStreetMap.",
+        "es": "Zona esportiva municipal de Tiana. Punto de interés de Tiana registrado en OpenStreetMap como sports_centre. Fuente: OpenStreetMap.",
+        "en": "Zona esportiva municipal de Tiana. Tiana point of interest listed in OpenStreetMap as sports_centre. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/152785945",
+        "osm-kind:sports_centre"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-vil-la-romana-de-can-sent-roma",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2578103,
+        41.482008
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Vil·la romana de Can Sent-romà",
+        "es": "Vil·la romana de Can Sent-romà",
+        "en": "Vil·la romana de Can Sent-romà"
+      },
+      "description": {
+        "ca": "Vil·la romana de Can Sent-romà. Punt d'interès de Tiana registrat a OpenStreetMap com archaeological_site. Font: OpenStreetMap.",
+        "es": "Vil·la romana de Can Sent-romà. Punto de interés de Tiana registrado en OpenStreetMap como archaeological_site. Fuente: OpenStreetMap.",
+        "en": "Vil·la romana de Can Sent-romà. Tiana point of interest listed in OpenStreetMap as archaeological_site. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/268215331",
+        "osm-kind:archaeological_site"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-deixalleria-de-tiana-i-mongat",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2626923,
+        41.491599
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Deixalleria de Tiana i Mongat",
+        "es": "Deixalleria de Tiana i Mongat",
+        "en": "Deixalleria de Tiana i Mongat"
+      },
+      "description": {
+        "ca": "Deixalleria de Tiana i Mongat. Punt d'interès de Tiana registrat a OpenStreetMap com recycling. Font: OpenStreetMap.",
+        "es": "Deixalleria de Tiana i Mongat. Punto de interés de Tiana registrado en OpenStreetMap como recycling. Fuente: OpenStreetMap.",
+        "en": "Deixalleria de Tiana i Mongat. Tiana point of interest listed in OpenStreetMap as recycling. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/368393767",
+        "osm-kind:recycling",
+        "horari:Mo-Sa 09:00-13:00,16:00-19:00; Su 10:00-13:00"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-duin-jordi-mari",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2613806,
+        41.490419
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Duin Jordi Marí",
+        "es": "Duin Jordi Marí",
+        "en": "Duin Jordi Marí"
+      },
+      "description": {
+        "ca": "Duin Jordi Marí. Punt d'interès de Tiana registrat a OpenStreetMap com fitness_centre. Font: OpenStreetMap.",
+        "es": "Duin Jordi Marí. Punto de interés de Tiana registrado en OpenStreetMap como fitness_centre. Fuente: OpenStreetMap.",
+        "en": "Duin Jordi Marí. Tiana point of interest listed in OpenStreetMap as fitness_centre. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/400613603",
+        "osm-kind:fitness_centre"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-piscina-municipal-jordi-mari",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2615977,
+        41.4900706
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Piscina municipal Jordi Marí",
+        "es": "Piscina municipal Jordi Marí",
+        "en": "Piscina municipal Jordi Marí"
+      },
+      "description": {
+        "ca": "Piscina municipal Jordi Marí. Punt d'interès de Tiana registrat a OpenStreetMap com sports_centre. Font: OpenStreetMap.",
+        "es": "Piscina municipal Jordi Marí. Punto de interés de Tiana registrado en OpenStreetMap como sports_centre. Fuente: OpenStreetMap.",
+        "en": "Piscina municipal Jordi Marí. Tiana point of interest listed in OpenStreetMap as sports_centre. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/400613605",
+        "osm-kind:sports_centre"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-mirador-de-nou-pins",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2777133,
+        41.4958647
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Mirador de Nou Pins",
+        "es": "Mirador de Nou Pins",
+        "en": "Mirador de Nou Pins"
+      },
+      "description": {
+        "ca": "Mirador de Nou Pins. Punt d'interès de Tiana registrat a OpenStreetMap com viewpoint. Font: OpenStreetMap.",
+        "es": "Mirador de Nou Pins. Punto de interés de Tiana registrado en OpenStreetMap como viewpoint. Fuente: OpenStreetMap.",
+        "en": "Mirador de Nou Pins. Tiana point of interest listed in OpenStreetMap as viewpoint. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/413600031",
+        "osm-kind:viewpoint"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-area-d-en-galzeran",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2661932,
+        41.5041875
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Area d'en Galzeran",
+        "es": "Area d'en Galzeran",
+        "en": "Area d'en Galzeran"
+      },
+      "description": {
+        "ca": "Area d'en Galzeran. Punt d'interès de Tiana registrat a OpenStreetMap com viewpoint. Font: OpenStreetMap.",
+        "es": "Area d'en Galzeran. Punto de interés de Tiana registrado en OpenStreetMap como viewpoint. Fuente: OpenStreetMap.",
+        "en": "Area d'en Galzeran. Tiana point of interest listed in OpenStreetMap as viewpoint. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/413611147",
+        "osm-kind:viewpoint"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-parc-del-doctor-barraquer",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2723547,
+        41.4766901
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc del Doctor Barraquer",
+        "es": "Parc del Doctor Barraquer",
+        "en": "Parc del Doctor Barraquer"
+      },
+      "description": {
+        "ca": "Parc del Doctor Barraquer. Punt d'interès de Tiana registrat a OpenStreetMap com park. Font: OpenStreetMap.",
+        "es": "Parc del Doctor Barraquer. Punto de interés de Tiana registrado en OpenStreetMap como park. Fuente: OpenStreetMap.",
+        "en": "Parc del Doctor Barraquer. Tiana point of interest listed in OpenStreetMap as park. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/448184762",
+        "osm-kind:park"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-ermita-de-la-alegria",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2714421,
+        41.4890485
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Ermita de la Alegría",
+        "es": "Ermita de la Alegría",
+        "en": "Ermita de la Alegría"
+      },
+      "description": {
+        "ca": "Ermita de la Alegría. Punt d'interès de Tiana registrat a OpenStreetMap com place_of_worship. Font: OpenStreetMap.",
+        "es": "Ermita de la Alegría. Punto de interés de Tiana registrado en OpenStreetMap como place_of_worship. Fuente: OpenStreetMap.",
+        "en": "Ermita de la Alegría. Tiana point of interest listed in OpenStreetMap as place_of_worship. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/575387628",
+        "osm-kind:place_of_worship"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-fatjo",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2675564,
+        41.4829302
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Fatjó",
+        "es": "Can Fatjó",
+        "en": "Can Fatjó"
+      },
+      "description": {
+        "ca": "Can Fatjó. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Fatjó. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Fatjó. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/575387638",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-el-raco-de-la-rajola",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2691124,
+        41.4823598
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "El Racó de la Rajola",
+        "es": "El Racó de la Rajola",
+        "en": "El Racó de la Rajola"
+      },
+      "description": {
+        "ca": "El Racó de la Rajola. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "El Racó de la Rajola. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "El Racó de la Rajola. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/575387647",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-pere-morell",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2698164,
+        41.4874133
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Pere Morell",
+        "es": "Can Pere Morell",
+        "en": "Can Pere Morell"
+      },
+      "description": {
+        "ca": "Can Pere Morell. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Pere Morell. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Pere Morell. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/671545624",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-oficina-del-parc-de-la-serralada-de-marina",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2532904,
+        41.4912937
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Oficina del Parc de la Serralada de Marina",
+        "es": "Oficina del Parc de la Serralada de Marina",
+        "en": "Oficina del Parc de la Serralada de Marina"
+      },
+      "description": {
+        "ca": "Oficina del Parc de la Serralada de Marina. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
+        "es": "Oficina del Parc de la Serralada de Marina. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
+        "en": "Oficina del Parc de la Serralada de Marina. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/923189160",
+        "osm-kind:information"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-piscina-municipal-descoberta",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2611225,
+        41.491222
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Piscina municipal descoberta",
+        "es": "Piscina municipal descoberta",
+        "en": "Piscina municipal descoberta"
+      },
+      "description": {
+        "ca": "Piscina municipal descoberta. Punt d'interès de Tiana registrat a OpenStreetMap com swimming_area. Font: OpenStreetMap.",
+        "es": "Piscina municipal descoberta. Punto de interés de Tiana registrado en OpenStreetMap como swimming_area. Fuente: OpenStreetMap.",
+        "en": "Piscina municipal descoberta. Tiana point of interest listed in OpenStreetMap as swimming_area. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/923969473",
+        "osm-kind:swimming_area"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-abam",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2570834,
+        41.484057
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Abam",
+        "es": "Abam",
+        "en": "Abam"
+      },
+      "description": {
+        "ca": "Abam. Punt d'interès de Tiana registrat a OpenStreetMap com animal_shelter. Font: OpenStreetMap.",
+        "es": "Abam. Punto de interés de Tiana registrado en OpenStreetMap como animal_shelter. Fuente: OpenStreetMap.",
+        "en": "Abam. Tiana point of interest listed in OpenStreetMap as animal_shelter. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/923969491",
+        "osm-kind:animal_shelter"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-casa-de-colonies-mas-po-canyado",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2549254,
+        41.4930566
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Casa de colònies Mas Po-Canyadó",
+        "es": "Casa de colònies Mas Po-Canyadó",
+        "en": "Casa de colònies Mas Po-Canyadó"
+      },
+      "description": {
+        "ca": "Casa de colònies Mas Po-Canyadó. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Casa de colònies Mas Po-Canyadó. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Casa de colònies Mas Po-Canyadó. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/982246884",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-sord",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2729049,
+        41.4820349
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Sord",
+        "es": "Can Sord",
+        "en": "Can Sord"
+      },
+      "description": {
+        "ca": "Can Sord. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Sord. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Sord. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132209681",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-ca-n-estela",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2864438,
+        41.4830815
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Ca n'Estela",
+        "es": "Ca n'Estela",
+        "en": "Ca n'Estela"
+      },
+      "description": {
+        "ca": "Ca n'Estela. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Ca n'Estela. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Ca n'Estela. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132209684",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-vila",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2746898,
+        41.4745882
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Vilà",
+        "es": "Can Vilà",
+        "en": "Can Vilà"
+      },
+      "description": {
+        "ca": "Can Vilà. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Vilà. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Vilà. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132209690",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-restaurant-can-roca",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2735942,
+        41.4756756
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Restaurant Can Roca",
+        "es": "Restaurant Can Roca",
+        "en": "Restaurant Can Roca"
+      },
+      "description": {
+        "ca": "Restaurant Can Roca. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
+        "es": "Restaurant Can Roca. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
+        "en": "Restaurant Can Roca. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132209691",
+        "osm-kind:restaurant"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-parxet",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2734511,
+        41.4742713
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Parxet",
+        "es": "Can Parxet",
+        "en": "Can Parxet"
+      },
+      "description": {
+        "ca": "Can Parxet. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Parxet. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Parxet. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132209692",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-garra",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2736927,
+        41.4755066
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Garra",
+        "es": "Can Garra",
+        "en": "Can Garra"
+      },
+      "description": {
+        "ca": "Can Garra. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Garra. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Garra. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132209693",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-frares",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2716573,
+        41.4824722
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Frares",
+        "es": "Can Frares",
+        "en": "Can Frares"
+      },
+      "description": {
+        "ca": "Can Frares. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Frares. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Frares. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248214",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-parc-de-gaieta",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2718806,
+        41.4819436
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc de Gaietà",
+        "es": "Parc de Gaietà",
+        "en": "Parc de Gaietà"
+      },
+      "description": {
+        "ca": "Parc de Gaietà. Punt d'interès de Tiana registrat a OpenStreetMap com park. Font: OpenStreetMap.",
+        "es": "Parc de Gaietà. Punto de interés de Tiana registrado en OpenStreetMap como park. Fuente: OpenStreetMap.",
+        "en": "Parc de Gaietà. Tiana point of interest listed in OpenStreetMap as park. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248215",
+        "osm-kind:park"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-gaeita",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2712297,
+        41.4822033
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Gaeità",
+        "es": "Can Gaeità",
+        "en": "Can Gaeità"
+      },
+      "description": {
+        "ca": "Can Gaeità. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Gaeità. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Gaeità. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248216",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-cosme",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2703017,
+        41.4830481
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Cosme",
+        "es": "Can Cosme",
+        "en": "Can Cosme"
+      },
+      "description": {
+        "ca": "Can Cosme. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Cosme. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Cosme. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248217",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-roses",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2680863,
+        41.4831016
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Rosés",
+        "es": "Can Rosés",
+        "en": "Can Rosés"
+      },
+      "description": {
+        "ca": "Can Rosés. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Rosés. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Rosés. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248221",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-cardus",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268814,
+        41.4821512
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Cardús",
+        "es": "Can Cardús",
+        "en": "Can Cardús"
+      },
+      "description": {
+        "ca": "Can Cardús. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Cardús. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Cardús. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248226",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-regordosa",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2668637,
+        41.4866567
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Regordosa",
+        "es": "Can Regordosa",
+        "en": "Can Regordosa"
+      },
+      "description": {
+        "ca": "Can Regordosa. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Regordosa. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Regordosa. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248233",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-ribe",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2736259,
+        41.4846
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Ribé",
+        "es": "Can Ribé",
+        "en": "Can Ribé"
+      },
+      "description": {
+        "ca": "Can Ribé. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Ribé. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Ribé. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248235",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-vega-alegre",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2737247,
+        41.4844382
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Vega Alegre",
+        "es": "Can Vega Alegre",
+        "en": "Can Vega Alegre"
+      },
+      "description": {
+        "ca": "Can Vega Alegre. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Vega Alegre. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Vega Alegre. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248236",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-tolra",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2727275,
+        41.4804125
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Tolrà",
+        "es": "Can Tolrà",
+        "en": "Can Tolrà"
+      },
+      "description": {
+        "ca": "Can Tolrà. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Tolrà. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Tolrà. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248237",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-la-casa-alta",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2737882,
+        41.4796839
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "la Casa Alta",
+        "es": "la Casa Alta",
+        "en": "la Casa Alta"
+      },
+      "description": {
+        "ca": "la Casa Alta. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "la Casa Alta. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "la Casa Alta. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248238",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-jordana",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2702883,
+        41.4849162
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Jordana",
+        "es": "Can Jordana",
+        "en": "Can Jordana"
+      },
+      "description": {
+        "ca": "Can Jordana. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Jordana. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Jordana. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248239",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-comes",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2695041,
+        41.4856379
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Comes",
+        "es": "Can Comes",
+        "en": "Can Comes"
+      },
+      "description": {
+        "ca": "Can Comes. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Comes. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Comes. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248240",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-caneny",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.267263,
+        41.487429
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Caneny",
+        "es": "Can Caneny",
+        "en": "Can Caneny"
+      },
+      "description": {
+        "ca": "Can Caneny. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Caneny. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Caneny. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248242",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-brossa",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2713712,
+        41.4888284
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Brossa",
+        "es": "Can Brossa",
+        "en": "Can Brossa"
+      },
+      "description": {
+        "ca": "Can Brossa. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Brossa. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Brossa. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248243",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-cirera",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2727264,
+        41.4890727
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Cirera",
+        "es": "Can Cirera",
+        "en": "Can Cirera"
+      },
+      "description": {
+        "ca": "Can Cirera. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Cirera. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Cirera. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248244",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-fabregas",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2723753,
+        41.4904136
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Fabregas",
+        "es": "Can Fabregas",
+        "en": "Can Fabregas"
+      },
+      "description": {
+        "ca": "Can Fabregas. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Fabregas. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Fabregas. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248245",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-ca-l-andreu",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2717658,
+        41.4912133
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Ca l'Andreu",
+        "es": "Ca l'Andreu",
+        "en": "Ca l'Andreu"
+      },
+      "description": {
+        "ca": "Ca l'Andreu. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Ca l'Andreu. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Ca l'Andreu. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248246",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-giro",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.271914,
+        41.491341
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Girò",
+        "es": "Can Girò",
+        "en": "Can Girò"
+      },
+      "description": {
+        "ca": "Can Girò. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Girò. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Girò. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248247",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-torreda",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2648996,
+        41.4882545
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Torredà",
+        "es": "Can Torredà",
+        "en": "Can Torredà"
+      },
+      "description": {
+        "ca": "Can Torredà. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Torredà. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Torredà. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248248",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-masdeu",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.265961,
+        41.4900004
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Masdeu",
+        "es": "Can Masdeu",
+        "en": "Can Masdeu"
+      },
+      "description": {
+        "ca": "Can Masdeu. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Masdeu. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Masdeu. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248249",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-convent-de-les-franciscanes",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2667306,
+        41.4873858
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Convent de les Franciscanes",
+        "es": "Convent de les Franciscanes",
+        "en": "Convent de les Franciscanes"
+      },
+      "description": {
+        "ca": "Convent de les Franciscanes. Punt d'interès de Tiana registrat a OpenStreetMap com place_of_worship. Font: OpenStreetMap.",
+        "es": "Convent de les Franciscanes. Punto de interés de Tiana registrado en OpenStreetMap como place_of_worship. Fuente: OpenStreetMap.",
+        "en": "Convent de les Franciscanes. Tiana point of interest listed in OpenStreetMap as place_of_worship. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248250",
+        "osm-kind:place_of_worship"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-nolis",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2649197,
+        41.4875992
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Nolis",
+        "es": "Can Nolis",
+        "en": "Can Nolis"
+      },
+      "description": {
+        "ca": "Can Nolis. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Nolis. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Nolis. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248252",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-mas-ram",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2580966,
+        41.4780449
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Mas Ram",
+        "es": "Mas Ram",
+        "en": "Mas Ram"
+      },
+      "description": {
+        "ca": "Mas Ram. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Mas Ram. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Mas Ram. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248255",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-museu-del-poblat-de-sent-roma",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2571352,
+        41.4818085
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Museu del poblat de Sent-romà",
+        "es": "Museu del poblat de Sent-romà",
+        "en": "Museu del poblat de Sent-romà"
+      },
+      "description": {
+        "ca": "Museu del poblat de Sent-romà. Punt d'interès de Tiana registrat a OpenStreetMap com museum. Font: OpenStreetMap.",
+        "es": "Museu del poblat de Sent-romà. Punto de interés de Tiana registrado en OpenStreetMap como museum. Fuente: OpenStreetMap.",
+        "en": "Museu del poblat de Sent-romà. Tiana point of interest listed in OpenStreetMap as museum. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1132248257",
+        "osm-kind:museum"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-centre-ocupacional-verge-de-l-alegria",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2678721,
+        41.4876685
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Centre Ocupacional Verge de l'Alegria",
+        "es": "Centre Ocupacional Verge de l'Alegria",
+        "en": "Centre Ocupacional Verge de l'Alegria"
+      },
+      "description": {
+        "ca": "Centre Ocupacional Verge de l'Alegria. Punt d'interès de Tiana registrat a OpenStreetMap com social_facility. Font: OpenStreetMap.",
+        "es": "Centre Ocupacional Verge de l'Alegria. Punto de interés de Tiana registrado en OpenStreetMap como social_facility. Fuente: OpenStreetMap.",
+        "en": "Centre Ocupacional Verge de l'Alegria. Tiana point of interest listed in OpenStreetMap as social_facility. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1137304982",
+        "osm-kind:social_facility"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-parc-del-doctor-ferrandiz",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2686092,
+        41.4752339
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc del Doctor Ferràndiz",
+        "es": "Parc del Doctor Ferràndiz",
+        "en": "Parc del Doctor Ferràndiz"
+      },
+      "description": {
+        "ca": "Parc del Doctor Ferràndiz. Punt d'interès de Tiana registrat a OpenStreetMap com park. Font: OpenStreetMap.",
+        "es": "Parc del Doctor Ferràndiz. Punto de interés de Tiana registrado en OpenStreetMap como park. Fuente: OpenStreetMap.",
+        "en": "Parc del Doctor Ferràndiz. Tiana point of interest listed in OpenStreetMap as park. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1198065268",
+        "osm-kind:park"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-parc-de-rafael-de-casanovas",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268623,
+        41.476776
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc de Rafael de Casanovas",
+        "es": "Parc de Rafael de Casanovas",
+        "en": "Parc de Rafael de Casanovas"
+      },
+      "description": {
+        "ca": "Parc de Rafael de Casanovas. Punt d'interès de Tiana registrat a OpenStreetMap com park. Font: OpenStreetMap.",
+        "es": "Parc de Rafael de Casanovas. Punto de interés de Tiana registrado en OpenStreetMap como park. Fuente: OpenStreetMap.",
+        "en": "Parc de Rafael de Casanovas. Tiana point of interest listed in OpenStreetMap as park. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1198265751",
+        "osm-kind:park"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-petanca-de-tiana",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2690944,
+        41.4858644
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Petanca de Tiana",
+        "es": "Petanca de Tiana",
+        "en": "Petanca de Tiana"
+      },
+      "description": {
+        "ca": "Petanca de Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com cafe. Font: OpenStreetMap.",
+        "es": "Petanca de Tiana. Punto de interés de Tiana registrado en OpenStreetMap como cafe. Fuente: OpenStreetMap.",
+        "en": "Petanca de Tiana. Tiana point of interest listed in OpenStreetMap as cafe. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1217511088",
+        "osm-kind:cafe"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-residencia-i-centre-de-dia-municipal-de-tiana-sant-cebria",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.264315,
+        41.4783065
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià",
+        "es": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià",
+        "en": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià"
+      },
+      "description": {
+        "ca": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià. Punt d'interès de Tiana registrat a OpenStreetMap com social_facility. Font: OpenStreetMap.",
+        "es": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià. Punto de interés de Tiana registrado en OpenStreetMap como social_facility. Fuente: OpenStreetMap.",
+        "en": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià. Tiana point of interest listed in OpenStreetMap as social_facility. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1238893966",
+        "osm-kind:social_facility"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-jardins-de-can-baratau",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2692661,
+        41.4824747
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Jardins de Can Baratau",
+        "es": "Jardins de Can Baratau",
+        "en": "Jardins de Can Baratau"
+      },
+      "description": {
+        "ca": "Jardins de Can Baratau. Punt d'interès de Tiana registrat a OpenStreetMap com garden. Font: OpenStreetMap.",
+        "es": "Jardins de Can Baratau. Punto de interés de Tiana registrado en OpenStreetMap como garden. Fuente: OpenStreetMap.",
+        "en": "Jardins de Can Baratau. Tiana point of interest listed in OpenStreetMap as garden. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1242230949",
+        "osm-kind:garden"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-tirati-tiriti",
+    "type": "restaurant",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2688531,
+        41.4820418
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Tirati Tiriti",
+        "es": "Tirati Tiriti",
+        "en": "Tirati Tiriti"
+      },
+      "description": {
+        "ca": "Tirati Tiriti. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
+        "es": "Tirati Tiriti. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
+        "en": "Tirati Tiriti. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1242253029",
+        "osm-kind:restaurant"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-ajuntament-de-tiana",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2690313,
+        41.4816376
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Ajuntament de Tiana",
+        "es": "Ajuntament de Tiana",
+        "en": "Ajuntament de Tiana"
+      },
+      "description": {
+        "ca": "Ajuntament de Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com townhall. Font: OpenStreetMap.",
+        "es": "Ajuntament de Tiana. Punto de interés de Tiana registrado en OpenStreetMap como townhall. Fuente: OpenStreetMap.",
+        "en": "Ajuntament de Tiana. Tiana point of interest listed in OpenStreetMap as townhall. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1242253033",
+        "osm-kind:townhall",
+        "web:https://tiana.cat/",
+        "horari:Mo-Fr 08:30-14:30, Tu 16:00-18:00; PH off"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-policia-local-tiana",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2691929,
+        41.4814514
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Policia Local Tiana",
+        "es": "Policia Local Tiana",
+        "en": "Policia Local Tiana"
+      },
+      "description": {
+        "ca": "Policia Local Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com police. Font: OpenStreetMap.",
+        "es": "Policia Local Tiana. Punto de interés de Tiana registrado en OpenStreetMap como police. Fuente: OpenStreetMap.",
+        "en": "Policia Local Tiana. Tiana point of interest listed in OpenStreetMap as police. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1242253034",
+        "osm-kind:police",
+        "telefon:+34 93 395 15 15"
+      ],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-matas",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2676844,
+        41.4843415
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Matas",
+        "es": "Can Matas",
+        "en": "Can Matas"
+      },
+      "description": {
+        "ca": "Can Matas. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Matas. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Matas. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1300023091",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-la-rectoria",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2680201,
+        41.4841749
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "La Rectoria",
+        "es": "La Rectoria",
+        "en": "La Rectoria"
+      },
+      "description": {
+        "ca": "La Rectoria. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "La Rectoria. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "La Rectoria. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1300025729",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-sant-cebria",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2681676,
+        41.4843025
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Sant Cebrià",
+        "es": "Sant Cebrià",
+        "en": "Sant Cebrià"
+      },
+      "description": {
+        "ca": "Sant Cebrià. Punt d'interès de Tiana registrat a OpenStreetMap com place_of_worship. Font: OpenStreetMap.",
+        "es": "Sant Cebrià. Punto de interés de Tiana registrado en OpenStreetMap como place_of_worship. Fuente: OpenStreetMap.",
+        "en": "Sant Cebrià. Tiana point of interest listed in OpenStreetMap as place_of_worship. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1300025730",
+        "osm-kind:place_of_worship"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-reniu",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2659399,
+        41.4831721
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Reniu",
+        "es": "Can Reniu",
+        "en": "Can Reniu"
+      },
+      "description": {
+        "ca": "Can Reniu. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Reniu. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Reniu. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1300188096",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-dura",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2683872,
+        41.483926
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Durà",
+        "es": "Can Durà",
+        "en": "Can Durà"
+      },
+      "description": {
+        "ca": "Can Durà. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Durà. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Durà. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1300191050",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-puigcarbo",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.265052,
+        41.4843639
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Puigcarbó",
+        "es": "Can Puigcarbó",
+        "en": "Can Puigcarbó"
+      },
+      "description": {
+        "ca": "Can Puigcarbó. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Puigcarbó. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Puigcarbó. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1300278421",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-mari",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2677096,
+        41.4864006
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Marí",
+        "es": "Can Marí",
+        "en": "Can Marí"
+      },
+      "description": {
+        "ca": "Can Marí. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Marí. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Marí. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1300285826",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-noguera",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2657481,
+        41.485881
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Noguera",
+        "es": "Can Noguera",
+        "en": "Can Noguera"
+      },
+      "description": {
+        "ca": "Can Noguera. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Noguera. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Noguera. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1300440539",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-godo",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2663759,
+        41.4862472
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Godó",
+        "es": "Can Godó",
+        "en": "Can Godó"
+      },
+      "description": {
+        "ca": "Can Godó. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Godó. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Godó. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1300443136",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-capella-de-cant-sant-roma",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2575612,
+        41.4819446
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Capella de Cant Sant Romà",
+        "es": "Capella de Cant Sant Romà",
+        "en": "Capella de Cant Sant Romà"
+      },
+      "description": {
+        "ca": "Capella de Cant Sant Romà. Punt d'interès de Tiana registrat a OpenStreetMap com place_of_worship. Font: OpenStreetMap.",
+        "es": "Capella de Cant Sant Romà. Punto de interés de Tiana registrado en OpenStreetMap como place_of_worship. Fuente: OpenStreetMap.",
+        "en": "Capella de Cant Sant Romà. Tiana point of interest listed in OpenStreetMap as place_of_worship. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1301453021",
+        "osm-kind:place_of_worship"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-guinart",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2651147,
+        41.4788984
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Guinart",
+        "es": "Can Guinart",
+        "en": "Can Guinart"
+      },
+      "description": {
+        "ca": "Can Guinart. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Guinart. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Guinart. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1301690374",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-can-maybe",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2703944,
+        41.4803637
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Maybé",
+        "es": "Can Maybé",
+        "en": "Can Maybé"
+      },
+      "description": {
+        "ca": "Can Maybé. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Can Maybé. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Can Maybé. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1301942203",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-cal-met",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2692214,
+        41.4822078
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Cal Met",
+        "es": "Cal Met",
+        "en": "Cal Met"
+      },
+      "description": {
+        "ca": "Cal Met. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Cal Met. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Cal Met. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1302220826",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-cal-cucut",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2687302,
+        41.4816996
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Cal Cucut",
+        "es": "Cal Cucut",
+        "en": "Cal Cucut"
+      },
+      "description": {
+        "ca": "Cal Cucut. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Cal Cucut. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Cal Cucut. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1302465177",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-cal-ros",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2686166,
+        41.4817353
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Cal Ros",
+        "es": "Cal Ros",
+        "en": "Cal Ros"
+      },
+      "description": {
+        "ca": "Cal Ros. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
+        "es": "Cal Ros. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
+        "en": "Cal Ros. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1302465200",
+        "osm-kind:manor"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-antiga-estacio-del-tramvia",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2683539,
+        41.4831146
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Antiga estació del Tramvia",
+        "es": "Antiga estació del Tramvia",
+        "en": "Antiga estació del Tramvia"
+      },
+      "description": {
+        "ca": "Antiga estació del Tramvia. Punt d'interès de Tiana registrat a OpenStreetMap com yes. Font: OpenStreetMap.",
+        "es": "Antiga estació del Tramvia. Punto de interés de Tiana registrado en OpenStreetMap como yes. Fuente: OpenStreetMap.",
+        "en": "Antiga estació del Tramvia. Tiana point of interest listed in OpenStreetMap as yes. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1302504308",
+        "osm-kind:yes"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-antic-tramvia-de-tiana",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2679047,
+        41.4810881
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Antic Tramvia de Tiana",
+        "es": "Antic Tramvia de Tiana",
+        "en": "Antic Tramvia de Tiana"
+      },
+      "description": {
+        "ca": "Antic Tramvia de Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com attraction. Font: OpenStreetMap.",
+        "es": "Antic Tramvia de Tiana. Punto de interés de Tiana registrado en OpenStreetMap como attraction. Fuente: OpenStreetMap.",
+        "en": "Antic Tramvia de Tiana. Tiana point of interest listed in OpenStreetMap as attraction. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1302505851",
+        "osm-kind:attraction"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-llar-d-infants-el-timbal",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2793149,
+        41.47562
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Llar d'infants El Timbal",
+        "es": "Llar d'infants El Timbal",
+        "en": "Llar d'infants El Timbal"
+      },
+      "description": {
+        "ca": "Llar d'infants El Timbal. Punt d'interès de Tiana registrat a OpenStreetMap com kindergarten. Font: OpenStreetMap.",
+        "es": "Llar d'infants El Timbal. Punto de interés de Tiana registrado en OpenStreetMap como kindergarten. Fuente: OpenStreetMap.",
+        "en": "Llar d'infants El Timbal. Tiana point of interest listed in OpenStreetMap as kindergarten. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1469444022",
+        "osm-kind:kindergarten"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-llar-d-infants-el-mes-petit-de-tots",
+    "type": "other",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2722014,
+        41.4800501
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Llar d'infants El més petit de tots",
+        "es": "Llar d'infants El més petit de tots",
+        "en": "Llar d'infants El més petit de tots"
+      },
+      "description": {
+        "ca": "Llar d'infants El més petit de tots. Punt d'interès de Tiana registrat a OpenStreetMap com kindergarten. Font: OpenStreetMap.",
+        "es": "Llar d'infants El més petit de tots. Punto de interés de Tiana registrado en OpenStreetMap como kindergarten. Fuente: OpenStreetMap.",
+        "en": "Llar d'infants El més petit de tots. Tiana point of interest listed in OpenStreetMap as kindergarten. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1469444024",
+        "osm-kind:kindergarten"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-jardins-de-can-peitx",
+    "type": "nature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2661923,
+        41.4836327
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Jardins de Can Peitx",
+        "es": "Jardins de Can Peitx",
+        "en": "Jardins de Can Peitx"
+      },
+      "description": {
+        "ca": "Jardins de Can Peitx. Punt d'interès de Tiana registrat a OpenStreetMap com park. Font: OpenStreetMap.",
+        "es": "Jardins de Can Peitx. Punto de interés de Tiana registrado en OpenStreetMap como park. Fuente: OpenStreetMap.",
+        "en": "Jardins de Can Peitx. Tiana point of interest listed in OpenStreetMap as park. Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "osm:way/1501317751",
+        "osm-kind:park"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
   }
 ]
