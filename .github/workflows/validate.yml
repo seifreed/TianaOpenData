@@ -1,0 +1,36 @@
+name: Validate OpenData
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout OpenData
+        uses: actions/checkout@v5
+        with:
+          path: data
+
+      - name: Checkout validator
+        uses: actions/checkout@v5
+        with:
+          repository: seifreed/TianaViva
+          path: app
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: app/package-lock.json
+
+      - name: Install validator dependencies
+        run: npm ci
+        working-directory: app
+
+      - name: Validate public data
+        run: node tools/open-data-generator/validate-open-data.mjs "$GITHUB_WORKSPACE/data"
+        working-directory: app
