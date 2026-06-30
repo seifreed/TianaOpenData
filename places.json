@@ -1758,9 +1758,9 @@
         "en": "Can Ballus"
       },
       "description": {
-        "ca": "Can Ballus. Punt d'interès de Tiana registrat a OpenStreetMap com guest_house. Font: OpenStreetMap.",
-        "es": "Can Ballus. Punto de interés de Tiana registrado en OpenStreetMap como guest_house. Fuente: OpenStreetMap.",
-        "en": "Can Ballus. Tiana point of interest listed in OpenStreetMap as guest_house. Source: OpenStreetMap."
+        "ca": "Can Ballus. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Ballus. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Ballus. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -1794,9 +1794,9 @@
         "en": "El nou Casal"
       },
       "description": {
-        "ca": "El nou Casal. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
-        "es": "El nou Casal. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
-        "en": "El nou Casal. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+        "ca": "El nou Casal. Restaurant o establiment de restauració local a Tiana.",
+        "es": "El nou Casal. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "El nou Casal. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -1830,9 +1830,9 @@
         "en": "L'avi Mingo"
       },
       "description": {
-        "ca": "L'avi Mingo. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
-        "es": "L'avi Mingo. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
-        "en": "L'avi Mingo. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+        "ca": "L'avi Mingo. Restaurant o establiment de restauració local a Tiana.",
+        "es": "L'avi Mingo. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "L'avi Mingo. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -1868,9 +1868,9 @@
         "en": "Cementiri dels Empestats"
       },
       "description": {
-        "ca": "Cementiri dels Empestats. Punt d'interès de Tiana registrat a OpenStreetMap com memorial. Font: OpenStreetMap.",
-        "es": "Cementiri dels Empestats. Punto de interés de Tiana registrado en OpenStreetMap como memorial. Fuente: OpenStreetMap.",
-        "en": "Cementiri dels Empestats. Tiana point of interest listed in OpenStreetMap as memorial. Source: OpenStreetMap."
+        "ca": "Cementiri dels Empestats. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Cementiri dels Empestats. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Cementiri dels Empestats. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -1904,9 +1904,9 @@
         "en": "Àrea d'esplai de la Font de l'Alba"
       },
       "description": {
-        "ca": "Àrea d'esplai de la Font de l'Alba. Punt d'interès de Tiana registrat a OpenStreetMap com picnic_site. Font: OpenStreetMap.",
-        "es": "Àrea d'esplai de la Font de l'Alba. Punto de interés de Tiana registrado en OpenStreetMap como picnic_site. Fuente: OpenStreetMap.",
-        "en": "Àrea d'esplai de la Font de l'Alba. Tiana point of interest listed in OpenStreetMap as picnic_site. Source: OpenStreetMap."
+        "ca": "Àrea d'esplai de la Font de l'Alba. Espai natural o punt a l'aire lliure de Tiana per descobrir l'entorn del municipi.",
+        "es": "Àrea d'esplai de la Font de l'Alba. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
+        "en": "Àrea d'esplai de la Font de l'Alba. Natural or outdoor spot in Tiana for exploring the local surroundings."
       },
       "tags": [
         "tiana",
@@ -1940,9 +1940,9 @@
         "en": "Llop"
       },
       "description": {
-        "ca": "Llop. Punt d'interès de Tiana registrat a OpenStreetMap com hairdresser. Font: OpenStreetMap.",
-        "es": "Llop. Punto de interés de Tiana registrado en OpenStreetMap como hairdresser. Fuente: OpenStreetMap.",
-        "en": "Llop. Tiana point of interest listed in OpenStreetMap as hairdresser. Source: OpenStreetMap."
+        "ca": "Llop. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Llop. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Llop. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -1976,9 +1976,9 @@
         "en": "Llar De Persones Grans L'Esplai Tiana"
       },
       "description": {
-        "ca": "Llar De Persones Grans L'Esplai Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com social_facility. Font: OpenStreetMap.",
-        "es": "Llar De Persones Grans L'Esplai Tiana. Punto de interés de Tiana registrado en OpenStreetMap como social_facility. Fuente: OpenStreetMap.",
-        "en": "Llar De Persones Grans L'Esplai Tiana. Tiana point of interest listed in OpenStreetMap as social_facility. Source: OpenStreetMap."
+        "ca": "Llar De Persones Grans L'Esplai Tiana. Punt d'interès de Tiana relacionat amb social facility.",
+        "es": "Llar De Persones Grans L'Esplai Tiana. Punto de interés de Tiana relacionado con social facility.",
+        "en": "Llar De Persones Grans L'Esplai Tiana. Tiana point of interest related to social facility."
       },
       "tags": [
         "tiana",
@@ -2012,9 +2012,9 @@
         "en": "La cuina de Can Vilaró"
       },
       "description": {
-        "ca": "La cuina de Can Vilaró. Punt d'interès de Tiana registrat a OpenStreetMap com fast_food. Font: OpenStreetMap.",
-        "es": "La cuina de Can Vilaró. Punto de interés de Tiana registrado en OpenStreetMap como fast_food. Fuente: OpenStreetMap.",
-        "en": "La cuina de Can Vilaró. Tiana point of interest listed in OpenStreetMap as fast_food. Source: OpenStreetMap."
+        "ca": "La cuina de Can Vilaró. Restaurant o establiment de restauració local a Tiana.",
+        "es": "La cuina de Can Vilaró. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "La cuina de Can Vilaró. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -2049,9 +2049,9 @@
         "en": "Centro Pilates Tiana"
       },
       "description": {
-        "ca": "Centro Pilates Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com fitness_centre. Font: OpenStreetMap.",
-        "es": "Centro Pilates Tiana. Punto de interés de Tiana registrado en OpenStreetMap como fitness_centre. Fuente: OpenStreetMap.",
-        "en": "Centro Pilates Tiana. Tiana point of interest listed in OpenStreetMap as fitness_centre. Source: OpenStreetMap."
+        "ca": "Centro Pilates Tiana. Equipament o servei esportiu de Tiana per a l'activitat física i la vida local.",
+        "es": "Centro Pilates Tiana. Equipamiento o servicio deportivo de Tiana para la actividad física y la vida local.",
+        "en": "Centro Pilates Tiana. Sports facility or service in Tiana for physical activity and local life."
       },
       "tags": [
         "tiana",
@@ -2086,9 +2086,9 @@
         "en": "Cal Fabre"
       },
       "description": {
-        "ca": "Cal Fabre. Punt d'interès de Tiana registrat a OpenStreetMap com greengrocer. Font: OpenStreetMap.",
-        "es": "Cal Fabre. Punto de interés de Tiana registrado en OpenStreetMap como greengrocer. Fuente: OpenStreetMap.",
-        "en": "Cal Fabre. Tiana point of interest listed in OpenStreetMap as greengrocer. Source: OpenStreetMap."
+        "ca": "Cal Fabre. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Cal Fabre. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Cal Fabre. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2123,9 +2123,9 @@
         "en": "La Centraleta"
       },
       "description": {
-        "ca": "La Centraleta. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
-        "es": "La Centraleta. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
-        "en": "La Centraleta. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+        "ca": "La Centraleta. Restaurant o establiment de restauració local a Tiana.",
+        "es": "La Centraleta. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "La Centraleta. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -2160,9 +2160,9 @@
         "en": "Polit Swing"
       },
       "description": {
-        "ca": "Polit Swing. Punt d'interès de Tiana registrat a OpenStreetMap com hairdresser. Font: OpenStreetMap.",
-        "es": "Polit Swing. Punto de interés de Tiana registrado en OpenStreetMap como hairdresser. Fuente: OpenStreetMap.",
-        "en": "Polit Swing. Tiana point of interest listed in OpenStreetMap as hairdresser. Source: OpenStreetMap."
+        "ca": "Polit Swing. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Polit Swing. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Polit Swing. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2196,9 +2196,9 @@
         "en": "Banco Sabadell"
       },
       "description": {
-        "ca": "Banco Sabadell. Punt d'interès de Tiana registrat a OpenStreetMap com bank. Font: OpenStreetMap.",
-        "es": "Banco Sabadell. Punto de interés de Tiana registrado en OpenStreetMap como bank. Fuente: OpenStreetMap.",
-        "en": "Banco Sabadell. Tiana point of interest listed in OpenStreetMap as bank. Source: OpenStreetMap."
+        "ca": "Banco Sabadell. Punt d'interès de Tiana relacionat amb bank.",
+        "es": "Banco Sabadell. Punto de interés de Tiana relacionado con bank.",
+        "en": "Banco Sabadell. Tiana point of interest related to bank."
       },
       "tags": [
         "tiana",
@@ -2232,9 +2232,9 @@
         "en": "Administración ONCE"
       },
       "description": {
-        "ca": "Administración ONCE. Punt d'interès de Tiana registrat a OpenStreetMap com lottery. Font: OpenStreetMap.",
-        "es": "Administración ONCE. Punto de interés de Tiana registrado en OpenStreetMap como lottery. Fuente: OpenStreetMap.",
-        "en": "Administración ONCE. Tiana point of interest listed in OpenStreetMap as lottery. Source: OpenStreetMap."
+        "ca": "Administración ONCE. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Administración ONCE. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Administración ONCE. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2268,9 +2268,9 @@
         "en": "Salud Dental. Laura Moize"
       },
       "description": {
-        "ca": "Salud Dental. Laura Moize. Punt d'interès de Tiana registrat a OpenStreetMap com dentist. Font: OpenStreetMap.",
-        "es": "Salud Dental. Laura Moize. Punto de interés de Tiana registrado en OpenStreetMap como dentist. Fuente: OpenStreetMap.",
-        "en": "Salud Dental. Laura Moize. Tiana point of interest listed in OpenStreetMap as dentist. Source: OpenStreetMap."
+        "ca": "Salud Dental. Laura Moize. Punt d'interès de Tiana relacionat amb dentist.",
+        "es": "Salud Dental. Laura Moize. Punto de interés de Tiana relacionado con dentist.",
+        "en": "Salud Dental. Laura Moize. Tiana point of interest related to dentist."
       },
       "tags": [
         "tiana",
@@ -2304,9 +2304,9 @@
         "en": "Portes i Finestres"
       },
       "description": {
-        "ca": "Portes i Finestres. Punt d'interès de Tiana registrat a OpenStreetMap com furniture. Font: OpenStreetMap.",
-        "es": "Portes i Finestres. Punto de interés de Tiana registrado en OpenStreetMap como furniture. Fuente: OpenStreetMap.",
-        "en": "Portes i Finestres. Tiana point of interest listed in OpenStreetMap as furniture. Source: OpenStreetMap."
+        "ca": "Portes i Finestres. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Portes i Finestres. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Portes i Finestres. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2340,9 +2340,9 @@
         "en": "Estanco"
       },
       "description": {
-        "ca": "Estanco. Punt d'interès de Tiana registrat a OpenStreetMap com tobacco. Font: OpenStreetMap.",
-        "es": "Estanco. Punto de interés de Tiana registrado en OpenStreetMap como tobacco. Fuente: OpenStreetMap.",
-        "en": "Estanco. Tiana point of interest listed in OpenStreetMap as tobacco. Source: OpenStreetMap."
+        "ca": "Estanco. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Estanco. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Estanco. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2376,9 +2376,9 @@
         "en": "Forn i Pastisseria Aixelà"
       },
       "description": {
-        "ca": "Forn i Pastisseria Aixelà. Punt d'interès de Tiana registrat a OpenStreetMap com bakery. Font: OpenStreetMap.",
-        "es": "Forn i Pastisseria Aixelà. Punto de interés de Tiana registrado en OpenStreetMap como bakery. Fuente: OpenStreetMap.",
-        "en": "Forn i Pastisseria Aixelà. Tiana point of interest listed in OpenStreetMap as bakery. Source: OpenStreetMap."
+        "ca": "Forn i Pastisseria Aixelà. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Forn i Pastisseria Aixelà. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Forn i Pastisseria Aixelà. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2414,9 +2414,9 @@
         "en": "BBVA"
       },
       "description": {
-        "ca": "BBVA. Punt d'interès de Tiana registrat a OpenStreetMap com bank. Font: OpenStreetMap.",
-        "es": "BBVA. Punto de interés de Tiana registrado en OpenStreetMap como bank. Fuente: OpenStreetMap.",
-        "en": "BBVA. Tiana point of interest listed in OpenStreetMap as bank. Source: OpenStreetMap."
+        "ca": "BBVA. Punt d'interès de Tiana relacionat amb bank.",
+        "es": "BBVA. Punto de interés de Tiana relacionado con bank.",
+        "en": "BBVA. Tiana point of interest related to bank."
       },
       "tags": [
         "tiana",
@@ -2453,9 +2453,9 @@
         "en": "Optica \"La Punxa\""
       },
       "description": {
-        "ca": "Optica \"La Punxa\". Punt d'interès de Tiana registrat a OpenStreetMap com optician. Font: OpenStreetMap.",
-        "es": "Optica \"La Punxa\". Punto de interés de Tiana registrado en OpenStreetMap como optician. Fuente: OpenStreetMap.",
-        "en": "Optica \"La Punxa\". Tiana point of interest listed in OpenStreetMap as optician. Source: OpenStreetMap."
+        "ca": "Optica \"La Punxa\". Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Optica \"La Punxa\". Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Optica \"La Punxa\". Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2489,9 +2489,9 @@
         "en": "Ca L'Anita"
       },
       "description": {
-        "ca": "Ca L'Anita. Punt d'interès de Tiana registrat a OpenStreetMap com convenience. Font: OpenStreetMap.",
-        "es": "Ca L'Anita. Punto de interés de Tiana registrado en OpenStreetMap como convenience. Fuente: OpenStreetMap.",
-        "en": "Ca L'Anita. Tiana point of interest listed in OpenStreetMap as convenience. Source: OpenStreetMap."
+        "ca": "Ca L'Anita. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Ca L'Anita. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Ca L'Anita. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2525,9 +2525,9 @@
         "en": "Farmàcia Maqua Escanon, M. Pilar"
       },
       "description": {
-        "ca": "Farmàcia Maqua Escanon, M. Pilar. Punt d'interès de Tiana registrat a OpenStreetMap com pharmacy. Font: OpenStreetMap.",
-        "es": "Farmàcia Maqua Escanon, M. Pilar. Punto de interés de Tiana registrado en OpenStreetMap como pharmacy. Fuente: OpenStreetMap.",
-        "en": "Farmàcia Maqua Escanon, M. Pilar. Tiana point of interest listed in OpenStreetMap as pharmacy. Source: OpenStreetMap."
+        "ca": "Farmàcia Maqua Escanon, M. Pilar. Punt d'interès de Tiana relacionat amb pharmacy.",
+        "es": "Farmàcia Maqua Escanon, M. Pilar. Punto de interés de Tiana relacionado con pharmacy.",
+        "en": "Farmàcia Maqua Escanon, M. Pilar. Tiana point of interest related to pharmacy."
       },
       "tags": [
         "tiana",
@@ -2562,9 +2562,9 @@
         "en": "Petit Supermercat Tiana"
       },
       "description": {
-        "ca": "Petit Supermercat Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com supermarket. Font: OpenStreetMap.",
-        "es": "Petit Supermercat Tiana. Punto de interés de Tiana registrado en OpenStreetMap como supermarket. Fuente: OpenStreetMap.",
-        "en": "Petit Supermercat Tiana. Tiana point of interest listed in OpenStreetMap as supermarket. Source: OpenStreetMap."
+        "ca": "Petit Supermercat Tiana. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Petit Supermercat Tiana. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Petit Supermercat Tiana. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2598,9 +2598,9 @@
         "en": "Peixateria Cuní"
       },
       "description": {
-        "ca": "Peixateria Cuní. Punt d'interès de Tiana registrat a OpenStreetMap com seafood. Font: OpenStreetMap.",
-        "es": "Peixateria Cuní. Punto de interés de Tiana registrado en OpenStreetMap como seafood. Fuente: OpenStreetMap.",
-        "en": "Peixateria Cuní. Tiana point of interest listed in OpenStreetMap as seafood. Source: OpenStreetMap."
+        "ca": "Peixateria Cuní. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Peixateria Cuní. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Peixateria Cuní. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2634,9 +2634,9 @@
         "en": "Espai Ecològic"
       },
       "description": {
-        "ca": "Espai Ecològic. Punt d'interès de Tiana registrat a OpenStreetMap com health_food. Font: OpenStreetMap.",
-        "es": "Espai Ecològic. Punto de interés de Tiana registrado en OpenStreetMap como health_food. Fuente: OpenStreetMap.",
-        "en": "Espai Ecològic. Tiana point of interest listed in OpenStreetMap as health_food. Source: OpenStreetMap."
+        "ca": "Espai Ecològic. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Espai Ecològic. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Espai Ecològic. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2671,9 +2671,9 @@
         "en": "Agropecuaria de Tiana S.COOP.S.L."
       },
       "description": {
-        "ca": "Agropecuaria de Tiana S.COOP.S.L.. Punt d'interès de Tiana registrat a OpenStreetMap com farm. Font: OpenStreetMap.",
-        "es": "Agropecuaria de Tiana S.COOP.S.L.. Punto de interés de Tiana registrado en OpenStreetMap como farm. Fuente: OpenStreetMap.",
-        "en": "Agropecuaria de Tiana S.COOP.S.L.. Tiana point of interest listed in OpenStreetMap as farm. Source: OpenStreetMap."
+        "ca": "Agropecuaria de Tiana S.COOP.S.L.. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Agropecuaria de Tiana S.COOP.S.L.. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Agropecuaria de Tiana S.COOP.S.L.. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2707,9 +2707,9 @@
         "en": "Consultori Local de Tiana"
       },
       "description": {
-        "ca": "Consultori Local de Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com doctors. Font: OpenStreetMap.",
-        "es": "Consultori Local de Tiana. Punto de interés de Tiana registrado en OpenStreetMap como doctors. Fuente: OpenStreetMap.",
-        "en": "Consultori Local de Tiana. Tiana point of interest listed in OpenStreetMap as doctors. Source: OpenStreetMap."
+        "ca": "Consultori Local de Tiana. Punt d'interès de Tiana relacionat amb doctors.",
+        "es": "Consultori Local de Tiana. Punto de interés de Tiana relacionado con doctors.",
+        "en": "Consultori Local de Tiana. Tiana point of interest related to doctors."
       },
       "tags": [
         "tiana",
@@ -2743,9 +2743,9 @@
         "en": "Malenkas"
       },
       "description": {
-        "ca": "Malenkas. Punt d'interès de Tiana registrat a OpenStreetMap com cafe. Font: OpenStreetMap.",
-        "es": "Malenkas. Punto de interés de Tiana registrado en OpenStreetMap como cafe. Fuente: OpenStreetMap.",
-        "en": "Malenkas. Tiana point of interest listed in OpenStreetMap as cafe. Source: OpenStreetMap."
+        "ca": "Malenkas. Restaurant o establiment de restauració local a Tiana.",
+        "es": "Malenkas. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "Malenkas. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -2779,9 +2779,9 @@
         "en": "Oficina de Correos"
       },
       "description": {
-        "ca": "Oficina de Correos. Punt d'interès de Tiana registrat a OpenStreetMap com post_office. Font: OpenStreetMap.",
-        "es": "Oficina de Correos. Punto de interés de Tiana registrado en OpenStreetMap como post_office. Fuente: OpenStreetMap.",
-        "en": "Oficina de Correos. Tiana point of interest listed in OpenStreetMap as post_office. Source: OpenStreetMap."
+        "ca": "Oficina de Correos. Punt d'interès de Tiana relacionat amb post office.",
+        "es": "Oficina de Correos. Punto de interés de Tiana relacionado con post office.",
+        "en": "Oficina de Correos. Tiana point of interest related to post office."
       },
       "tags": [
         "tiana",
@@ -2816,9 +2816,9 @@
         "en": "Cura Sana"
       },
       "description": {
-        "ca": "Cura Sana. Punt d'interès de Tiana registrat a OpenStreetMap com medical_supply. Font: OpenStreetMap.",
-        "es": "Cura Sana. Punto de interés de Tiana registrado en OpenStreetMap como medical_supply. Fuente: OpenStreetMap.",
-        "en": "Cura Sana. Tiana point of interest listed in OpenStreetMap as medical_supply. Source: OpenStreetMap."
+        "ca": "Cura Sana. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Cura Sana. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Cura Sana. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2852,9 +2852,9 @@
         "en": "Mario Tarragó Tattoo"
       },
       "description": {
-        "ca": "Mario Tarragó Tattoo. Punt d'interès de Tiana registrat a OpenStreetMap com tattoo. Font: OpenStreetMap.",
-        "es": "Mario Tarragó Tattoo. Punto de interés de Tiana registrado en OpenStreetMap como tattoo. Fuente: OpenStreetMap.",
-        "en": "Mario Tarragó Tattoo. Tiana point of interest listed in OpenStreetMap as tattoo. Source: OpenStreetMap."
+        "ca": "Mario Tarragó Tattoo. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Mario Tarragó Tattoo. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Mario Tarragó Tattoo. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2888,9 +2888,9 @@
         "en": "Condis"
       },
       "description": {
-        "ca": "Condis. Punt d'interès de Tiana registrat a OpenStreetMap com supermarket. Font: OpenStreetMap.",
-        "es": "Condis. Punto de interés de Tiana registrado en OpenStreetMap como supermarket. Fuente: OpenStreetMap.",
-        "en": "Condis. Tiana point of interest listed in OpenStreetMap as supermarket. Source: OpenStreetMap."
+        "ca": "Condis. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Condis. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Condis. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2925,9 +2925,9 @@
         "en": "Tiana Supermercat"
       },
       "description": {
-        "ca": "Tiana Supermercat. Punt d'interès de Tiana registrat a OpenStreetMap com convenience. Font: OpenStreetMap.",
-        "es": "Tiana Supermercat. Punto de interés de Tiana registrado en OpenStreetMap como convenience. Fuente: OpenStreetMap.",
-        "en": "Tiana Supermercat. Tiana point of interest listed in OpenStreetMap as convenience. Source: OpenStreetMap."
+        "ca": "Tiana Supermercat. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Tiana Supermercat. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Tiana Supermercat. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -2961,9 +2961,9 @@
         "en": "Restaurante Mas Blanc"
       },
       "description": {
-        "ca": "Restaurante Mas Blanc. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
-        "es": "Restaurante Mas Blanc. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
-        "en": "Restaurante Mas Blanc. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+        "ca": "Restaurante Mas Blanc. Restaurant o establiment de restauració local a Tiana.",
+        "es": "Restaurante Mas Blanc. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "Restaurante Mas Blanc. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -2997,9 +2997,9 @@
         "en": "El 9 choco"
       },
       "description": {
-        "ca": "El 9 choco. Punt d'interès de Tiana registrat a OpenStreetMap com cafe. Font: OpenStreetMap.",
-        "es": "El 9 choco. Punto de interés de Tiana registrado en OpenStreetMap como cafe. Fuente: OpenStreetMap.",
-        "en": "El 9 choco. Tiana point of interest listed in OpenStreetMap as cafe. Source: OpenStreetMap."
+        "ca": "El 9 choco. Restaurant o establiment de restauració local a Tiana.",
+        "es": "El 9 choco. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "El 9 choco. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -3033,9 +3033,9 @@
         "en": "Caixabank"
       },
       "description": {
-        "ca": "Caixabank. Punt d'interès de Tiana registrat a OpenStreetMap com bank. Font: OpenStreetMap.",
-        "es": "Caixabank. Punto de interés de Tiana registrado en OpenStreetMap como bank. Fuente: OpenStreetMap.",
-        "en": "Caixabank. Tiana point of interest listed in OpenStreetMap as bank. Source: OpenStreetMap."
+        "ca": "Caixabank. Punt d'interès de Tiana relacionat amb bank.",
+        "es": "Caixabank. Punto de interés de Tiana relacionado con bank.",
+        "en": "Caixabank. Tiana point of interest related to bank."
       },
       "tags": [
         "tiana",
@@ -3069,9 +3069,9 @@
         "en": "Centre Veterinari Tiana"
       },
       "description": {
-        "ca": "Centre Veterinari Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com veterinary. Font: OpenStreetMap.",
-        "es": "Centre Veterinari Tiana. Punto de interés de Tiana registrado en OpenStreetMap como veterinary. Fuente: OpenStreetMap.",
-        "en": "Centre Veterinari Tiana. Tiana point of interest listed in OpenStreetMap as veterinary. Source: OpenStreetMap."
+        "ca": "Centre Veterinari Tiana. Punt d'interès de Tiana relacionat amb veterinary.",
+        "es": "Centre Veterinari Tiana. Punto de interés de Tiana relacionado con veterinary.",
+        "en": "Centre Veterinari Tiana. Tiana point of interest related to veterinary."
       },
       "tags": [
         "tiana",
@@ -3105,9 +3105,9 @@
         "en": "Quissos"
       },
       "description": {
-        "ca": "Quissos. Punt d'interès de Tiana registrat a OpenStreetMap com pet_grooming. Font: OpenStreetMap.",
-        "es": "Quissos. Punto de interés de Tiana registrado en OpenStreetMap como pet_grooming. Fuente: OpenStreetMap.",
-        "en": "Quissos. Tiana point of interest listed in OpenStreetMap as pet_grooming. Source: OpenStreetMap."
+        "ca": "Quissos. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Quissos. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Quissos. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -3141,9 +3141,9 @@
         "en": "Admon. 1 Loteria y Apuestas del Estado"
       },
       "description": {
-        "ca": "Admon. 1 Loteria y Apuestas del Estado. Punt d'interès de Tiana registrat a OpenStreetMap com lottery. Font: OpenStreetMap.",
-        "es": "Admon. 1 Loteria y Apuestas del Estado. Punto de interés de Tiana registrado en OpenStreetMap como lottery. Fuente: OpenStreetMap.",
-        "en": "Admon. 1 Loteria y Apuestas del Estado. Tiana point of interest listed in OpenStreetMap as lottery. Source: OpenStreetMap."
+        "ca": "Admon. 1 Loteria y Apuestas del Estado. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Admon. 1 Loteria y Apuestas del Estado. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Admon. 1 Loteria y Apuestas del Estado. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -3177,9 +3177,9 @@
         "en": "Mi bella serendipia"
       },
       "description": {
-        "ca": "Mi bella serendipia. Punt d'interès de Tiana registrat a OpenStreetMap com books. Font: OpenStreetMap.",
-        "es": "Mi bella serendipia. Punto de interés de Tiana registrado en OpenStreetMap como books. Fuente: OpenStreetMap.",
-        "en": "Mi bella serendipia. Tiana point of interest listed in OpenStreetMap as books. Source: OpenStreetMap."
+        "ca": "Mi bella serendipia. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Mi bella serendipia. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Mi bella serendipia. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -3213,9 +3213,9 @@
         "en": "Kids&Us"
       },
       "description": {
-        "ca": "Kids&Us. Punt d'interès de Tiana registrat a OpenStreetMap com language_school. Font: OpenStreetMap.",
-        "es": "Kids&Us. Punto de interés de Tiana registrado en OpenStreetMap como language_school. Fuente: OpenStreetMap.",
-        "en": "Kids&Us. Tiana point of interest listed in OpenStreetMap as language_school. Source: OpenStreetMap."
+        "ca": "Kids&Us. Punt d'interès de Tiana relacionat amb language school.",
+        "es": "Kids&Us. Punto de interés de Tiana relacionado con language school.",
+        "en": "Kids&Us. Tiana point of interest related to language school."
       },
       "tags": [
         "tiana",
@@ -3251,9 +3251,9 @@
         "en": "Farmàcia Capdevila Bassols, Montserrat"
       },
       "description": {
-        "ca": "Farmàcia Capdevila Bassols, Montserrat. Punt d'interès de Tiana registrat a OpenStreetMap com pharmacy. Font: OpenStreetMap.",
-        "es": "Farmàcia Capdevila Bassols, Montserrat. Punto de interés de Tiana registrado en OpenStreetMap como pharmacy. Fuente: OpenStreetMap.",
-        "en": "Farmàcia Capdevila Bassols, Montserrat. Tiana point of interest listed in OpenStreetMap as pharmacy. Source: OpenStreetMap."
+        "ca": "Farmàcia Capdevila Bassols, Montserrat. Punt d'interès de Tiana relacionat amb pharmacy.",
+        "es": "Farmàcia Capdevila Bassols, Montserrat. Punto de interés de Tiana relacionado con pharmacy.",
+        "en": "Farmàcia Capdevila Bassols, Montserrat. Tiana point of interest related to pharmacy."
       },
       "tags": [
         "tiana",
@@ -3288,9 +3288,9 @@
         "en": "Decor casa"
       },
       "description": {
-        "ca": "Decor casa. Punt d'interès de Tiana registrat a OpenStreetMap com convenience. Font: OpenStreetMap.",
-        "es": "Decor casa. Punto de interés de Tiana registrado en OpenStreetMap como convenience. Fuente: OpenStreetMap.",
-        "en": "Decor casa. Tiana point of interest listed in OpenStreetMap as convenience. Source: OpenStreetMap."
+        "ca": "Decor casa. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Decor casa. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Decor casa. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -3325,9 +3325,9 @@
         "en": "Modomio"
       },
       "description": {
-        "ca": "Modomio. Punt d'interès de Tiana registrat a OpenStreetMap com fast_food. Font: OpenStreetMap.",
-        "es": "Modomio. Punto de interés de Tiana registrado en OpenStreetMap como fast_food. Fuente: OpenStreetMap.",
-        "en": "Modomio. Tiana point of interest listed in OpenStreetMap as fast_food. Source: OpenStreetMap."
+        "ca": "Modomio. Restaurant o establiment de restauració local a Tiana.",
+        "es": "Modomio. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "Modomio. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -3362,9 +3362,9 @@
         "en": "Badagres"
       },
       "description": {
-        "ca": "Badagres. Punt d'interès de Tiana registrat a OpenStreetMap com trade. Font: OpenStreetMap.",
-        "es": "Badagres. Punto de interés de Tiana registrado en OpenStreetMap como trade. Fuente: OpenStreetMap.",
-        "en": "Badagres. Tiana point of interest listed in OpenStreetMap as trade. Source: OpenStreetMap."
+        "ca": "Badagres. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Badagres. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Badagres. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -3399,9 +3399,9 @@
         "en": "Parc de la Serralada Litoral"
       },
       "description": {
-        "ca": "Parc de la Serralada Litoral. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "Parc de la Serralada Litoral. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "Parc de la Serralada Litoral. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "Parc de la Serralada Litoral. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Parc de la Serralada Litoral. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Parc de la Serralada Litoral. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -3435,9 +3435,9 @@
         "en": "Font de Sant Bru"
       },
       "description": {
-        "ca": "Font de Sant Bru. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "Font de Sant Bru. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "Font de Sant Bru. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "Font de Sant Bru. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Font de Sant Bru. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Font de Sant Bru. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -3471,9 +3471,9 @@
         "en": "ruta SL-C 146"
       },
       "description": {
-        "ca": "ruta SL-C 146. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "ruta SL-C 146. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "ruta SL-C 146. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "ruta SL-C 146. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "ruta SL-C 146. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "ruta SL-C 146. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -3507,9 +3507,9 @@
         "en": "Slc"
       },
       "description": {
-        "ca": "Slc. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "Slc. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "Slc. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "Slc. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Slc. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Slc. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -3543,9 +3543,9 @@
         "en": "95 145 146"
       },
       "description": {
-        "ca": "95 145 146. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "95 145 146. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "95 145 146. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "95 145 146. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "95 145 146. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "95 145 146. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -3579,9 +3579,9 @@
         "en": "ruta SL-C 145"
       },
       "description": {
-        "ca": "ruta SL-C 145. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "ruta SL-C 145. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "ruta SL-C 145. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "ruta SL-C 145. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "ruta SL-C 145. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "ruta SL-C 145. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -3615,9 +3615,9 @@
         "en": "Slc 146"
       },
       "description": {
-        "ca": "Slc 146. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "Slc 146. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "Slc 146. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "Slc 146. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Slc 146. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Slc 146. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -3651,9 +3651,9 @@
         "en": "Parc Serralada de la Marina"
       },
       "description": {
-        "ca": "Parc Serralada de la Marina. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "Parc Serralada de la Marina. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "Parc Serralada de la Marina. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "Parc Serralada de la Marina. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Parc Serralada de la Marina. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Parc Serralada de la Marina. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -3687,9 +3687,9 @@
         "en": "Les Terrasses de Sant Romà"
       },
       "description": {
-        "ca": "Les Terrasses de Sant Romà. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
-        "es": "Les Terrasses de Sant Romà. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
-        "en": "Les Terrasses de Sant Romà. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+        "ca": "Les Terrasses de Sant Romà. Restaurant o establiment de restauració local a Tiana.",
+        "es": "Les Terrasses de Sant Romà. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "Les Terrasses de Sant Romà. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -3724,9 +3724,9 @@
         "en": "SL-C 95 SL-C 145 SL-C 146"
       },
       "description": {
-        "ca": "SL-C 95 SL-C 145 SL-C 146. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "SL-C 95 SL-C 145 SL-C 146. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "SL-C 95 SL-C 145 SL-C 146. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "SL-C 95 SL-C 145 SL-C 146. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "SL-C 95 SL-C 145 SL-C 146. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "SL-C 95 SL-C 145 SL-C 146. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -3760,9 +3760,9 @@
         "en": "Refugi climàtic Biblioteca Can Baratau"
       },
       "description": {
-        "ca": "Refugi climàtic Biblioteca Can Baratau. Punt d'interès de Tiana registrat a OpenStreetMap com shelter. Font: OpenStreetMap.",
-        "es": "Refugi climàtic Biblioteca Can Baratau. Punto de interés de Tiana registrado en OpenStreetMap como shelter. Fuente: OpenStreetMap.",
-        "en": "Refugi climàtic Biblioteca Can Baratau. Tiana point of interest listed in OpenStreetMap as shelter. Source: OpenStreetMap."
+        "ca": "Refugi climàtic Biblioteca Can Baratau. Punt d'interès de Tiana relacionat amb shelter.",
+        "es": "Refugi climàtic Biblioteca Can Baratau. Punto de interés de Tiana relacionado con shelter.",
+        "en": "Refugi climàtic Biblioteca Can Baratau. Tiana point of interest related to shelter."
       },
       "tags": [
         "tiana",
@@ -3796,9 +3796,9 @@
         "en": "Refugi climàtic Plaça de Salvador Espriu"
       },
       "description": {
-        "ca": "Refugi climàtic Plaça de Salvador Espriu. Punt d'interès de Tiana registrat a OpenStreetMap com shelter. Font: OpenStreetMap.",
-        "es": "Refugi climàtic Plaça de Salvador Espriu. Punto de interés de Tiana registrado en OpenStreetMap como shelter. Fuente: OpenStreetMap.",
-        "en": "Refugi climàtic Plaça de Salvador Espriu. Tiana point of interest listed in OpenStreetMap as shelter. Source: OpenStreetMap."
+        "ca": "Refugi climàtic Plaça de Salvador Espriu. Punt d'interès de Tiana relacionat amb shelter.",
+        "es": "Refugi climàtic Plaça de Salvador Espriu. Punto de interés de Tiana relacionado con shelter.",
+        "en": "Refugi climàtic Plaça de Salvador Espriu. Tiana point of interest related to shelter."
       },
       "tags": [
         "tiana",
@@ -3832,9 +3832,9 @@
         "en": "Refugi climàtic Parc de l'antic camp de futbol de Tiana"
       },
       "description": {
-        "ca": "Refugi climàtic Parc de l'antic camp de futbol de Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com shelter. Font: OpenStreetMap.",
-        "es": "Refugi climàtic Parc de l'antic camp de futbol de Tiana. Punto de interés de Tiana registrado en OpenStreetMap como shelter. Fuente: OpenStreetMap.",
-        "en": "Refugi climàtic Parc de l'antic camp de futbol de Tiana. Tiana point of interest listed in OpenStreetMap as shelter. Source: OpenStreetMap."
+        "ca": "Refugi climàtic Parc de l'antic camp de futbol de Tiana. Punt d'interès de Tiana relacionat amb shelter.",
+        "es": "Refugi climàtic Parc de l'antic camp de futbol de Tiana. Punto de interés de Tiana relacionado con shelter.",
+        "en": "Refugi climàtic Parc de l'antic camp de futbol de Tiana. Tiana point of interest related to shelter."
       },
       "tags": [
         "tiana",
@@ -3868,9 +3868,9 @@
         "en": "Refugi climàtic Parc de Joan Armengol i Moliné"
       },
       "description": {
-        "ca": "Refugi climàtic Parc de Joan Armengol i Moliné. Punt d'interès de Tiana registrat a OpenStreetMap com shelter. Font: OpenStreetMap.",
-        "es": "Refugi climàtic Parc de Joan Armengol i Moliné. Punto de interés de Tiana registrado en OpenStreetMap como shelter. Fuente: OpenStreetMap.",
-        "en": "Refugi climàtic Parc de Joan Armengol i Moliné. Tiana point of interest listed in OpenStreetMap as shelter. Source: OpenStreetMap."
+        "ca": "Refugi climàtic Parc de Joan Armengol i Moliné. Punt d'interès de Tiana relacionat amb shelter.",
+        "es": "Refugi climàtic Parc de Joan Armengol i Moliné. Punto de interés de Tiana relacionado con shelter.",
+        "en": "Refugi climàtic Parc de Joan Armengol i Moliné. Tiana point of interest related to shelter."
       },
       "tags": [
         "tiana",
@@ -3904,9 +3904,9 @@
         "en": "Refugi climàtic Llar de persones grans"
       },
       "description": {
-        "ca": "Refugi climàtic Llar de persones grans. Punt d'interès de Tiana registrat a OpenStreetMap com shelter. Font: OpenStreetMap.",
-        "es": "Refugi climàtic Llar de persones grans. Punto de interés de Tiana registrado en OpenStreetMap como shelter. Fuente: OpenStreetMap.",
-        "en": "Refugi climàtic Llar de persones grans. Tiana point of interest listed in OpenStreetMap as shelter. Source: OpenStreetMap."
+        "ca": "Refugi climàtic Llar de persones grans. Punt d'interès de Tiana relacionat amb shelter.",
+        "es": "Refugi climàtic Llar de persones grans. Punto de interés de Tiana relacionado con shelter.",
+        "en": "Refugi climàtic Llar de persones grans. Tiana point of interest related to shelter."
       },
       "tags": [
         "tiana",
@@ -3940,9 +3940,9 @@
         "en": "La Bodega del Mascaró"
       },
       "description": {
-        "ca": "La Bodega del Mascaró. Punt d'interès de Tiana registrat a OpenStreetMap com bar. Font: OpenStreetMap.",
-        "es": "La Bodega del Mascaró. Punto de interés de Tiana registrado en OpenStreetMap como bar. Fuente: OpenStreetMap.",
-        "en": "La Bodega del Mascaró. Tiana point of interest listed in OpenStreetMap as bar. Source: OpenStreetMap."
+        "ca": "La Bodega del Mascaró. Restaurant o establiment de restauració local a Tiana.",
+        "es": "La Bodega del Mascaró. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "La Bodega del Mascaró. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -3977,9 +3977,9 @@
         "en": "Monument a Joan Armengol"
       },
       "description": {
-        "ca": "Monument a Joan Armengol. Punt d'interès de Tiana registrat a OpenStreetMap com memorial. Font: OpenStreetMap.",
-        "es": "Monument a Joan Armengol. Punto de interés de Tiana registrado en OpenStreetMap como memorial. Fuente: OpenStreetMap.",
-        "en": "Monument a Joan Armengol. Tiana point of interest listed in OpenStreetMap as memorial. Source: OpenStreetMap."
+        "ca": "Monument a Joan Armengol. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Monument a Joan Armengol. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Monument a Joan Armengol. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4013,9 +4013,9 @@
         "en": "La Local Ràdio Tiana"
       },
       "description": {
-        "ca": "La Local Ràdio Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com studio. Font: OpenStreetMap.",
-        "es": "La Local Ràdio Tiana. Punto de interés de Tiana registrado en OpenStreetMap como studio. Fuente: OpenStreetMap.",
-        "en": "La Local Ràdio Tiana. Tiana point of interest listed in OpenStreetMap as studio. Source: OpenStreetMap."
+        "ca": "La Local Ràdio Tiana. Punt d'interès de Tiana relacionat amb studio.",
+        "es": "La Local Ràdio Tiana. Punto de interés de Tiana relacionado con studio.",
+        "en": "La Local Ràdio Tiana. Tiana point of interest related to studio."
       },
       "tags": [
         "tiana",
@@ -4051,9 +4051,9 @@
         "en": "Can Boter"
       },
       "description": {
-        "ca": "Can Boter. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
-        "es": "Can Boter. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
-        "en": "Can Boter. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+        "ca": "Can Boter. Restaurant o establiment de restauració local a Tiana.",
+        "es": "Can Boter. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "Can Boter. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -4087,9 +4087,9 @@
         "en": "La ben plantada"
       },
       "description": {
-        "ca": "La ben plantada. Punt d'interès de Tiana registrat a OpenStreetMap com memorial. Font: OpenStreetMap.",
-        "es": "La ben plantada. Punto de interés de Tiana registrado en OpenStreetMap como memorial. Fuente: OpenStreetMap.",
-        "en": "La ben plantada. Tiana point of interest listed in OpenStreetMap as memorial. Source: OpenStreetMap."
+        "ca": "La ben plantada. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "La ben plantada. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "La ben plantada. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4124,9 +4124,9 @@
         "en": "Forn de pa Enric Solà"
       },
       "description": {
-        "ca": "Forn de pa Enric Solà. Punt d'interès de Tiana registrat a OpenStreetMap com bakery. Font: OpenStreetMap.",
-        "es": "Forn de pa Enric Solà. Punto de interés de Tiana registrado en OpenStreetMap como bakery. Fuente: OpenStreetMap.",
-        "en": "Forn de pa Enric Solà. Tiana point of interest listed in OpenStreetMap as bakery. Source: OpenStreetMap."
+        "ca": "Forn de pa Enric Solà. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Forn de pa Enric Solà. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Forn de pa Enric Solà. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -4161,9 +4161,9 @@
         "en": "la Fortune"
       },
       "description": {
-        "ca": "la Fortune. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
-        "es": "la Fortune. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
-        "en": "la Fortune. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+        "ca": "la Fortune. Restaurant o establiment de restauració local a Tiana.",
+        "es": "la Fortune. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "la Fortune. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -4198,9 +4198,9 @@
         "en": "Farmàcia Tiana"
       },
       "description": {
-        "ca": "Farmàcia Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com pharmacy. Font: OpenStreetMap.",
-        "es": "Farmàcia Tiana. Punto de interés de Tiana registrado en OpenStreetMap como pharmacy. Fuente: OpenStreetMap.",
-        "en": "Farmàcia Tiana. Tiana point of interest listed in OpenStreetMap as pharmacy. Source: OpenStreetMap."
+        "ca": "Farmàcia Tiana. Punt d'interès de Tiana relacionat amb pharmacy.",
+        "es": "Farmàcia Tiana. Punto de interés de Tiana relacionado con pharmacy.",
+        "en": "Farmàcia Tiana. Tiana point of interest related to pharmacy."
       },
       "tags": [
         "tiana",
@@ -4234,9 +4234,9 @@
         "en": "igreen Garden"
       },
       "description": {
-        "ca": "igreen Garden. Punt d'interès de Tiana registrat a OpenStreetMap com garden_centre. Font: OpenStreetMap.",
-        "es": "igreen Garden. Punto de interés de Tiana registrado en OpenStreetMap como garden_centre. Fuente: OpenStreetMap.",
-        "en": "igreen Garden. Tiana point of interest listed in OpenStreetMap as garden_centre. Source: OpenStreetMap."
+        "ca": "igreen Garden. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "igreen Garden. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "igreen Garden. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -4270,9 +4270,9 @@
         "en": "Tiana contra les agressions masclistes. Benvinguts a Tiana."
       },
       "description": {
-        "ca": "Tiana contra les agressions masclistes. Benvinguts a Tiana.. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "Tiana contra les agressions masclistes. Benvinguts a Tiana.. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "Tiana contra les agressions masclistes. Benvinguts a Tiana.. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "Tiana contra les agressions masclistes. Benvinguts a Tiana.. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Tiana contra les agressions masclistes. Benvinguts a Tiana.. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Tiana contra les agressions masclistes. Benvinguts a Tiana.. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4306,9 +4306,9 @@
         "en": "Miracor de la vall de Montalegre"
       },
       "description": {
-        "ca": "Miracor de la vall de Montalegre. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "Miracor de la vall de Montalegre. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "Miracor de la vall de Montalegre. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "Miracor de la vall de Montalegre. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Miracor de la vall de Montalegre. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Miracor de la vall de Montalegre. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4342,9 +4342,9 @@
         "en": "La migració de les aus rapinyaires diürnes"
       },
       "description": {
-        "ca": "La migració de les aus rapinyaires diürnes. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "La migració de les aus rapinyaires diürnes. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "La migració de les aus rapinyaires diürnes. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "La migració de les aus rapinyaires diürnes. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "La migració de les aus rapinyaires diürnes. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "La migració de les aus rapinyaires diürnes. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4378,9 +4378,9 @@
         "en": "SL-C 95"
       },
       "description": {
-        "ca": "SL-C 95. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "SL-C 95. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "SL-C 95. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "SL-C 95. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "SL-C 95. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "SL-C 95. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4414,9 +4414,9 @@
         "en": "Coll del Turó d'en Galceran"
       },
       "description": {
-        "ca": "Coll del Turó d'en Galceran. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "Coll del Turó d'en Galceran. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "Coll del Turó d'en Galceran. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "Coll del Turó d'en Galceran. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Coll del Turó d'en Galceran. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Coll del Turó d'en Galceran. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4450,9 +4450,9 @@
         "en": "SL-C 135"
       },
       "description": {
-        "ca": "SL-C 135. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "SL-C 135. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "SL-C 135. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "SL-C 135. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "SL-C 135. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "SL-C 135. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4486,9 +4486,9 @@
         "en": "SL-C 96"
       },
       "description": {
-        "ca": "SL-C 96. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "SL-C 96. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "SL-C 96. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "SL-C 96. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "SL-C 96. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "SL-C 96. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4522,9 +4522,9 @@
         "en": "Celler Alta Alella Mirgin"
       },
       "description": {
-        "ca": "Celler Alta Alella Mirgin. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "Celler Alta Alella Mirgin. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "Celler Alta Alella Mirgin. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "Celler Alta Alella Mirgin. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Celler Alta Alella Mirgin. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Celler Alta Alella Mirgin. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4558,9 +4558,9 @@
         "en": "Eix Central del Maresme"
       },
       "description": {
-        "ca": "Eix Central del Maresme. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "Eix Central del Maresme. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "Eix Central del Maresme. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "Eix Central del Maresme. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Eix Central del Maresme. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Eix Central del Maresme. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4594,9 +4594,9 @@
         "en": "Tranvia de Montgat-Tiana"
       },
       "description": {
-        "ca": "Tranvia de Montgat-Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "Tranvia de Montgat-Tiana. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "Tranvia de Montgat-Tiana. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "Tranvia de Montgat-Tiana. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Tranvia de Montgat-Tiana. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Tranvia de Montgat-Tiana. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4630,9 +4630,9 @@
         "en": "Can Elies"
       },
       "description": {
-        "ca": "Can Elies. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Elies. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Elies. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Elies. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Elies. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Elies. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4666,9 +4666,9 @@
         "en": "Jaciment de Ca l'Andreu"
       },
       "description": {
-        "ca": "Jaciment de Ca l'Andreu. Punt d'interès de Tiana registrat a OpenStreetMap com archaeological_site. Font: OpenStreetMap.",
-        "es": "Jaciment de Ca l'Andreu. Punto de interés de Tiana registrado en OpenStreetMap como archaeological_site. Fuente: OpenStreetMap.",
-        "en": "Jaciment de Ca l'Andreu. Tiana point of interest listed in OpenStreetMap as archaeological_site. Source: OpenStreetMap."
+        "ca": "Jaciment de Ca l'Andreu. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Jaciment de Ca l'Andreu. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Jaciment de Ca l'Andreu. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4702,9 +4702,9 @@
         "en": "Can Orella"
       },
       "description": {
-        "ca": "Can Orella. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Orella. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Orella. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Orella. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Orella. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Orella. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4738,9 +4738,9 @@
         "en": "Can Bocatto"
       },
       "description": {
-        "ca": "Can Bocatto. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Bocatto. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Bocatto. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Bocatto. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Bocatto. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Bocatto. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4774,9 +4774,9 @@
         "en": "Can Bretos"
       },
       "description": {
-        "ca": "Can Bretos. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Bretos. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Bretos. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Bretos. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Bretos. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Bretos. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4810,9 +4810,9 @@
         "en": "Can Cruspinera"
       },
       "description": {
-        "ca": "Can Cruspinera. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Cruspinera. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Cruspinera. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Cruspinera. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Cruspinera. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Cruspinera. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4846,9 +4846,9 @@
         "en": "Ca la Doloretes"
       },
       "description": {
-        "ca": "Ca la Doloretes. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Ca la Doloretes. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Ca la Doloretes. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Ca la Doloretes. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Ca la Doloretes. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Ca la Doloretes. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4882,9 +4882,9 @@
         "en": "Can Garí"
       },
       "description": {
-        "ca": "Can Garí. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Garí. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Garí. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Garí. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Garí. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Garí. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4918,9 +4918,9 @@
         "en": "Ca la Godó"
       },
       "description": {
-        "ca": "Ca la Godó. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Ca la Godó. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Ca la Godó. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Ca la Godó. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Ca la Godó. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Ca la Godó. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4954,9 +4954,9 @@
         "en": "Can Grasses"
       },
       "description": {
-        "ca": "Can Grasses. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Grasses. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Grasses. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Grasses. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Grasses. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Grasses. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -4990,9 +4990,9 @@
         "en": "Can Jaumet"
       },
       "description": {
-        "ca": "Can Jaumet. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Jaumet. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Jaumet. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Jaumet. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Jaumet. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Jaumet. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5026,9 +5026,9 @@
         "en": "Ca Lamaña"
       },
       "description": {
-        "ca": "Ca Lamaña. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Ca Lamaña. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Ca Lamaña. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Ca Lamaña. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Ca Lamaña. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Ca Lamaña. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5062,9 +5062,9 @@
         "en": "Verd es bo"
       },
       "description": {
-        "ca": "Verd es bo. Punt d'interès de Tiana registrat a OpenStreetMap com florist. Font: OpenStreetMap.",
-        "es": "Verd es bo. Punto de interés de Tiana registrado en OpenStreetMap como florist. Fuente: OpenStreetMap.",
-        "en": "Verd es bo. Tiana point of interest listed in OpenStreetMap as florist. Source: OpenStreetMap."
+        "ca": "Verd es bo. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Verd es bo. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Verd es bo. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -5099,9 +5099,9 @@
         "en": "VSK Beauty Experience"
       },
       "description": {
-        "ca": "VSK Beauty Experience. Punt d'interès de Tiana registrat a OpenStreetMap com beauty. Font: OpenStreetMap.",
-        "es": "VSK Beauty Experience. Punto de interés de Tiana registrado en OpenStreetMap como beauty. Fuente: OpenStreetMap.",
-        "en": "VSK Beauty Experience. Tiana point of interest listed in OpenStreetMap as beauty. Source: OpenStreetMap."
+        "ca": "VSK Beauty Experience. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "VSK Beauty Experience. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "VSK Beauty Experience. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -5135,9 +5135,9 @@
         "en": "Petit Micacu"
       },
       "description": {
-        "ca": "Petit Micacu. Punt d'interès de Tiana registrat a OpenStreetMap com toys. Font: OpenStreetMap.",
-        "es": "Petit Micacu. Punto de interés de Tiana registrado en OpenStreetMap como toys. Fuente: OpenStreetMap.",
-        "en": "Petit Micacu. Tiana point of interest listed in OpenStreetMap as toys. Source: OpenStreetMap."
+        "ca": "Petit Micacu. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
+        "es": "Petit Micacu. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Petit Micacu. Local shop or service in Tiana connected to everyday town life."
       },
       "tags": [
         "tiana",
@@ -5171,9 +5171,9 @@
         "en": "Alberg La Conreria. Fundació Pere Tarrés"
       },
       "description": {
-        "ca": "Alberg La Conreria. Fundació Pere Tarrés. Punt d'interès de Tiana registrat a OpenStreetMap com hostel. Font: OpenStreetMap.",
-        "es": "Alberg La Conreria. Fundació Pere Tarrés. Punto de interés de Tiana registrado en OpenStreetMap como hostel. Fuente: OpenStreetMap.",
-        "en": "Alberg La Conreria. Fundació Pere Tarrés. Tiana point of interest listed in OpenStreetMap as hostel. Source: OpenStreetMap."
+        "ca": "Alberg La Conreria. Fundació Pere Tarrés. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Alberg La Conreria. Fundació Pere Tarrés. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Alberg La Conreria. Fundació Pere Tarrés. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5209,9 +5209,9 @@
         "en": "Zona esportiva municipal de Tiana"
       },
       "description": {
-        "ca": "Zona esportiva municipal de Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com sports_centre. Font: OpenStreetMap.",
-        "es": "Zona esportiva municipal de Tiana. Punto de interés de Tiana registrado en OpenStreetMap como sports_centre. Fuente: OpenStreetMap.",
-        "en": "Zona esportiva municipal de Tiana. Tiana point of interest listed in OpenStreetMap as sports_centre. Source: OpenStreetMap."
+        "ca": "Zona esportiva municipal de Tiana. Equipament o servei esportiu de Tiana per a l'activitat física i la vida local.",
+        "es": "Zona esportiva municipal de Tiana. Equipamiento o servicio deportivo de Tiana para la actividad física y la vida local.",
+        "en": "Zona esportiva municipal de Tiana. Sports facility or service in Tiana for physical activity and local life."
       },
       "tags": [
         "tiana",
@@ -5245,9 +5245,9 @@
         "en": "Vil·la romana de Can Sent-romà"
       },
       "description": {
-        "ca": "Vil·la romana de Can Sent-romà. Punt d'interès de Tiana registrat a OpenStreetMap com archaeological_site. Font: OpenStreetMap.",
-        "es": "Vil·la romana de Can Sent-romà. Punto de interés de Tiana registrado en OpenStreetMap como archaeological_site. Fuente: OpenStreetMap.",
-        "en": "Vil·la romana de Can Sent-romà. Tiana point of interest listed in OpenStreetMap as archaeological_site. Source: OpenStreetMap."
+        "ca": "Vil·la romana de Can Sent-romà. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Vil·la romana de Can Sent-romà. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Vil·la romana de Can Sent-romà. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5281,9 +5281,9 @@
         "en": "Deixalleria de Tiana i Mongat"
       },
       "description": {
-        "ca": "Deixalleria de Tiana i Mongat. Punt d'interès de Tiana registrat a OpenStreetMap com recycling. Font: OpenStreetMap.",
-        "es": "Deixalleria de Tiana i Mongat. Punto de interés de Tiana registrado en OpenStreetMap como recycling. Fuente: OpenStreetMap.",
-        "en": "Deixalleria de Tiana i Mongat. Tiana point of interest listed in OpenStreetMap as recycling. Source: OpenStreetMap."
+        "ca": "Deixalleria de Tiana i Mongat. Punt d'interès de Tiana relacionat amb recycling.",
+        "es": "Deixalleria de Tiana i Mongat. Punto de interés de Tiana relacionado con recycling.",
+        "en": "Deixalleria de Tiana i Mongat. Tiana point of interest related to recycling."
       },
       "tags": [
         "tiana",
@@ -5318,9 +5318,9 @@
         "en": "Duin Jordi Marí"
       },
       "description": {
-        "ca": "Duin Jordi Marí. Punt d'interès de Tiana registrat a OpenStreetMap com fitness_centre. Font: OpenStreetMap.",
-        "es": "Duin Jordi Marí. Punto de interés de Tiana registrado en OpenStreetMap como fitness_centre. Fuente: OpenStreetMap.",
-        "en": "Duin Jordi Marí. Tiana point of interest listed in OpenStreetMap as fitness_centre. Source: OpenStreetMap."
+        "ca": "Duin Jordi Marí. Equipament o servei esportiu de Tiana per a l'activitat física i la vida local.",
+        "es": "Duin Jordi Marí. Equipamiento o servicio deportivo de Tiana para la actividad física y la vida local.",
+        "en": "Duin Jordi Marí. Sports facility or service in Tiana for physical activity and local life."
       },
       "tags": [
         "tiana",
@@ -5354,9 +5354,9 @@
         "en": "Piscina municipal Jordi Marí"
       },
       "description": {
-        "ca": "Piscina municipal Jordi Marí. Punt d'interès de Tiana registrat a OpenStreetMap com sports_centre. Font: OpenStreetMap.",
-        "es": "Piscina municipal Jordi Marí. Punto de interés de Tiana registrado en OpenStreetMap como sports_centre. Fuente: OpenStreetMap.",
-        "en": "Piscina municipal Jordi Marí. Tiana point of interest listed in OpenStreetMap as sports_centre. Source: OpenStreetMap."
+        "ca": "Piscina municipal Jordi Marí. Equipament o servei esportiu de Tiana per a l'activitat física i la vida local.",
+        "es": "Piscina municipal Jordi Marí. Equipamiento o servicio deportivo de Tiana para la actividad física y la vida local.",
+        "en": "Piscina municipal Jordi Marí. Sports facility or service in Tiana for physical activity and local life."
       },
       "tags": [
         "tiana",
@@ -5390,9 +5390,9 @@
         "en": "Mirador de Nou Pins"
       },
       "description": {
-        "ca": "Mirador de Nou Pins. Punt d'interès de Tiana registrat a OpenStreetMap com viewpoint. Font: OpenStreetMap.",
-        "es": "Mirador de Nou Pins. Punto de interés de Tiana registrado en OpenStreetMap como viewpoint. Fuente: OpenStreetMap.",
-        "en": "Mirador de Nou Pins. Tiana point of interest listed in OpenStreetMap as viewpoint. Source: OpenStreetMap."
+        "ca": "Mirador de Nou Pins. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Mirador de Nou Pins. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Mirador de Nou Pins. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5426,9 +5426,9 @@
         "en": "Area d'en Galzeran"
       },
       "description": {
-        "ca": "Area d'en Galzeran. Punt d'interès de Tiana registrat a OpenStreetMap com viewpoint. Font: OpenStreetMap.",
-        "es": "Area d'en Galzeran. Punto de interés de Tiana registrado en OpenStreetMap como viewpoint. Fuente: OpenStreetMap.",
-        "en": "Area d'en Galzeran. Tiana point of interest listed in OpenStreetMap as viewpoint. Source: OpenStreetMap."
+        "ca": "Area d'en Galzeran. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Area d'en Galzeran. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Area d'en Galzeran. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5462,9 +5462,9 @@
         "en": "Parc del Doctor Barraquer"
       },
       "description": {
-        "ca": "Parc del Doctor Barraquer. Punt d'interès de Tiana registrat a OpenStreetMap com park. Font: OpenStreetMap.",
-        "es": "Parc del Doctor Barraquer. Punto de interés de Tiana registrado en OpenStreetMap como park. Fuente: OpenStreetMap.",
-        "en": "Parc del Doctor Barraquer. Tiana point of interest listed in OpenStreetMap as park. Source: OpenStreetMap."
+        "ca": "Parc del Doctor Barraquer. Espai natural o punt a l'aire lliure de Tiana per descobrir l'entorn del municipi.",
+        "es": "Parc del Doctor Barraquer. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
+        "en": "Parc del Doctor Barraquer. Natural or outdoor spot in Tiana for exploring the local surroundings."
       },
       "tags": [
         "tiana",
@@ -5498,9 +5498,9 @@
         "en": "Ermita de la Alegría"
       },
       "description": {
-        "ca": "Ermita de la Alegría. Punt d'interès de Tiana registrat a OpenStreetMap com place_of_worship. Font: OpenStreetMap.",
-        "es": "Ermita de la Alegría. Punto de interés de Tiana registrado en OpenStreetMap como place_of_worship. Fuente: OpenStreetMap.",
-        "en": "Ermita de la Alegría. Tiana point of interest listed in OpenStreetMap as place_of_worship. Source: OpenStreetMap."
+        "ca": "Ermita de la Alegría. Punt d'interès de Tiana relacionat amb place of worship.",
+        "es": "Ermita de la Alegría. Punto de interés de Tiana relacionado con place of worship.",
+        "en": "Ermita de la Alegría. Tiana point of interest related to place of worship."
       },
       "tags": [
         "tiana",
@@ -5534,9 +5534,9 @@
         "en": "Can Fatjó"
       },
       "description": {
-        "ca": "Can Fatjó. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Fatjó. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Fatjó. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Fatjó. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Fatjó. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Fatjó. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5570,9 +5570,9 @@
         "en": "El Racó de la Rajola"
       },
       "description": {
-        "ca": "El Racó de la Rajola. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "El Racó de la Rajola. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "El Racó de la Rajola. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "El Racó de la Rajola. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "El Racó de la Rajola. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "El Racó de la Rajola. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5606,9 +5606,9 @@
         "en": "Can Pere Morell"
       },
       "description": {
-        "ca": "Can Pere Morell. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Pere Morell. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Pere Morell. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Pere Morell. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Pere Morell. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Pere Morell. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5642,9 +5642,9 @@
         "en": "Oficina del Parc de la Serralada de Marina"
       },
       "description": {
-        "ca": "Oficina del Parc de la Serralada de Marina. Punt d'interès de Tiana registrat a OpenStreetMap com information. Font: OpenStreetMap.",
-        "es": "Oficina del Parc de la Serralada de Marina. Punto de interés de Tiana registrado en OpenStreetMap como information. Fuente: OpenStreetMap.",
-        "en": "Oficina del Parc de la Serralada de Marina. Tiana point of interest listed in OpenStreetMap as information. Source: OpenStreetMap."
+        "ca": "Oficina del Parc de la Serralada de Marina. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Oficina del Parc de la Serralada de Marina. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Oficina del Parc de la Serralada de Marina. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5678,9 +5678,9 @@
         "en": "Piscina municipal descoberta"
       },
       "description": {
-        "ca": "Piscina municipal descoberta. Punt d'interès de Tiana registrat a OpenStreetMap com swimming_area. Font: OpenStreetMap.",
-        "es": "Piscina municipal descoberta. Punto de interés de Tiana registrado en OpenStreetMap como swimming_area. Fuente: OpenStreetMap.",
-        "en": "Piscina municipal descoberta. Tiana point of interest listed in OpenStreetMap as swimming_area. Source: OpenStreetMap."
+        "ca": "Piscina municipal descoberta. Equipament o servei esportiu de Tiana per a l'activitat física i la vida local.",
+        "es": "Piscina municipal descoberta. Equipamiento o servicio deportivo de Tiana para la actividad física y la vida local.",
+        "en": "Piscina municipal descoberta. Sports facility or service in Tiana for physical activity and local life."
       },
       "tags": [
         "tiana",
@@ -5714,9 +5714,9 @@
         "en": "Abam"
       },
       "description": {
-        "ca": "Abam. Punt d'interès de Tiana registrat a OpenStreetMap com animal_shelter. Font: OpenStreetMap.",
-        "es": "Abam. Punto de interés de Tiana registrado en OpenStreetMap como animal_shelter. Fuente: OpenStreetMap.",
-        "en": "Abam. Tiana point of interest listed in OpenStreetMap as animal_shelter. Source: OpenStreetMap."
+        "ca": "Abam. Punt d'interès de Tiana relacionat amb animal shelter.",
+        "es": "Abam. Punto de interés de Tiana relacionado con animal shelter.",
+        "en": "Abam. Tiana point of interest related to animal shelter."
       },
       "tags": [
         "tiana",
@@ -5750,9 +5750,9 @@
         "en": "Casa de colònies Mas Po-Canyadó"
       },
       "description": {
-        "ca": "Casa de colònies Mas Po-Canyadó. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Casa de colònies Mas Po-Canyadó. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Casa de colònies Mas Po-Canyadó. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Casa de colònies Mas Po-Canyadó. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Casa de colònies Mas Po-Canyadó. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Casa de colònies Mas Po-Canyadó. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5786,9 +5786,9 @@
         "en": "Can Sord"
       },
       "description": {
-        "ca": "Can Sord. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Sord. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Sord. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Sord. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Sord. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Sord. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5822,9 +5822,9 @@
         "en": "Ca n'Estela"
       },
       "description": {
-        "ca": "Ca n'Estela. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Ca n'Estela. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Ca n'Estela. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Ca n'Estela. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Ca n'Estela. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Ca n'Estela. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5858,9 +5858,9 @@
         "en": "Can Vilà"
       },
       "description": {
-        "ca": "Can Vilà. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Vilà. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Vilà. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Vilà. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Vilà. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Vilà. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5894,9 +5894,9 @@
         "en": "Restaurant Can Roca"
       },
       "description": {
-        "ca": "Restaurant Can Roca. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
-        "es": "Restaurant Can Roca. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
-        "en": "Restaurant Can Roca. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+        "ca": "Restaurant Can Roca. Restaurant o establiment de restauració local a Tiana.",
+        "es": "Restaurant Can Roca. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "Restaurant Can Roca. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -5930,9 +5930,9 @@
         "en": "Can Parxet"
       },
       "description": {
-        "ca": "Can Parxet. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Parxet. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Parxet. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Parxet. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Parxet. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Parxet. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -5966,9 +5966,9 @@
         "en": "Can Garra"
       },
       "description": {
-        "ca": "Can Garra. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Garra. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Garra. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Garra. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Garra. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Garra. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6002,9 +6002,9 @@
         "en": "Can Frares"
       },
       "description": {
-        "ca": "Can Frares. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Frares. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Frares. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Frares. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Frares. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Frares. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6038,9 +6038,9 @@
         "en": "Parc de Gaietà"
       },
       "description": {
-        "ca": "Parc de Gaietà. Punt d'interès de Tiana registrat a OpenStreetMap com park. Font: OpenStreetMap.",
-        "es": "Parc de Gaietà. Punto de interés de Tiana registrado en OpenStreetMap como park. Fuente: OpenStreetMap.",
-        "en": "Parc de Gaietà. Tiana point of interest listed in OpenStreetMap as park. Source: OpenStreetMap."
+        "ca": "Parc de Gaietà. Espai natural o punt a l'aire lliure de Tiana per descobrir l'entorn del municipi.",
+        "es": "Parc de Gaietà. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
+        "en": "Parc de Gaietà. Natural or outdoor spot in Tiana for exploring the local surroundings."
       },
       "tags": [
         "tiana",
@@ -6074,9 +6074,9 @@
         "en": "Can Gaeità"
       },
       "description": {
-        "ca": "Can Gaeità. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Gaeità. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Gaeità. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Gaeità. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Gaeità. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Gaeità. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6110,9 +6110,9 @@
         "en": "Can Cosme"
       },
       "description": {
-        "ca": "Can Cosme. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Cosme. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Cosme. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Cosme. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Cosme. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Cosme. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6146,9 +6146,9 @@
         "en": "Can Rosés"
       },
       "description": {
-        "ca": "Can Rosés. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Rosés. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Rosés. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Rosés. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Rosés. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Rosés. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6182,9 +6182,9 @@
         "en": "Can Cardús"
       },
       "description": {
-        "ca": "Can Cardús. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Cardús. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Cardús. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Cardús. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Cardús. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Cardús. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6218,9 +6218,9 @@
         "en": "Can Regordosa"
       },
       "description": {
-        "ca": "Can Regordosa. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Regordosa. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Regordosa. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Regordosa. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Regordosa. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Regordosa. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6254,9 +6254,9 @@
         "en": "Can Ribé"
       },
       "description": {
-        "ca": "Can Ribé. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Ribé. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Ribé. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Ribé. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Ribé. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Ribé. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6290,9 +6290,9 @@
         "en": "Can Vega Alegre"
       },
       "description": {
-        "ca": "Can Vega Alegre. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Vega Alegre. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Vega Alegre. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Vega Alegre. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Vega Alegre. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Vega Alegre. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6326,9 +6326,9 @@
         "en": "Can Tolrà"
       },
       "description": {
-        "ca": "Can Tolrà. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Tolrà. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Tolrà. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Tolrà. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Tolrà. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Tolrà. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6362,9 +6362,9 @@
         "en": "la Casa Alta"
       },
       "description": {
-        "ca": "la Casa Alta. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "la Casa Alta. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "la Casa Alta. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "la Casa Alta. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "la Casa Alta. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "la Casa Alta. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6398,9 +6398,9 @@
         "en": "Can Jordana"
       },
       "description": {
-        "ca": "Can Jordana. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Jordana. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Jordana. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Jordana. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Jordana. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Jordana. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6434,9 +6434,9 @@
         "en": "Can Comes"
       },
       "description": {
-        "ca": "Can Comes. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Comes. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Comes. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Comes. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Comes. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Comes. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6470,9 +6470,9 @@
         "en": "Can Caneny"
       },
       "description": {
-        "ca": "Can Caneny. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Caneny. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Caneny. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Caneny. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Caneny. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Caneny. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6506,9 +6506,9 @@
         "en": "Can Brossa"
       },
       "description": {
-        "ca": "Can Brossa. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Brossa. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Brossa. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Brossa. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Brossa. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Brossa. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6542,9 +6542,9 @@
         "en": "Can Cirera"
       },
       "description": {
-        "ca": "Can Cirera. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Cirera. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Cirera. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Cirera. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Cirera. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Cirera. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6578,9 +6578,9 @@
         "en": "Can Fabregas"
       },
       "description": {
-        "ca": "Can Fabregas. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Fabregas. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Fabregas. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Fabregas. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Fabregas. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Fabregas. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6614,9 +6614,9 @@
         "en": "Ca l'Andreu"
       },
       "description": {
-        "ca": "Ca l'Andreu. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Ca l'Andreu. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Ca l'Andreu. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Ca l'Andreu. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Ca l'Andreu. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Ca l'Andreu. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6650,9 +6650,9 @@
         "en": "Can Girò"
       },
       "description": {
-        "ca": "Can Girò. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Girò. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Girò. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Girò. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Girò. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Girò. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6686,9 +6686,9 @@
         "en": "Can Torredà"
       },
       "description": {
-        "ca": "Can Torredà. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Torredà. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Torredà. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Torredà. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Torredà. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Torredà. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6722,9 +6722,9 @@
         "en": "Can Masdeu"
       },
       "description": {
-        "ca": "Can Masdeu. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Masdeu. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Masdeu. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Masdeu. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Masdeu. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Masdeu. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6758,9 +6758,9 @@
         "en": "Convent de les Franciscanes"
       },
       "description": {
-        "ca": "Convent de les Franciscanes. Punt d'interès de Tiana registrat a OpenStreetMap com place_of_worship. Font: OpenStreetMap.",
-        "es": "Convent de les Franciscanes. Punto de interés de Tiana registrado en OpenStreetMap como place_of_worship. Fuente: OpenStreetMap.",
-        "en": "Convent de les Franciscanes. Tiana point of interest listed in OpenStreetMap as place_of_worship. Source: OpenStreetMap."
+        "ca": "Convent de les Franciscanes. Punt d'interès de Tiana relacionat amb place of worship.",
+        "es": "Convent de les Franciscanes. Punto de interés de Tiana relacionado con place of worship.",
+        "en": "Convent de les Franciscanes. Tiana point of interest related to place of worship."
       },
       "tags": [
         "tiana",
@@ -6794,9 +6794,9 @@
         "en": "Can Nolis"
       },
       "description": {
-        "ca": "Can Nolis. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Nolis. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Nolis. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Nolis. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Nolis. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Nolis. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6830,9 +6830,9 @@
         "en": "Mas Ram"
       },
       "description": {
-        "ca": "Mas Ram. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Mas Ram. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Mas Ram. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Mas Ram. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Mas Ram. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Mas Ram. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6866,9 +6866,9 @@
         "en": "Museu del poblat de Sent-romà"
       },
       "description": {
-        "ca": "Museu del poblat de Sent-romà. Punt d'interès de Tiana registrat a OpenStreetMap com museum. Font: OpenStreetMap.",
-        "es": "Museu del poblat de Sent-romà. Punto de interés de Tiana registrado en OpenStreetMap como museum. Fuente: OpenStreetMap.",
-        "en": "Museu del poblat de Sent-romà. Tiana point of interest listed in OpenStreetMap as museum. Source: OpenStreetMap."
+        "ca": "Museu del poblat de Sent-romà. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Museu del poblat de Sent-romà. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Museu del poblat de Sent-romà. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -6902,9 +6902,9 @@
         "en": "Centre Ocupacional Verge de l'Alegria"
       },
       "description": {
-        "ca": "Centre Ocupacional Verge de l'Alegria. Punt d'interès de Tiana registrat a OpenStreetMap com social_facility. Font: OpenStreetMap.",
-        "es": "Centre Ocupacional Verge de l'Alegria. Punto de interés de Tiana registrado en OpenStreetMap como social_facility. Fuente: OpenStreetMap.",
-        "en": "Centre Ocupacional Verge de l'Alegria. Tiana point of interest listed in OpenStreetMap as social_facility. Source: OpenStreetMap."
+        "ca": "Centre Ocupacional Verge de l'Alegria. Punt d'interès de Tiana relacionat amb social facility.",
+        "es": "Centre Ocupacional Verge de l'Alegria. Punto de interés de Tiana relacionado con social facility.",
+        "en": "Centre Ocupacional Verge de l'Alegria. Tiana point of interest related to social facility."
       },
       "tags": [
         "tiana",
@@ -6938,9 +6938,9 @@
         "en": "Parc del Doctor Ferràndiz"
       },
       "description": {
-        "ca": "Parc del Doctor Ferràndiz. Punt d'interès de Tiana registrat a OpenStreetMap com park. Font: OpenStreetMap.",
-        "es": "Parc del Doctor Ferràndiz. Punto de interés de Tiana registrado en OpenStreetMap como park. Fuente: OpenStreetMap.",
-        "en": "Parc del Doctor Ferràndiz. Tiana point of interest listed in OpenStreetMap as park. Source: OpenStreetMap."
+        "ca": "Parc del Doctor Ferràndiz. Espai natural o punt a l'aire lliure de Tiana per descobrir l'entorn del municipi.",
+        "es": "Parc del Doctor Ferràndiz. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
+        "en": "Parc del Doctor Ferràndiz. Natural or outdoor spot in Tiana for exploring the local surroundings."
       },
       "tags": [
         "tiana",
@@ -6974,9 +6974,9 @@
         "en": "Parc de Rafael de Casanovas"
       },
       "description": {
-        "ca": "Parc de Rafael de Casanovas. Punt d'interès de Tiana registrat a OpenStreetMap com park. Font: OpenStreetMap.",
-        "es": "Parc de Rafael de Casanovas. Punto de interés de Tiana registrado en OpenStreetMap como park. Fuente: OpenStreetMap.",
-        "en": "Parc de Rafael de Casanovas. Tiana point of interest listed in OpenStreetMap as park. Source: OpenStreetMap."
+        "ca": "Parc de Rafael de Casanovas. Espai natural o punt a l'aire lliure de Tiana per descobrir l'entorn del municipi.",
+        "es": "Parc de Rafael de Casanovas. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
+        "en": "Parc de Rafael de Casanovas. Natural or outdoor spot in Tiana for exploring the local surroundings."
       },
       "tags": [
         "tiana",
@@ -7010,9 +7010,9 @@
         "en": "Petanca de Tiana"
       },
       "description": {
-        "ca": "Petanca de Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com cafe. Font: OpenStreetMap.",
-        "es": "Petanca de Tiana. Punto de interés de Tiana registrado en OpenStreetMap como cafe. Fuente: OpenStreetMap.",
-        "en": "Petanca de Tiana. Tiana point of interest listed in OpenStreetMap as cafe. Source: OpenStreetMap."
+        "ca": "Petanca de Tiana. Restaurant o establiment de restauració local a Tiana.",
+        "es": "Petanca de Tiana. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "Petanca de Tiana. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -7046,9 +7046,9 @@
         "en": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià"
       },
       "description": {
-        "ca": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià. Punt d'interès de Tiana registrat a OpenStreetMap com social_facility. Font: OpenStreetMap.",
-        "es": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià. Punto de interés de Tiana registrado en OpenStreetMap como social_facility. Fuente: OpenStreetMap.",
-        "en": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià. Tiana point of interest listed in OpenStreetMap as social_facility. Source: OpenStreetMap."
+        "ca": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià. Punt d'interès de Tiana relacionat amb social facility.",
+        "es": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià. Punto de interés de Tiana relacionado con social facility.",
+        "en": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià. Tiana point of interest related to social facility."
       },
       "tags": [
         "tiana",
@@ -7082,9 +7082,9 @@
         "en": "Jardins de Can Baratau"
       },
       "description": {
-        "ca": "Jardins de Can Baratau. Punt d'interès de Tiana registrat a OpenStreetMap com garden. Font: OpenStreetMap.",
-        "es": "Jardins de Can Baratau. Punto de interés de Tiana registrado en OpenStreetMap como garden. Fuente: OpenStreetMap.",
-        "en": "Jardins de Can Baratau. Tiana point of interest listed in OpenStreetMap as garden. Source: OpenStreetMap."
+        "ca": "Jardins de Can Baratau. Espai verd o punt a l'aire lliure de Tiana per descobrir l'entorn del municipi.",
+        "es": "Jardins de Can Baratau. Espacio verde o punto al aire libre de Tiana para descubrir el entorno del municipio.",
+        "en": "Jardins de Can Baratau. Green or outdoor spot in Tiana for exploring the local surroundings."
       },
       "tags": [
         "tiana",
@@ -7118,9 +7118,9 @@
         "en": "Tirati Tiriti"
       },
       "description": {
-        "ca": "Tirati Tiriti. Punt d'interès de Tiana registrat a OpenStreetMap com restaurant. Font: OpenStreetMap.",
-        "es": "Tirati Tiriti. Punto de interés de Tiana registrado en OpenStreetMap como restaurant. Fuente: OpenStreetMap.",
-        "en": "Tirati Tiriti. Tiana point of interest listed in OpenStreetMap as restaurant. Source: OpenStreetMap."
+        "ca": "Tirati Tiriti. Restaurant o establiment de restauració local a Tiana.",
+        "es": "Tirati Tiriti. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "Tirati Tiriti. Local restaurant or food venue in Tiana."
       },
       "tags": [
         "tiana",
@@ -7154,9 +7154,9 @@
         "en": "Ajuntament de Tiana"
       },
       "description": {
-        "ca": "Ajuntament de Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com townhall. Font: OpenStreetMap.",
-        "es": "Ajuntament de Tiana. Punto de interés de Tiana registrado en OpenStreetMap como townhall. Fuente: OpenStreetMap.",
-        "en": "Ajuntament de Tiana. Tiana point of interest listed in OpenStreetMap as townhall. Source: OpenStreetMap."
+        "ca": "Ajuntament de Tiana. Punt d'interès de Tiana relacionat amb townhall.",
+        "es": "Ajuntament de Tiana. Punto de interés de Tiana relacionado con townhall.",
+        "en": "Ajuntament de Tiana. Tiana point of interest related to townhall."
       },
       "tags": [
         "tiana",
@@ -7192,9 +7192,9 @@
         "en": "Policia Local Tiana"
       },
       "description": {
-        "ca": "Policia Local Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com police. Font: OpenStreetMap.",
-        "es": "Policia Local Tiana. Punto de interés de Tiana registrado en OpenStreetMap como police. Fuente: OpenStreetMap.",
-        "en": "Policia Local Tiana. Tiana point of interest listed in OpenStreetMap as police. Source: OpenStreetMap."
+        "ca": "Policia Local Tiana. Punt d'interès de Tiana relacionat amb police.",
+        "es": "Policia Local Tiana. Punto de interés de Tiana relacionado con police.",
+        "en": "Policia Local Tiana. Tiana point of interest related to police."
       },
       "tags": [
         "tiana",
@@ -7229,9 +7229,9 @@
         "en": "Can Matas"
       },
       "description": {
-        "ca": "Can Matas. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Matas. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Matas. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Matas. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Matas. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Matas. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7265,9 +7265,9 @@
         "en": "La Rectoria"
       },
       "description": {
-        "ca": "La Rectoria. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "La Rectoria. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "La Rectoria. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "La Rectoria. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "La Rectoria. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "La Rectoria. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7301,9 +7301,9 @@
         "en": "Sant Cebrià"
       },
       "description": {
-        "ca": "Sant Cebrià. Punt d'interès de Tiana registrat a OpenStreetMap com place_of_worship. Font: OpenStreetMap.",
-        "es": "Sant Cebrià. Punto de interés de Tiana registrado en OpenStreetMap como place_of_worship. Fuente: OpenStreetMap.",
-        "en": "Sant Cebrià. Tiana point of interest listed in OpenStreetMap as place_of_worship. Source: OpenStreetMap."
+        "ca": "Sant Cebrià. Punt d'interès de Tiana relacionat amb place of worship.",
+        "es": "Sant Cebrià. Punto de interés de Tiana relacionado con place of worship.",
+        "en": "Sant Cebrià. Tiana point of interest related to place of worship."
       },
       "tags": [
         "tiana",
@@ -7337,9 +7337,9 @@
         "en": "Can Reniu"
       },
       "description": {
-        "ca": "Can Reniu. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Reniu. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Reniu. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Reniu. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Reniu. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Reniu. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7373,9 +7373,9 @@
         "en": "Can Durà"
       },
       "description": {
-        "ca": "Can Durà. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Durà. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Durà. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Durà. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Durà. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Durà. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7409,9 +7409,9 @@
         "en": "Can Puigcarbó"
       },
       "description": {
-        "ca": "Can Puigcarbó. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Puigcarbó. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Puigcarbó. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Puigcarbó. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Puigcarbó. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Puigcarbó. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7445,9 +7445,9 @@
         "en": "Can Marí"
       },
       "description": {
-        "ca": "Can Marí. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Marí. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Marí. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Marí. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Marí. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Marí. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7481,9 +7481,9 @@
         "en": "Can Noguera"
       },
       "description": {
-        "ca": "Can Noguera. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Noguera. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Noguera. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Noguera. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Noguera. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Noguera. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7517,9 +7517,9 @@
         "en": "Can Godó"
       },
       "description": {
-        "ca": "Can Godó. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Godó. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Godó. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Godó. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Godó. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Godó. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7553,9 +7553,9 @@
         "en": "Capella de Cant Sant Romà"
       },
       "description": {
-        "ca": "Capella de Cant Sant Romà. Punt d'interès de Tiana registrat a OpenStreetMap com place_of_worship. Font: OpenStreetMap.",
-        "es": "Capella de Cant Sant Romà. Punto de interés de Tiana registrado en OpenStreetMap como place_of_worship. Fuente: OpenStreetMap.",
-        "en": "Capella de Cant Sant Romà. Tiana point of interest listed in OpenStreetMap as place_of_worship. Source: OpenStreetMap."
+        "ca": "Capella de Cant Sant Romà. Punt d'interès de Tiana relacionat amb place of worship.",
+        "es": "Capella de Cant Sant Romà. Punto de interés de Tiana relacionado con place of worship.",
+        "en": "Capella de Cant Sant Romà. Tiana point of interest related to place of worship."
       },
       "tags": [
         "tiana",
@@ -7589,9 +7589,9 @@
         "en": "Can Guinart"
       },
       "description": {
-        "ca": "Can Guinart. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Guinart. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Guinart. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Guinart. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Guinart. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Guinart. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7625,9 +7625,9 @@
         "en": "Can Maybé"
       },
       "description": {
-        "ca": "Can Maybé. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Can Maybé. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Can Maybé. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Can Maybé. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Can Maybé. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Maybé. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7661,9 +7661,9 @@
         "en": "Cal Met"
       },
       "description": {
-        "ca": "Cal Met. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Cal Met. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Cal Met. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Cal Met. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Cal Met. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Cal Met. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7697,9 +7697,9 @@
         "en": "Cal Cucut"
       },
       "description": {
-        "ca": "Cal Cucut. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Cal Cucut. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Cal Cucut. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Cal Cucut. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Cal Cucut. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Cal Cucut. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7733,9 +7733,9 @@
         "en": "Cal Ros"
       },
       "description": {
-        "ca": "Cal Ros. Punt d'interès de Tiana registrat a OpenStreetMap com manor. Font: OpenStreetMap.",
-        "es": "Cal Ros. Punto de interés de Tiana registrado en OpenStreetMap como manor. Fuente: OpenStreetMap.",
-        "en": "Cal Ros. Tiana point of interest listed in OpenStreetMap as manor. Source: OpenStreetMap."
+        "ca": "Cal Ros. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Cal Ros. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Cal Ros. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7769,9 +7769,9 @@
         "en": "Antiga estació del Tramvia"
       },
       "description": {
-        "ca": "Antiga estació del Tramvia. Punt d'interès de Tiana registrat a OpenStreetMap com yes. Font: OpenStreetMap.",
-        "es": "Antiga estació del Tramvia. Punto de interés de Tiana registrado en OpenStreetMap como yes. Fuente: OpenStreetMap.",
-        "en": "Antiga estació del Tramvia. Tiana point of interest listed in OpenStreetMap as yes. Source: OpenStreetMap."
+        "ca": "Antiga estació del Tramvia. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Antiga estació del Tramvia. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Antiga estació del Tramvia. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7805,9 +7805,9 @@
         "en": "Antic Tramvia de Tiana"
       },
       "description": {
-        "ca": "Antic Tramvia de Tiana. Punt d'interès de Tiana registrat a OpenStreetMap com attraction. Font: OpenStreetMap.",
-        "es": "Antic Tramvia de Tiana. Punto de interés de Tiana registrado en OpenStreetMap como attraction. Fuente: OpenStreetMap.",
-        "en": "Antic Tramvia de Tiana. Tiana point of interest listed in OpenStreetMap as attraction. Source: OpenStreetMap."
+        "ca": "Antic Tramvia de Tiana. Punt cultural, patrimonial o comunitari de Tiana.",
+        "es": "Antic Tramvia de Tiana. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Antic Tramvia de Tiana. Cultural, heritage, or community point of interest in Tiana."
       },
       "tags": [
         "tiana",
@@ -7841,9 +7841,9 @@
         "en": "Llar d'infants El Timbal"
       },
       "description": {
-        "ca": "Llar d'infants El Timbal. Punt d'interès de Tiana registrat a OpenStreetMap com kindergarten. Font: OpenStreetMap.",
-        "es": "Llar d'infants El Timbal. Punto de interés de Tiana registrado en OpenStreetMap como kindergarten. Fuente: OpenStreetMap.",
-        "en": "Llar d'infants El Timbal. Tiana point of interest listed in OpenStreetMap as kindergarten. Source: OpenStreetMap."
+        "ca": "Llar d'infants El Timbal. Punt d'interès de Tiana relacionat amb kindergarten.",
+        "es": "Llar d'infants El Timbal. Punto de interés de Tiana relacionado con kindergarten.",
+        "en": "Llar d'infants El Timbal. Tiana point of interest related to kindergarten."
       },
       "tags": [
         "tiana",
@@ -7877,9 +7877,9 @@
         "en": "Llar d'infants El més petit de tots"
       },
       "description": {
-        "ca": "Llar d'infants El més petit de tots. Punt d'interès de Tiana registrat a OpenStreetMap com kindergarten. Font: OpenStreetMap.",
-        "es": "Llar d'infants El més petit de tots. Punto de interés de Tiana registrado en OpenStreetMap como kindergarten. Fuente: OpenStreetMap.",
-        "en": "Llar d'infants El més petit de tots. Tiana point of interest listed in OpenStreetMap as kindergarten. Source: OpenStreetMap."
+        "ca": "Llar d'infants El més petit de tots. Punt d'interès de Tiana relacionat amb kindergarten.",
+        "es": "Llar d'infants El més petit de tots. Punto de interés de Tiana relacionado con kindergarten.",
+        "en": "Llar d'infants El més petit de tots. Tiana point of interest related to kindergarten."
       },
       "tags": [
         "tiana",
@@ -7913,9 +7913,9 @@
         "en": "Jardins de Can Peitx"
       },
       "description": {
-        "ca": "Jardins de Can Peitx. Punt d'interès de Tiana registrat a OpenStreetMap com park. Font: OpenStreetMap.",
-        "es": "Jardins de Can Peitx. Punto de interés de Tiana registrado en OpenStreetMap como park. Fuente: OpenStreetMap.",
-        "en": "Jardins de Can Peitx. Tiana point of interest listed in OpenStreetMap as park. Source: OpenStreetMap."
+        "ca": "Jardins de Can Peitx. Espai natural o punt a l'aire lliure de Tiana per descobrir l'entorn del municipi.",
+        "es": "Jardins de Can Peitx. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
+        "en": "Jardins de Can Peitx. Natural or outdoor spot in Tiana for exploring the local surroundings."
       },
       "tags": [
         "tiana",
@@ -7949,9 +7949,9 @@
         "en": "Isaac Albéniz"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (106074). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (106074). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (106074). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -7987,9 +7987,9 @@
         "en": "Pg. Vilesa - Consultori"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (103530). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (103530). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (103530). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8025,9 +8025,9 @@
         "en": "Parc Antic Camp Futbol"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (103537). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (103537). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (103537). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8063,9 +8063,9 @@
         "en": "Pg. Vilesa - Can Facerias"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (103538). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (103538). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (103538). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8101,9 +8101,9 @@
         "en": "Creu de Terme"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (103535). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (103535). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (103535). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8139,9 +8139,9 @@
         "en": "Pl. Ciurana"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (105381). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (105381). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (105381). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8177,9 +8177,9 @@
         "en": "Creu de Terme"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (103531). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (103531). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (103531). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8215,9 +8215,9 @@
         "en": "Pg. Vilesa - Can Facerias"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (103532). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (103532). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (103532). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8253,9 +8253,9 @@
         "en": "Escola Lola Anglada"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (103536). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (103536). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (103536). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8291,9 +8291,9 @@
         "en": "Pg. Vilesa - Consultori"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (103533). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (103533). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (103533). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8329,9 +8329,9 @@
         "en": "Isaac Albéniz"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (100670). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (100670). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (100670). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8367,9 +8367,9 @@
         "en": "Església"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (104704). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (104704). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (104704). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8405,9 +8405,9 @@
         "en": "Petanca"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (109978). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (109978). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (109978). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8443,9 +8443,9 @@
         "en": "Petanca"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (109977). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (109977). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (109977). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8481,9 +8481,9 @@
         "en": "Residència St. Cebrià"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (109234). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (109234). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (109234). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8519,9 +8519,9 @@
         "en": "El Carmelità"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (109158). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (109158). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (109158). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8557,9 +8557,9 @@
         "en": "Edith Llaurador"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (109061). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (109061). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (109061). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8595,9 +8595,9 @@
         "en": "Camí dels Francesos"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (108608). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (108608). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (108608). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8633,9 +8633,9 @@
         "en": "Els Vessants"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (108607). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (108607). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (108607). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8671,9 +8671,9 @@
         "en": "Av. President Companys - Joan Brossa"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (108606). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (108606). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (108606). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8709,9 +8709,9 @@
         "en": "Can Puigcarbó"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (108604). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (108604). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (108604). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8747,9 +8747,9 @@
         "en": "Av. Joan Garí - Riera"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (108601). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (108601). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (108601). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8785,9 +8785,9 @@
         "en": "Camí de l'Alegria"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (108599). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (108599). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (108599). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8823,9 +8823,9 @@
         "en": "Camí del Mig d'Alella"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (108596). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (108596). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (108596). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8861,9 +8861,9 @@
         "en": "Camí de l'Alegria"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (108592). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (108592). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (108592). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8899,9 +8899,9 @@
         "en": "Cals Frares"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (108588). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (108588). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (108588). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8937,9 +8937,9 @@
         "en": "Barri Gosch"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (108547). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (108547). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (108547). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -8975,9 +8975,9 @@
         "en": "President Companys - Neus Català"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (107408). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (107408). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (107408). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -9013,9 +9013,9 @@
         "en": "Barri Gosch"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (107404). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (107404). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (107404). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -9051,9 +9051,9 @@
         "en": "La Virreina"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (107403). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (107403). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (107403). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -9089,9 +9089,9 @@
         "en": "Av. Joan Garí - Riera"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (106950). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (106950). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (106950). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -9127,9 +9127,9 @@
         "en": "Can Puigcarbó"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (106055). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (106055). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (106055). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -9165,9 +9165,9 @@
         "en": "La Virreina - Ciutat Comtal"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (106037). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (106037). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (106037). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -9203,9 +9203,9 @@
         "en": "Edith Llaurador"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (106028). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (106028). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (106028). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -9241,9 +9241,9 @@
         "en": "Poliesportiu"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (106029). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (106029). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (106029). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -9279,9 +9279,9 @@
         "en": "Parc Joan Armengol"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (112459). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (112459). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (112459). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -9317,9 +9317,9 @@
         "en": "Església"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (101370). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (101370). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (101370). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -9355,9 +9355,9 @@
         "en": "Can Gaietà"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (108598). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (108598). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (108598). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -9393,9 +9393,9 @@
         "en": "Escola Lola Anglada"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (112696). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (112696). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (112696). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -9431,9 +9431,9 @@
         "en": "Camí Dalt d'Alella - Edith Llaurador"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (112698). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (112698). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (112698). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -9469,9 +9469,9 @@
         "en": "Camí Dalt d'Alella - Edith Llaurador"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (112697). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (112697). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (112697). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",
@@ -9507,9 +9507,9 @@
         "en": "Cals Frares - Escola Bressol"
       },
       "description": {
-        "ca": "Parada de bus de Tiana (112699). Font: OpenStreetMap.",
-        "es": "Parada de autobús de Tiana (112699). Fuente: OpenStreetMap.",
-        "en": "Tiana bus stop (112699). Source: OpenStreetMap."
+        "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
+        "es": "Parada de autobús de Tiana, integrada en la red de transporte público del municipio.",
+        "en": "Tiana bus stop, part of the town's public transport network."
       },
       "tags": [
         "tiana",

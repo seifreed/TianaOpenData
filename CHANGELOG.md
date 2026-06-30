@@ -2,6 +2,7 @@
 
 ## 2026-06-30
 
+- Rewrite public POI and route descriptions to remove source/provenance text from user-facing fields.
 - Add Tiana bus stops and bus route coverage from OpenStreetMap.
 - Add named OpenStreetMap POIs and hiking/MTB route relations for Tiana.
 - Expand initial dataset with official municipal equipment and route entries.
