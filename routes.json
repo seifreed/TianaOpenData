@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ruta-centre-tiana",
+    "name": {
+      "ca": "Passeig pel centre de Tiana",
+      "es": "Paseo por el centro de Tiana",
+      "en": "Walk through central Tiana"
+    },
+    "description": {
+      "ca": "Ruta curta per descobrir punts bàsics del nucli urbà.",
+      "es": "Ruta corta para descubrir puntos básicos del núcleo urbano.",
+      "en": "Short route for discovering basic points in the town centre."
+    },
+    "difficulty": "easy",
+    "estimated_time_min": 30,
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [2.2674, 41.4822],
+        [2.2683, 41.483]
+      ]
+    },
+    "related_pois": ["tiana-ajuntament"],
+    "last_updated": "2026-06-30T00:00:00.000Z"
+  }
+]

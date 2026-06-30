@@ -1,0 +1,30 @@
+[
+  {
+    "id": "tiana-ajuntament",
+    "type": "culture",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.2674, 41.4822]
+    },
+    "properties": {
+      "name": {
+        "ca": "Ajuntament de Tiana",
+        "es": "Ayuntamiento de Tiana",
+        "en": "Tiana Town Hall"
+      },
+      "description": {
+        "ca": "Punt institucional de referencia al centre de Tiana.",
+        "es": "Punto institucional de referencia en el centro de Tiana.",
+        "en": "Institutional reference point in central Tiana."
+      },
+      "tags": ["institucional", "centre", "serveis"],
+      "accessibility": {
+        "wheelchair": true,
+        "baby_stroller": true,
+        "low_vision": true
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  }
+]
