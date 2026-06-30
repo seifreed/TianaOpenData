@@ -15,7 +15,7 @@
     "https://www.openstreetmap.org/",
     "https://overpass-api.de/"
   ],
-  "places_count": 216,
-  "routes_count": 17,
-  "note": "Equipaments extrets del directori municipal. Algunes rutes i coordenades sense traçat publicat són aproximades. POIs nombrados adicionales importados desde OpenStreetMap y deduplicados por nombre/proximidad. Rutes senderistes/BTT addicionals importades des de relacions OpenStreetMap; línies de bus/carreteres no importades perquè el schema actual és de rutes caminables."
+  "places_count": 258,
+  "routes_count": 25,
+  "note": "Equipaments extrets del directori municipal. Algunes rutes i coordenades sense traçat publicat són aproximades. POIs nombrados adicionales importados desde OpenStreetMap y deduplicados por nombre/proximidad. Rutes senderistes/BTT addicionals importades des de relacions OpenStreetMap; línies de bus/carreteres no importades perquè el schema actual és de rutes caminables. Parades i línies de bus vinculades a Tiana importades des d'OpenStreetMap."
 }

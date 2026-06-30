@@ -7931,5 +7931,1601 @@
       "images": [],
       "last_updated": "2026-06-30T00:00:00.000Z"
     }
+  },
+  {
+    "id": "osm-bus-stop-isaac-albeniz-106074",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2682672,
+        41.4828226
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Isaac Albéniz",
+        "es": "Isaac Albéniz",
+        "en": "Isaac Albéniz"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (106074). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (106074). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (106074). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5202475388",
+        "ref:106074",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-pg-vilesa-consultori-103530",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2684719,
+        41.4801018
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Pg. Vilesa - Consultori",
+        "es": "Pg. Vilesa - Consultori",
+        "en": "Pg. Vilesa - Consultori"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (103530). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (103530). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (103530). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5202475389",
+        "ref:103530",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-parc-antic-camp-futbol-103537",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.269294,
+        41.4787188
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc Antic Camp Futbol",
+        "es": "Parc Antic Camp Futbol",
+        "en": "Parc Antic Camp Futbol"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (103537). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (103537). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (103537). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5202475390",
+        "ref:103537",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-pg-vilesa-can-facerias-103538",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2695396,
+        41.4762965
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Pg. Vilesa - Can Facerias",
+        "es": "Pg. Vilesa - Can Facerias",
+        "en": "Pg. Vilesa - Can Facerias"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (103538). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (103538). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (103538). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5202475391",
+        "ref:103538",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-creu-de-terme-103535",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2688701,
+        41.4738683
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Creu de Terme",
+        "es": "Creu de Terme",
+        "en": "Creu de Terme"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (103535). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (103535). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (103535). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5202475392",
+        "ref:103535",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-pl-ciurana-105381",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2729396,
+        41.4713356
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Pl. Ciurana",
+        "es": "Pl. Ciurana",
+        "en": "Pl. Ciurana"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (105381). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (105381). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (105381). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5202475395",
+        "ref:105381",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-creu-de-terme-103531",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2688671,
+        41.4746339
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Creu de Terme",
+        "es": "Creu de Terme",
+        "en": "Creu de Terme"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (103531). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (103531). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (103531). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5202555590",
+        "ref:103531",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-pg-vilesa-can-facerias-103532",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2696626,
+        41.4758357
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Pg. Vilesa - Can Facerias",
+        "es": "Pg. Vilesa - Can Facerias",
+        "en": "Pg. Vilesa - Can Facerias"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (103532). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (103532). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (103532). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5202555591",
+        "ref:103532",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-escola-lola-anglada-103536",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2695575,
+        41.4778657
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Escola Lola Anglada",
+        "es": "Escola Lola Anglada",
+        "en": "Escola Lola Anglada"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (103536). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (103536). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (103536). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5202555592",
+        "ref:103536",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-pg-vilesa-consultori-103533",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2682497,
+        41.4803064
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Pg. Vilesa - Consultori",
+        "es": "Pg. Vilesa - Consultori",
+        "en": "Pg. Vilesa - Consultori"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (103533). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (103533). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (103533). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5202555593",
+        "ref:103533",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-isaac-albeniz-100670",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268192,
+        41.4829064
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Isaac Albéniz",
+        "es": "Isaac Albéniz",
+        "en": "Isaac Albéniz"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (100670). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (100670). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (100670). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5202555594",
+        "ref:100670",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-esglesia-104704",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2679061,
+        41.4839826
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Església",
+        "es": "Església",
+        "en": "Església"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (104704). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (104704). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (104704). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5202555595",
+        "ref:104704",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-petanca-109978",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.26864,
+        41.4868212
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Petanca",
+        "es": "Petanca",
+        "en": "Petanca"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (109978). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (109978). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (109978). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165783",
+        "ref:109978",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-petanca-109977",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2685228,
+        41.4865672
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Petanca",
+        "es": "Petanca",
+        "en": "Petanca"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (109977). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (109977). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (109977). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165784",
+        "ref:109977",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-residencia-st-cebria-109234",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2639776,
+        41.4781085
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Residència St. Cebrià",
+        "es": "Residència St. Cebrià",
+        "en": "Residència St. Cebrià"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (109234). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (109234). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (109234). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165785",
+        "ref:109234",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-el-carmelita-109158",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.263016,
+        41.4798175
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "El Carmelità",
+        "es": "El Carmelità",
+        "en": "El Carmelità"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (109158). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (109158). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (109158). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165786",
+        "ref:109158",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-edith-llaurador-109061",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2677878,
+        41.4850163
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Edith Llaurador",
+        "es": "Edith Llaurador",
+        "en": "Edith Llaurador"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (109061). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (109061). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (109061). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165787",
+        "ref:109061",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-cami-dels-francesos-108608",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2626382,
+        41.4775902
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Camí dels Francesos",
+        "es": "Camí dels Francesos",
+        "en": "Camí dels Francesos"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (108608). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (108608). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (108608). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165788",
+        "ref:108608",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-els-vessants-108607",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2616747,
+        41.4793248
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Els Vessants",
+        "es": "Els Vessants",
+        "en": "Els Vessants"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (108607). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (108607). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (108607). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165789",
+        "ref:108607",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-av-president-companys-joan-brossa-108606",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2638215,
+        41.4817698
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Av. President Companys - Joan Brossa",
+        "es": "Av. President Companys - Joan Brossa",
+        "en": "Av. President Companys - Joan Brossa"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (108606). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (108606). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (108606). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165790",
+        "ref:108606",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-can-puigcarbo-108604",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2636392,
+        41.4842624
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Puigcarbó",
+        "es": "Can Puigcarbó",
+        "en": "Can Puigcarbó"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (108604). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (108604). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (108604). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165791",
+        "ref:108604",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-av-joan-gari-riera-108601",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2655686,
+        41.4856771
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Av. Joan Garí - Riera",
+        "es": "Av. Joan Garí - Riera",
+        "en": "Av. Joan Garí - Riera"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (108601). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (108601). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (108601). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165792",
+        "ref:108601",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-cami-de-l-alegria-108599",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2715791,
+        41.4859
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Camí de l'Alegria",
+        "es": "Camí de l'Alegria",
+        "en": "Camí de l'Alegria"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (108599). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (108599). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (108599). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165793",
+        "ref:108599",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-cami-del-mig-d-alella-108596",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2726616,
+        41.4825653
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Camí del Mig d'Alella",
+        "es": "Camí del Mig d'Alella",
+        "en": "Camí del Mig d'Alella"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (108596). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (108596). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (108596). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165795",
+        "ref:108596",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-cami-de-l-alegria-108592",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2705996,
+        41.4857616
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Camí de l'Alegria",
+        "es": "Camí de l'Alegria",
+        "en": "Camí de l'Alegria"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (108592). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (108592). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (108592). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165796",
+        "ref:108592",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-cals-frares-108588",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2717115,
+        41.4835297
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Cals Frares",
+        "es": "Cals Frares",
+        "en": "Cals Frares"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (108588). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (108588). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (108588). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165797",
+        "ref:108588",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-barri-gosch-108547",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2661448,
+        41.4875796
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Barri Gosch",
+        "es": "Barri Gosch",
+        "en": "Barri Gosch"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (108547). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (108547). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (108547). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165798",
+        "ref:108547",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-president-companys-neus-catala-107408",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2632912,
+        41.4811091
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "President Companys - Neus Català",
+        "es": "President Companys - Neus Català",
+        "en": "President Companys - Neus Català"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (107408). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (107408). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (107408). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165800",
+        "ref:107408",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-barri-gosch-107404",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2657504,
+        41.4878327
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Barri Gosch",
+        "es": "Barri Gosch",
+        "en": "Barri Gosch"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (107404). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (107404). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (107404). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165801",
+        "ref:107404",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-la-virreina-107403",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2789924,
+        41.477139
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "La Virreina",
+        "es": "La Virreina",
+        "en": "La Virreina"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (107403). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (107403). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (107403). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165802",
+        "ref:107403",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-av-joan-gari-riera-106950",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2658952,
+        41.4854657
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Av. Joan Garí - Riera",
+        "es": "Av. Joan Garí - Riera",
+        "en": "Av. Joan Garí - Riera"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (106950). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (106950). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (106950). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165803",
+        "ref:106950",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-can-puigcarbo-106055",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2638658,
+        41.4840296
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Puigcarbó",
+        "es": "Can Puigcarbó",
+        "en": "Can Puigcarbó"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (106055). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (106055). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (106055). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165805",
+        "ref:106055",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-la-virreina-ciutat-comtal-106037",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2795577,
+        41.4756783
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "La Virreina - Ciutat Comtal",
+        "es": "La Virreina - Ciutat Comtal",
+        "en": "La Virreina - Ciutat Comtal"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (106037). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (106037). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (106037). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/5254165806",
+        "ref:106037",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-edith-llaurador-106028",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2677594,
+        41.4853166
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Edith Llaurador",
+        "es": "Edith Llaurador",
+        "en": "Edith Llaurador"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (106028). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (106028). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (106028). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/6314761848",
+        "ref:106028",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-poliesportiu-106029",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2615108,
+        41.4908053
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Poliesportiu",
+        "es": "Poliesportiu",
+        "en": "Poliesportiu"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (106029). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (106029). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (106029). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/6314761864",
+        "ref:106029",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-parc-joan-armengol-112459",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2702512,
+        41.4865199
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Parc Joan Armengol",
+        "es": "Parc Joan Armengol",
+        "en": "Parc Joan Armengol"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (112459). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (112459). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (112459). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/11525134696",
+        "ref:112459",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-esglesia-101370",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2680237,
+        41.4839307
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Església",
+        "es": "Església",
+        "en": "Església"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (101370). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (101370). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (101370). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/12296180072",
+        "ref:101370",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-can-gaieta-108598",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2724744,
+        41.4845301
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Can Gaietà",
+        "es": "Can Gaietà",
+        "en": "Can Gaietà"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (108598). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (108598). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (108598). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/12296180076",
+        "ref:108598",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-escola-lola-anglada-112696",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2689858,
+        41.4781913
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Escola Lola Anglada",
+        "es": "Escola Lola Anglada",
+        "en": "Escola Lola Anglada"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (112696). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (112696). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (112696). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/13760902828",
+        "ref:112696",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-cami-dalt-d-alella-edith-llaurador-112698",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2681713,
+        41.4849708
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Camí Dalt d'Alella - Edith Llaurador",
+        "es": "Camí Dalt d'Alella - Edith Llaurador",
+        "en": "Camí Dalt d'Alella - Edith Llaurador"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (112698). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (112698). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (112698). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/13760902830",
+        "ref:112698",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-cami-dalt-d-alella-edith-llaurador-112697",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.268307,
+        41.4849233
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Camí Dalt d'Alella - Edith Llaurador",
+        "es": "Camí Dalt d'Alella - Edith Llaurador",
+        "en": "Camí Dalt d'Alella - Edith Llaurador"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (112697). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (112697). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (112697). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/13760902832",
+        "ref:112697",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "osm-bus-stop-cals-frares-escola-bressol-112699",
+    "type": "route-point",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2716539,
+        41.4807716
+      ]
+    },
+    "properties": {
+      "name": {
+        "ca": "Cals Frares - Escola Bressol",
+        "es": "Cals Frares - Escola Bressol",
+        "en": "Cals Frares - Escola Bressol"
+      },
+      "description": {
+        "ca": "Parada de bus de Tiana (112699). Font: OpenStreetMap.",
+        "es": "Parada de autobús de Tiana (112699). Fuente: OpenStreetMap.",
+        "en": "Tiana bus stop (112699). Source: OpenStreetMap."
+      },
+      "tags": [
+        "tiana",
+        "openstreetmap",
+        "transport:bus",
+        "osm:node/13760902835",
+        "ref:112699",
+        "operator:Àrea Metropolitana de Barcelona"
+      ],
+      "accessibility": {
+        "wheelchair": false,
+        "baby_stroller": false,
+        "low_vision": false
+      },
+      "images": [],
+      "last_updated": "2026-06-30T00:00:00.000Z"
+    }
   }
 ]
