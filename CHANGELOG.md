@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-07-02
+
+- Replace placeholder alerts with verified municipal highlights from
+  `https://tiana.cat/`, each with its own source URL.
+- Document that missing or unreadable alert sources must publish `alerts: []`.
+
 ## 2026-06-30
 
 - Rewrite public POI and route descriptions to remove source/provenance text from user-facing fields.

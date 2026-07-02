@@ -19,6 +19,9 @@ https://raw.githubusercontent.com/seifreed/TianaOpenData/main
 - Coordinates are `[longitude, latitude]`.
 - Text fields support Catalan, Spanish, and English: `ca`, `es`, `en`.
 - Update `metadata.json.version` whenever public data changes.
+- `metadata.alerts` contains current civic highlights parsed from the
+  municipal `Destaquem` block at `https://tiana.cat/`. If no verified item can
+  be read, publish an empty array instead of placeholders.
 - Keep data compatible with public reuse.
 
 ## License

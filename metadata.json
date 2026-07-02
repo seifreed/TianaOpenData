@@ -22,38 +22,106 @@
   "report_url": "https://tiana.cat/bustia/",
   "alerts": [
     {
-      "id": "campanya-incendis-2026",
-      "type": "notice",
+      "id": "zones-verdes-per-a-residents",
+      "type": "roadwork",
       "title": {
-        "ca": "Campanya contra incendis 2026",
-        "es": "Campaña contra incendios 2026",
-        "en": "2026 wildfire prevention campaign"
+        "ca": "Zones verdes per a residents",
+        "es": "Zones verdes per a residents",
+        "en": "Zones verdes per a residents"
       },
       "description": {
-        "ca": "Mesures i recomanacions municipals preventives.",
-        "es": "Medidas y recomendaciones municipales preventivas.",
-        "en": "Municipal prevention measures and recommendations."
+        "ca": "Nova app d'aparcament gratuït per zones.",
+        "es": "Nova app d'aparcament gratuït per zones.",
+        "en": "Nova app d'aparcament gratuït per zones."
       },
       "starts_at": null,
       "ends_at": null,
-      "source_url": "https://tiana.cat/"
+      "source_url": "https://tiana.cat/serveis/mobilitat/zones-verdes/"
+    },
+    {
+      "id": "campanya-contra-incendis-2026",
+      "type": "incident",
+      "title": {
+        "ca": "Campanya contra incendis 2026",
+        "es": "Campanya contra incendis 2026",
+        "en": "Campanya contra incendis 2026"
+      },
+      "description": {
+        "ca": "Accions preventives, mesures i recomanacions.",
+        "es": "Accions preventives, mesures i recomanacions.",
+        "en": "Accions preventives, mesures i recomanacions."
+      },
+      "starts_at": null,
+      "ends_at": null,
+      "source_url": "https://tiana.cat/prevencio-incendis/"
     },
     {
       "id": "afectacio-mobilitat",
       "type": "roadwork",
       "title": {
-        "ca": "Afectació de mobilitat",
-        "es": "Afectación de movilidad",
-        "en": "Mobility disruption"
+        "ca": "Afectació mobilitat",
+        "es": "Afectació mobilitat",
+        "en": "Afectació mobilitat"
       },
       "description": {
-        "ca": "Talls de trànsit, restriccions d'aparcament i accessos alternatius publicats pel municipi.",
-        "es": "Cortes de tráfico, restricciones de aparcamiento y accesos alternativos publicados por el municipio.",
-        "en": "Traffic closures, parking restrictions and alternative access published by the municipality."
+        "ca": "Talls de trànsit, restriccions d'aparcament i accesos alternatius.",
+        "es": "Talls de trànsit, restriccions d'aparcament i accesos alternatius.",
+        "en": "Talls de trànsit, restriccions d'aparcament i accesos alternatius."
       },
       "starts_at": null,
       "ends_at": null,
-      "source_url": "https://tiana.cat/"
+      "source_url": "https://tiana.cat/serveis/mobilitat/talls-de-transit/"
+    },
+    {
+      "id": "estiu-jove",
+      "type": "event",
+      "title": {
+        "ca": "Estiu Jove",
+        "es": "Estiu Jove",
+        "en": "Estiu Jove"
+      },
+      "description": {
+        "ca": "Tallers i activitats per a joves dels 12 als 18 anys. Incripcions, aquí.",
+        "es": "Tallers i activitats per a joves dels 12 als 18 anys. Incripcions, aquí.",
+        "en": "Tallers i activitats per a joves dels 12 als 18 anys. Incripcions, aquí."
+      },
+      "starts_at": null,
+      "ends_at": null,
+      "source_url": "https://tiana.cat/estiujove/"
+    },
+    {
+      "id": "incendi-zona-poliesportiva",
+      "type": "incident",
+      "title": {
+        "ca": "Incendi zona poliesportiva",
+        "es": "Incendi zona poliesportiva",
+        "en": "Incendi zona poliesportiva"
+      },
+      "description": {
+        "ca": "Informació i com rebre les alertes",
+        "es": "Informació i com rebre les alertes",
+        "en": "Informació i com rebre les alertes"
+      },
+      "starts_at": null,
+      "ends_at": null,
+      "source_url": "https://tiana.cat/incendi-2026/"
+    },
+    {
+      "id": "piscina-municipal",
+      "type": "event",
+      "title": {
+        "ca": "Piscina municipal",
+        "es": "Piscina municipal",
+        "en": "Piscina municipal"
+      },
+      "description": {
+        "ca": "Abonaments estiu 2026 a partir del 28 de maig, aquí.",
+        "es": "Abonaments estiu 2026 a partir del 28 de maig, aquí.",
+        "en": "Abonaments estiu 2026 a partir del 28 de maig, aquí."
+      },
+      "starts_at": null,
+      "ends_at": null,
+      "source_url": "https://tiana.cat/esport/piscines-de-tiana/"
     }
   ]
 }
