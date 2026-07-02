@@ -69,7 +69,12 @@
       "children": true,
       "stroller": true
     },
-    "images": [],
+    "images": [
+      "https://tiana.cat/wp-content/uploads/2022/11/BIBLIOTECA-CAN-BARATAU-300x225.jpg",
+      "https://tiana.cat/wp-content/uploads/2022/11/CAN-RIERA-300x225.jpg",
+      "https://tiana.cat/wp-content/uploads/2022/11/JARDI-LOLA-ANGLADA-1-300x225.jpg",
+      "https://tiana.cat/wp-content/uploads/2023/01/25522_342625623822_5587030_n-300x225.jpg"
+    ],
     "source": {
       "name": "Ajuntament de Tiana",
       "url": "https://tiana.cat/rutes/",
@@ -142,7 +147,12 @@
       "children": true,
       "stroller": true
     },
-    "images": [],
+    "images": [
+      "https://tiana.cat/wp-content/uploads/2022/11/CAMP-DE-FUTBOL-MUNICIPAL-2-1-300x225.jpg",
+      "https://tiana.cat/wp-content/uploads/2022/11/JORDI-MARI-ALARGADA-scaled-1-300x173.jpeg",
+      "https://tiana.cat/wp-content/uploads/2022/11/PARC-ESPORTIU-CAN-PUIGCARBO-3-300x225.jpg",
+      "https://tiana.cat/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-22-at-13.40.00-300x225.jpeg"
+    ],
     "source": {
       "name": "Ajuntament de Tiana",
       "url": "https://tiana.cat/rutes/",
@@ -218,7 +228,11 @@
       "children": null,
       "stroller": null
     },
-    "images": [],
+    "images": [
+      "https://tiana.cat/wp-content/uploads/2022/11/NATURAULA-2-300x225.jpg",
+      "https://tiana.cat/wp-content/uploads/2022/11/PARC-DEL-TRAMVIA-1-300x225.jpg",
+      "https://tiana.cat/wp-content/uploads/2022/11/PIPI-CAN-TRAMVIA-3-300x225.jpg"
+    ],
     "source": {
       "name": "Ajuntament de Tiana",
       "url": "https://tiana.cat/rutes/",
@@ -290,7 +304,11 @@
       "children": null,
       "stroller": null
     },
-    "images": [],
+    "images": [
+      "https://tiana.cat/wp-content/uploads/2022/11/BOSQUET-CAN-TRAMUNTANA-2-300x225.jpg",
+      "https://tiana.cat/wp-content/uploads/2022/11/NATURAULA-2-300x225.jpg",
+      "https://tiana.cat/wp-content/uploads/2022/11/OBSERVATORI-300x225.jpg"
+    ],
     "source": {
       "name": "Ajuntament de Tiana",
       "url": "https://tiana.cat/rutes/",
@@ -361,7 +379,10 @@
       "children": null,
       "stroller": null
     },
-    "images": [],
+    "images": [
+      "https://tiana.cat/wp-content/uploads/2022/11/CEMENTIRI-2-300x225.jpg",
+      "https://tiana.cat/wp-content/uploads/2022/11/OBSERVATORI-300x225.jpg"
+    ],
     "source": {
       "name": "Ajuntament de Tiana",
       "url": "https://tiana.cat/rutes/",
@@ -427,7 +448,9 @@
       "children": null,
       "stroller": null
     },
-    "images": [],
+    "images": [
+      "https://tiana.cat/wp-content/uploads/2022/11/OBSERVATORI-300x225.jpg"
+    ],
     "source": {
       "name": "Ajuntament de Tiana",
       "url": "https://tiana.cat/rutes/",
@@ -494,7 +517,10 @@
       "children": null,
       "stroller": null
     },
-    "images": [],
+    "images": [
+      "https://tiana.cat/wp-content/uploads/2022/11/JARDI-LOLA-ANGLADA-1-300x225.jpg",
+      "https://tiana.cat/wp-content/uploads/2022/11/OBSERVATORI-300x225.jpg"
+    ],
     "source": {
       "name": "Ajuntament de Tiana",
       "url": "https://tiana.cat/rutes/",
@@ -566,7 +592,11 @@
       "children": null,
       "stroller": null
     },
-    "images": [],
+    "images": [
+      "https://tiana.cat/wp-content/uploads/2022/11/CEMENTIRI-2-300x225.jpg",
+      "https://tiana.cat/wp-content/uploads/2025/10/dol-perinatal-horitzontal-300x225.jpeg",
+      "https://tiana.cat/wp-content/uploads/2022/11/OBSERVATORI-300x225.jpg"
+    ],
     "source": {
       "name": "Ajuntament de Tiana",
       "url": "https://tiana.cat/rutes/",
@@ -644,7 +674,12 @@
       "children": true,
       "stroller": true
     },
-    "images": [],
+    "images": [
+      "https://tiana.cat/wp-content/uploads/2022/11/BIBLIOTECA-CAN-BARATAU-300x225.jpg",
+      "https://tiana.cat/wp-content/uploads/2023/02/IMG_2175-300x225.jpeg",
+      "https://tiana.cat/wp-content/uploads/2022/11/JARDI-LOLA-ANGLADA-1-300x225.jpg",
+      "https://tiana.cat/wp-content/uploads/2022/10/LLarGentGran-300x200.jpg"
+    ],
     "source": {
       "name": "Ajuntament de Tiana",
       "url": "https://tiana.cat/rutes/",
