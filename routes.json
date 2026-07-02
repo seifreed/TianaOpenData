@@ -45,7 +45,37 @@
       "sala-sant-jordi",
       "can-riera"
     ],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 0.4,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "Biblioteca Can Baratau",
+      "es": "Biblioteca Can Baratau",
+      "en": "Biblioteca Can Baratau"
+    },
+    "end_label": {
+      "ca": "Sala Sant Jordi",
+      "es": "Sala Sant Jordi",
+      "en": "Sala Sant Jordi"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": true,
+      "stroller": true
+    },
+    "images": [],
+    "source": {
+      "name": "Ajuntament de Tiana",
+      "url": "https://tiana.cat/rutes/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "ruta-saludable-esportiva",
@@ -88,7 +118,37 @@
       "duet-sports-jordi-mari",
       "parc-esportiu-de-can-puigcarbo"
     ],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 0.6,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "Camp de Futbol Municipal",
+      "es": "Camp de Futbol Municipal",
+      "en": "Camp de Futbol Municipal"
+    },
+    "end_label": {
+      "ca": "Piscina Municipal de Tiana",
+      "es": "Piscina Municipal de Tiana",
+      "en": "Piscina Municipal de Tiana"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": true,
+      "stroller": true
+    },
+    "images": [],
+    "source": {
+      "name": "Ajuntament de Tiana",
+      "url": "https://tiana.cat/rutes/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "ruta-vinya-i-vi",
@@ -134,7 +194,37 @@
       "parc-del-tramvia",
       "zona-esbarjo-per-gossos-parc-del-tramvia"
     ],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 1.24,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "Naturaula",
+      "es": "Naturaula",
+      "en": "Naturaula"
+    },
+    "end_label": {
+      "ca": "Zona esbarjo per gossos Parc del Tramvia",
+      "es": "Zona esbarjo per gossos Parc del Tramvia",
+      "en": "Zona esbarjo per gossos Parc del Tramvia"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": null,
+      "stroller": null
+    },
+    "images": [],
+    "source": {
+      "name": "Ajuntament de Tiana",
+      "url": "https://tiana.cat/rutes/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "ruta-rural-i-forestal",
@@ -176,7 +266,37 @@
       "naturaula",
       "observatori-astronomic-de-tiana"
     ],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 3.22,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "Bosquet de can Tramuntana",
+      "es": "Bosquet de can Tramuntana",
+      "en": "Bosquet de can Tramuntana"
+    },
+    "end_label": {
+      "ca": "Observatori Astrònomic de Tiana",
+      "es": "Observatori Astrònomic de Tiana",
+      "en": "Observatori Astrònomic de Tiana"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": null,
+      "stroller": null
+    },
+    "images": [],
+    "source": {
+      "name": "Ajuntament de Tiana",
+      "url": "https://tiana.cat/rutes/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "ruta-vall-montalegre",
@@ -217,7 +337,37 @@
       "observatori-astronomic-de-tiana",
       "cementiri"
     ],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 2.13,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "Cementiri",
+      "es": "Cementiri",
+      "en": "Cementiri"
+    },
+    "end_label": {
+      "ca": "Observatori Astrònomic de Tiana",
+      "es": "Observatori Astrònomic de Tiana",
+      "en": "Observatori Astrònomic de Tiana"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": null,
+      "stroller": null
+    },
+    "images": [],
+    "source": {
+      "name": "Ajuntament de Tiana",
+      "url": "https://tiana.cat/rutes/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "ruta-font-alba-conreria",
@@ -253,7 +403,37 @@
     "related_pois": [
       "observatori-astronomic-de-tiana"
     ],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 1.99,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "Observatori Astrònomic de Tiana",
+      "es": "Observatori Astrònomic de Tiana",
+      "en": "Observatori Astrònomic de Tiana"
+    },
+    "end_label": {
+      "ca": "Observatori Astrònomic de Tiana",
+      "es": "Observatori Astrònomic de Tiana",
+      "en": "Observatori Astrònomic de Tiana"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": null,
+      "stroller": null
+    },
+    "images": [],
+    "source": {
+      "name": "Ajuntament de Tiana",
+      "url": "https://tiana.cat/rutes/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "ruta-turo-galceran",
@@ -290,7 +470,37 @@
       "jardi-lola-anglada",
       "observatori-astronomic-de-tiana"
     ],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 3.05,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "Jardí Lola Anglada",
+      "es": "Jardí Lola Anglada",
+      "en": "Jardí Lola Anglada"
+    },
+    "end_label": {
+      "ca": "Observatori Astrònomic de Tiana",
+      "es": "Observatori Astrònomic de Tiana",
+      "en": "Observatori Astrònomic de Tiana"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": null,
+      "stroller": null
+    },
+    "images": [],
+    "source": {
+      "name": "Ajuntament de Tiana",
+      "url": "https://tiana.cat/rutes/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "ruta-el-rocar",
@@ -332,7 +542,37 @@
       "espai-de-dol-perinatal",
       "observatori-astronomic-de-tiana"
     ],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 0.74,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "Cementiri",
+      "es": "Cementiri",
+      "en": "Cementiri"
+    },
+    "end_label": {
+      "ca": "Observatori Astrònomic de Tiana",
+      "es": "Observatori Astrònomic de Tiana",
+      "en": "Observatori Astrònomic de Tiana"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": null,
+      "stroller": null
+    },
+    "images": [],
+    "source": {
+      "name": "Ajuntament de Tiana",
+      "url": "https://tiana.cat/rutes/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "ruta-inclusiva-centre",
@@ -380,7 +620,37 @@
       "serveis-socials",
       "llar-de-persones-grans"
     ],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 1.16,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "Biblioteca Can Baratau",
+      "es": "Biblioteca Can Baratau",
+      "en": "Biblioteca Can Baratau"
+    },
+    "end_label": {
+      "ca": "Serveis Socials",
+      "es": "Serveis Socials",
+      "en": "Serveis Socials"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": true,
+      "stroller": true
+    },
+    "images": [],
+    "source": {
+      "name": "Ajuntament de Tiana",
+      "url": "https://tiana.cat/rutes/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-route-gr-92-btt",
@@ -2402,7 +2672,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 2531.36,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.69197, 2.81961",
+      "es": "41.69197, 2.81961",
+      "en": "41.69197, 2.81961"
+    },
+    "end_label": {
+      "ca": "41.51794, 2.32301",
+      "es": "41.51794, 2.32301",
+      "en": "41.51794, 2.32301"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": null,
+      "stroller": null
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-route-de-la-font-d-alba-a-la-conreria",
@@ -2808,7 +3108,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 3.44,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.49410, 2.25731",
+      "es": "41.49410, 2.25731",
+      "en": "41.49410, 2.25731"
+    },
+    "end_label": {
+      "ca": "41.49124, 2.26024",
+      "es": "41.49124, 2.26024",
+      "en": "41.49124, 2.26024"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": true,
+      "stroller": true
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-route-sender-del-rocar-descobrint-l-entorn-de-tiana",
@@ -4830,7 +5160,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 30.81,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.47731, 2.27917",
+      "es": "41.47731, 2.27917",
+      "en": "41.47731, 2.27917"
+    },
+    "end_label": {
+      "ca": "41.48227, 2.27241",
+      "es": "41.48227, 2.27241",
+      "en": "41.48227, 2.27241"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": null,
+      "stroller": null
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-route-tiana-turo-d-en-galzeran",
@@ -6852,7 +7212,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 20.26,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.50166, 2.26825",
+      "es": "41.50166, 2.26825",
+      "en": "41.50166, 2.26825"
+    },
+    "end_label": {
+      "ca": "41.48779, 2.26593",
+      "es": "41.48779, 2.26593",
+      "en": "41.48779, 2.26593"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": null,
+      "stroller": null
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-route-circuit-inclusiu-tiana",
@@ -8874,7 +9264,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 25.31,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.48943, 2.28101",
+      "es": "41.48943, 2.28101",
+      "en": "41.48943, 2.28101"
+    },
+    "end_label": {
+      "ca": "41.48647, 2.27040",
+      "es": "41.48647, 2.27040",
+      "en": "41.48647, 2.27040"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": null,
+      "stroller": null
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-route-montgat-tordera",
@@ -10896,7 +11316,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 1419.48,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.51267, 2.29591",
+      "es": "41.51267, 2.29591",
+      "en": "41.51267, 2.29591"
+    },
+    "end_label": {
+      "ca": "41.62725, 2.52743",
+      "es": "41.62725, 2.52743",
+      "en": "41.62725, 2.52743"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": null,
+      "stroller": null
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-route-eix-central-del-maresme",
@@ -12918,7 +13368,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 2454.67,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.54611, 2.45418",
+      "es": "41.54611, 2.45418",
+      "en": "41.54611, 2.45418"
+    },
+    "end_label": {
+      "ca": "41.51622, 2.35653",
+      "es": "41.51622, 2.35653",
+      "en": "41.51622, 2.35653"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": null,
+      "stroller": null
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-route-catalunya-e17",
@@ -14940,7 +15420,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 171.67,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.48224, 2.18899",
+      "es": "41.48224, 2.18899",
+      "en": "41.48224, 2.18899"
+    },
+    "end_label": {
+      "ca": "41.48728, 2.24812",
+      "es": "41.48728, 2.24812",
+      "en": "41.48728, 2.24812"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": null,
+      "stroller": null
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-bus-route-2057890-m30-sta-coloma-de-g-can-franquesa-montgat-la-virreina-tiana",
@@ -15490,7 +16000,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 16.59,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.46471, 2.20225",
+      "es": "41.46471, 2.20225",
+      "en": "41.46471, 2.20225"
+    },
+    "end_label": {
+      "ca": "41.47714, 2.27899",
+      "es": "41.47714, 2.27899",
+      "en": "41.47714, 2.27899"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": true,
+      "stroller": true
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-bus-route-2065950-b29-badalona-montigala-tiana-poliesportiu-municipal",
@@ -15808,7 +16348,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 10.02,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.45402, 2.22664",
+      "es": "41.45402, 2.22664",
+      "en": "41.45402, 2.22664"
+    },
+    "end_label": {
+      "ca": "41.49081, 2.26151",
+      "es": "41.49081, 2.26151",
+      "en": "41.49081, 2.26151"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": true,
+      "stroller": true
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-bus-route-7815609-m30-montgat-la-virreina-tiana-sta-coloma-de-g-can-franquesa",
@@ -16286,7 +16856,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 14.97,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.47719, 2.27895",
+      "es": "41.47719, 2.27895",
+      "en": "41.47719, 2.27895"
+    },
+    "end_label": {
+      "ca": "41.46475, 2.20225",
+      "es": "41.46475, 2.20225",
+      "en": "41.46475, 2.20225"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": true,
+      "stroller": true
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-bus-route-13580704-b32-montgat-estacio-montgat-tiana-can-gaieta",
@@ -16516,7 +17116,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 6.74,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.46981, 2.26611",
+      "es": "41.46981, 2.26611",
+      "en": "41.46981, 2.26611"
+    },
+    "end_label": {
+      "ca": "41.48452, 2.27243",
+      "es": "41.48452, 2.27243",
+      "en": "41.48452, 2.27243"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": true,
+      "stroller": true
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-bus-route-7642731-n9-barcelona-pl-catalunya-tiana-can-gaieta",
@@ -17178,7 +17808,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 496.68,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.38828, 2.16729",
+      "es": "41.38828, 2.16729",
+      "en": "41.38828, 2.16729"
+    },
+    "end_label": {
+      "ca": "41.42042, 2.19126",
+      "es": "41.42042, 2.19126",
+      "en": "41.42042, 2.19126"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": true,
+      "stroller": true
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-bus-route-7656613-n9-tiana-can-gaieta-barcelona-pl-catalunya",
@@ -17840,7 +18500,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 507.01,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.40012, 2.17092",
+      "es": "41.40012, 2.17092",
+      "en": "41.40012, 2.17092"
+    },
+    "end_label": {
+      "ca": "41.41718, 2.19141",
+      "es": "41.41718, 2.19141",
+      "en": "41.41718, 2.19141"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": true,
+      "stroller": true
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-bus-route-9371310-b29-tiana-poliesportiu-municipal-badalona-montigala",
@@ -18502,7 +19192,37 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 215.97,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.45351, 2.24998",
+      "es": "41.45351, 2.24998",
+      "en": "41.45351, 2.24998"
+    },
+    "end_label": {
+      "ca": "41.45328, 2.24959",
+      "es": "41.45328, 2.24959",
+      "en": "41.45328, 2.24959"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": true,
+      "stroller": true
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   },
   {
     "id": "osm-bus-route-derived-b32-tiana-can-gaieta-montgat-estacio-montgat",
@@ -18732,6 +19452,36 @@
       ]
     },
     "related_pois": [],
-    "last_updated": "2026-06-30T00:00:00.000Z"
+    "last_updated": "2026-06-30T00:00:00.000Z",
+    "distance_km": 6.74,
+    "elevation_gain_m": null,
+    "start_label": {
+      "ca": "41.48452, 2.27243",
+      "es": "41.48452, 2.27243",
+      "en": "41.48452, 2.27243"
+    },
+    "end_label": {
+      "ca": "41.46981, 2.26611",
+      "es": "41.46981, 2.26611",
+      "en": "41.46981, 2.26611"
+    },
+    "recommendations": [
+      {
+        "ca": "Consulta l'estat del temps i porta aigua.",
+        "es": "Consulta el tiempo y lleva agua.",
+        "en": "Check the weather and carry water."
+      }
+    ],
+    "suitability": {
+      "children": true,
+      "stroller": true
+    },
+    "images": [],
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/",
+      "updated_at": "2026-06-30T00:00:00.000Z"
+    },
+    "report_url": "https://tiana.cat/bustia/"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-30",
+  "version": "2026-07-02",
   "generated_by": "official-sources-generator",
   "language_support": [
     "ca",
@@ -17,5 +17,43 @@
   ],
   "places_count": 258,
   "routes_count": 25,
-  "note": "Equipaments extrets del directori municipal. Algunes rutes i coordenades sense traçat publicat són aproximades. POIs nombrados adicionales importados desde OpenStreetMap y deduplicados por nombre/proximidad. Rutes senderistes/BTT addicionals importades des de relacions OpenStreetMap; línies de bus/carreteres no importades perquè el schema actual és de rutes caminables. Parades i línies de bus vinculades a Tiana importades des d'OpenStreetMap."
+  "note": "Equipaments extrets del directori municipal. Algunes rutes i coordenades sense traçat publicat són aproximades. POIs nombrados adicionales importados desde OpenStreetMap y deduplicados por nombre/proximidad. Rutes senderistes/BTT addicionals importades des de relacions OpenStreetMap; línies de bus/carreteres no importades perquè el schema actual és de rutes caminables. Parades i línies de bus vinculades a Tiana importades des d'OpenStreetMap.",
+  "last_checked_at": "2026-07-02T00:00:00.000Z",
+  "report_url": "https://tiana.cat/bustia/",
+  "alerts": [
+    {
+      "id": "campanya-incendis-2026",
+      "type": "notice",
+      "title": {
+        "ca": "Campanya contra incendis 2026",
+        "es": "Campaña contra incendios 2026",
+        "en": "2026 wildfire prevention campaign"
+      },
+      "description": {
+        "ca": "Mesures i recomanacions municipals preventives.",
+        "es": "Medidas y recomendaciones municipales preventivas.",
+        "en": "Municipal prevention measures and recommendations."
+      },
+      "starts_at": null,
+      "ends_at": null,
+      "source_url": "https://tiana.cat/"
+    },
+    {
+      "id": "afectacio-mobilitat",
+      "type": "roadwork",
+      "title": {
+        "ca": "Afectació de mobilitat",
+        "es": "Afectación de movilidad",
+        "en": "Mobility disruption"
+      },
+      "description": {
+        "ca": "Talls de trànsit, restriccions d'aparcament i accessos alternatius publicats pel municipi.",
+        "es": "Cortes de tráfico, restricciones de aparcamiento y accesos alternativos publicados por el municipio.",
+        "en": "Traffic closures, parking restrictions and alternative access published by the municipality."
+      },
+      "starts_at": null,
+      "ends_at": null,
+      "source_url": "https://tiana.cat/"
+    }
+  ]
 }
