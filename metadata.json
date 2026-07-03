@@ -26,13 +26,13 @@
       "type": "roadwork",
       "title": {
         "ca": "Zones verdes per a residents",
-        "es": "Zones verdes per a residents",
-        "en": "Zones verdes per a residents"
+        "es": "Zonas verdes para residentes",
+        "en": "Green areas for residents"
       },
       "description": {
         "ca": "Nova app d'aparcament gratuït per zones.",
-        "es": "Nova app d'aparcament gratuït per zones.",
-        "en": "Nova app d'aparcament gratuït per zones."
+        "es": "Nueva app de aparcamiento gratuito por zonas.",
+        "en": "New app for free zoned parking."
       },
       "starts_at": null,
       "ends_at": null,
@@ -43,13 +43,13 @@
       "type": "incident",
       "title": {
         "ca": "Campanya contra incendis 2026",
-        "es": "Campanya contra incendis 2026",
-        "en": "Campanya contra incendis 2026"
+        "es": "Campaña contra incendios 2026",
+        "en": "2026 wildfire prevention campaign"
       },
       "description": {
         "ca": "Accions preventives, mesures i recomanacions.",
-        "es": "Accions preventives, mesures i recomanacions.",
-        "en": "Accions preventives, mesures i recomanacions."
+        "es": "Acciones preventivas, medidas y recomendaciones.",
+        "en": "Preventive actions, measures and recommendations."
       },
       "starts_at": null,
       "ends_at": null,
@@ -60,13 +60,13 @@
       "type": "roadwork",
       "title": {
         "ca": "Afectació mobilitat",
-        "es": "Afectació mobilitat",
-        "en": "Afectació mobilitat"
+        "es": "Afectación de la movilidad",
+        "en": "Mobility disruption"
       },
       "description": {
         "ca": "Talls de trànsit, restriccions d'aparcament i accesos alternatius.",
-        "es": "Talls de trànsit, restriccions d'aparcament i accesos alternatius.",
-        "en": "Talls de trànsit, restriccions d'aparcament i accesos alternatius."
+        "es": "Cortes de tráfico, restricciones de aparcamiento y accesos alternativos.",
+        "en": "Traffic closures, parking restrictions and alternative access routes."
       },
       "starts_at": null,
       "ends_at": null,
@@ -77,13 +77,13 @@
       "type": "event",
       "title": {
         "ca": "Estiu Jove",
-        "es": "Estiu Jove",
-        "en": "Estiu Jove"
+        "es": "Verano Joven",
+        "en": "Youth Summer"
       },
       "description": {
         "ca": "Tallers i activitats per a joves dels 12 als 18 anys. Incripcions, aquí.",
-        "es": "Tallers i activitats per a joves dels 12 als 18 anys. Incripcions, aquí.",
-        "en": "Tallers i activitats per a joves dels 12 als 18 anys. Incripcions, aquí."
+        "es": "Talleres y actividades para jóvenes de 12 a 18 años. Inscripciones, aquí.",
+        "en": "Workshops and activities for young people aged 12 to 18. Registration, here."
       },
       "starts_at": null,
       "ends_at": null,
@@ -94,13 +94,13 @@
       "type": "incident",
       "title": {
         "ca": "Incendi zona poliesportiva",
-        "es": "Incendi zona poliesportiva",
-        "en": "Incendi zona poliesportiva"
+        "es": "Incendio zona polideportiva",
+        "en": "Fire at the sports complex area"
       },
       "description": {
         "ca": "Informació i com rebre les alertes",
-        "es": "Informació i com rebre les alertes",
-        "en": "Informació i com rebre les alertes"
+        "es": "Información y cómo recibir las alertas",
+        "en": "Information and how to receive alerts"
       },
       "starts_at": null,
       "ends_at": null,
@@ -112,12 +112,12 @@
       "title": {
         "ca": "Piscina municipal",
         "es": "Piscina municipal",
-        "en": "Piscina municipal"
+        "en": "Municipal swimming pool"
       },
       "description": {
         "ca": "Abonaments estiu 2026 a partir del 28 de maig, aquí.",
-        "es": "Abonaments estiu 2026 a partir del 28 de maig, aquí.",
-        "en": "Abonaments estiu 2026 a partir del 28 de maig, aquí."
+        "es": "Abonos verano 2026 a partir del 28 de mayo, aquí.",
+        "en": "Summer 2026 season passes available from 28 May, here."
       },
       "starts_at": null,
       "ends_at": null,

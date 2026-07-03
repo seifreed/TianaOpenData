@@ -4,12 +4,12 @@
     "name": {
       "ca": "Ruta cultural pel centre",
       "es": "Ruta cultural por el centro",
-      "en": "Cultural route through the centre"
+      "en": "Cultural route through the town centre"
     },
     "description": {
       "ca": "Itinerari cultural per Can Baratau, el Jardí Lola Anglada, les sales culturals i l’entorn del centre. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Itinerari cultural per Can Baratau, el Jardí Lola Anglada, les sales culturals i l’entorn del centre. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Itinerari cultural per Can Baratau, el Jardí Lola Anglada, les sales culturals i l’entorn del centre. Source: Ajuntament de Tiana. Approximate track based on published points."
+      "es": "Itinerario cultural por Can Baratau, el Jardín Lola Anglada, las salas culturales y el entorno del centro. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Cultural route through Can Baratau, the Lola Anglada Garden, the cultural halls and the town centre surroundings. Source: Tiana Town Council. Approximate route based on published waypoints."
     },
     "difficulty": "easy",
     "estimated_time_min": 60,
@@ -51,18 +51,18 @@
     "start_label": {
       "ca": "Biblioteca Can Baratau",
       "es": "Biblioteca Can Baratau",
-      "en": "Biblioteca Can Baratau"
+      "en": "Can Baratau Library"
     },
     "end_label": {
       "ca": "Sala Sant Jordi",
       "es": "Sala Sant Jordi",
-      "en": "Sala Sant Jordi"
+      "en": "Sant Jordi Hall"
     },
     "recommendations": [
       {
         "ca": "Consulta l'estat del temps i porta aigua.",
-        "es": "Consulta el tiempo y lleva agua.",
-        "en": "Check the weather and carry water."
+        "es": "Consulta el estado del tiempo y lleva agua.",
+        "en": "Check the weather and bring water."
       }
     ],
     "suitability": {
@@ -91,8 +91,8 @@
     },
     "description": {
       "ca": "Ruta saludable vinculada als equipaments esportius municipals. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Ruta saludable vinculada als equipaments esportius municipals. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Ruta saludable vinculada als equipaments esportius municipals. Source: Ajuntament de Tiana. Approximate track based on published points."
+      "es": "Ruta saludable ligada a los equipamientos deportivos municipales. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Healthy route linked to the municipal sports facilities. Source: Tiana Town Council. Approximate route based on published waypoints."
     },
     "difficulty": "easy",
     "estimated_time_min": 50,
@@ -128,19 +128,19 @@
     "elevation_gain_m": null,
     "start_label": {
       "ca": "Camp de Futbol Municipal",
-      "es": "Camp de Futbol Municipal",
-      "en": "Camp de Futbol Municipal"
+      "es": "Campo de Fútbol Municipal",
+      "en": "Municipal Football Ground"
     },
     "end_label": {
       "ca": "Piscina Municipal de Tiana",
       "es": "Piscina Municipal de Tiana",
-      "en": "Piscina Municipal de Tiana"
+      "en": "Tiana Municipal Swimming Pool"
     },
     "recommendations": [
       {
         "ca": "Consulta l'estat del temps i porta aigua.",
-        "es": "Consulta el tiempo y lleva agua.",
-        "en": "Check the weather and carry water."
+        "es": "Consulta el estado del tiempo y lleva agua.",
+        "en": "Check the weather and bring water."
       }
     ],
     "suitability": {
@@ -169,8 +169,8 @@
     },
     "description": {
       "ca": "Ruta saludable per l’entorn rural i el paisatge agrícola de Tiana. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Ruta saludable per l’entorn rural i el paisatge agrícola de Tiana. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Ruta saludable per l’entorn rural i el paisatge agrícola de Tiana. Source: Ajuntament de Tiana. Approximate track based on published points."
+      "es": "Ruta saludable por el entorno rural y el paisaje agrícola de Tiana. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Healthy route through Tiana’s rural surroundings and farmland landscape. Source: Tiana Town Council. Approximate route based on published waypoints."
     },
     "difficulty": "medium",
     "estimated_time_min": 75,
@@ -214,14 +214,14 @@
     },
     "end_label": {
       "ca": "Zona esbarjo per gossos Parc del Tramvia",
-      "es": "Zona esbarjo per gossos Parc del Tramvia",
-      "en": "Zona esbarjo per gossos Parc del Tramvia"
+      "es": "Zona de esparcimiento para perros Parc del Tramvia",
+      "en": "Dog recreation area at Parc del Tramvia"
     },
     "recommendations": [
       {
         "ca": "Consulta l'estat del temps i porta aigua.",
-        "es": "Consulta el tiempo y lleva agua.",
-        "en": "Check the weather and carry water."
+        "es": "Consulta el estado del tiempo y lleva agua.",
+        "en": "Check the weather and bring water."
       }
     ],
     "suitability": {
@@ -245,12 +245,12 @@
     "name": {
       "ca": "Ruta rural i forestal",
       "es": "Ruta rural y forestal",
-      "en": "Rural and forest route"
+      "en": "Rural and woodland route"
     },
     "description": {
       "ca": "Ruta saludable pels espais naturals i forestals del municipi. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Ruta saludable pels espais naturals i forestals del municipi. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Ruta saludable pels espais naturals i forestals del municipi. Source: Ajuntament de Tiana. Approximate track based on published points."
+      "es": "Ruta saludable por los espacios naturales y forestales del municipio. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Healthy route through the town’s natural and woodland areas. Source: Tiana Town Council. Approximate route based on published waypoints."
     },
     "difficulty": "medium",
     "estimated_time_min": 90,
@@ -285,19 +285,19 @@
     "elevation_gain_m": null,
     "start_label": {
       "ca": "Bosquet de can Tramuntana",
-      "es": "Bosquet de can Tramuntana",
-      "en": "Bosquet de can Tramuntana"
+      "es": "Bosquecillo de Can Tramuntana",
+      "en": "Can Tramuntana grove"
     },
     "end_label": {
       "ca": "Observatori Astrònomic de Tiana",
-      "es": "Observatori Astrònomic de Tiana",
-      "en": "Observatori Astrònomic de Tiana"
+      "es": "Observatorio Astronómico de Tiana",
+      "en": "Tiana Astronomical Observatory"
     },
     "recommendations": [
       {
         "ca": "Consulta l'estat del temps i porta aigua.",
-        "es": "Consulta el tiempo y lleva agua.",
-        "en": "Check the weather and carry water."
+        "es": "Consulta el estado del tiempo y lleva agua.",
+        "en": "Check the weather and bring water."
       }
     ],
     "suitability": {
@@ -321,12 +321,12 @@
     "name": {
       "ca": "La vall de Montalegre",
       "es": "El valle de Montalegre",
-      "en": "Montalegre valley"
+      "en": "The Montalegre valley"
     },
     "description": {
       "ca": "Ruta de la Serralada de Marina per l’entorn de Montalegre. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Ruta de la Serralada de Marina per l’entorn de Montalegre. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Ruta de la Serralada de Marina per l’entorn de Montalegre. Source: Ajuntament de Tiana. Approximate track based on published points."
+      "es": "Ruta de la sierra de Marina por el entorno de Montalegre. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Route through the Serralada de Marina hills across the Montalegre surroundings. Source: Tiana Town Council. Approximate route based on published waypoints."
     },
     "difficulty": "medium",
     "estimated_time_min": 120,
@@ -360,19 +360,19 @@
     "elevation_gain_m": null,
     "start_label": {
       "ca": "Cementiri",
-      "es": "Cementiri",
-      "en": "Cementiri"
+      "es": "Cementerio",
+      "en": "Cemetery"
     },
     "end_label": {
       "ca": "Observatori Astrònomic de Tiana",
-      "es": "Observatori Astrònomic de Tiana",
-      "en": "Observatori Astrònomic de Tiana"
+      "es": "Observatorio Astronómico de Tiana",
+      "en": "Tiana Astronomical Observatory"
     },
     "recommendations": [
       {
         "ca": "Consulta l'estat del temps i porta aigua.",
-        "es": "Consulta el tiempo y lleva agua.",
-        "en": "Check the weather and carry water."
+        "es": "Consulta el estado del tiempo y lleva agua.",
+        "en": "Check the weather and bring water."
       }
     ],
     "suitability": {
@@ -395,12 +395,12 @@
     "name": {
       "ca": "De la font de l’Alba a la Conreria",
       "es": "De la fuente del Alba a la Conreria",
-      "en": "From Font de l’Alba to La Conreria"
+      "en": "From the Alba spring to La Conreria"
     },
     "description": {
       "ca": "Ruta de la Serralada de Marina entre la font de l’Alba i la Conreria. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Ruta de la Serralada de Marina entre la font de l’Alba i la Conreria. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Ruta de la Serralada de Marina entre la font de l’Alba i la Conreria. Source: Ajuntament de Tiana. Approximate track based on published points."
+      "es": "Ruta de la sierra de Marina entre la fuente del Alba y la Conreria. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Route through the Serralada de Marina hills between the Alba spring and La Conreria. Source: Tiana Town Council. Approximate route based on published waypoints."
     },
     "difficulty": "medium",
     "estimated_time_min": 100,
@@ -429,19 +429,19 @@
     "elevation_gain_m": null,
     "start_label": {
       "ca": "Observatori Astrònomic de Tiana",
-      "es": "Observatori Astrònomic de Tiana",
-      "en": "Observatori Astrònomic de Tiana"
+      "es": "Observatorio Astronómico de Tiana",
+      "en": "Tiana Astronomical Observatory"
     },
     "end_label": {
       "ca": "Observatori Astrònomic de Tiana",
-      "es": "Observatori Astrònomic de Tiana",
-      "en": "Observatori Astrònomic de Tiana"
+      "es": "Observatorio Astronómico de Tiana",
+      "en": "Tiana Astronomical Observatory"
     },
     "recommendations": [
       {
         "ca": "Consulta l'estat del temps i porta aigua.",
-        "es": "Consulta el tiempo y lleva agua.",
-        "en": "Check the weather and carry water."
+        "es": "Consulta el estado del tiempo y lleva agua.",
+        "en": "Check the weather and bring water."
       }
     ],
     "suitability": {
@@ -462,13 +462,13 @@
     "id": "ruta-turo-galceran",
     "name": {
       "ca": "De Tiana al turó d’en Galceran",
-      "es": "De Tiana al turó d’en Galceran",
-      "en": "From Tiana to Turó d’en Galceran"
+      "es": "De Tiana al cerro de Galceran",
+      "en": "From Tiana to Turó d’en Galceran hill"
     },
     "description": {
       "ca": "Ruta de la Serralada de Marina cap al turó d’en Galceran. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Ruta de la Serralada de Marina cap al turó d’en Galceran. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Ruta de la Serralada de Marina cap al turó d’en Galceran. Source: Ajuntament de Tiana. Approximate track based on published points."
+      "es": "Ruta de la sierra de Marina hacia el cerro de Galceran. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Route through the Serralada de Marina hills towards Turó d’en Galceran hill. Source: Tiana Town Council. Approximate route based on published waypoints."
     },
     "difficulty": "hard",
     "estimated_time_min": 130,
@@ -498,19 +498,19 @@
     "elevation_gain_m": null,
     "start_label": {
       "ca": "Jardí Lola Anglada",
-      "es": "Jardí Lola Anglada",
-      "en": "Jardí Lola Anglada"
+      "es": "Jardín Lola Anglada",
+      "en": "Lola Anglada Garden"
     },
     "end_label": {
       "ca": "Observatori Astrònomic de Tiana",
-      "es": "Observatori Astrònomic de Tiana",
-      "en": "Observatori Astrònomic de Tiana"
+      "es": "Observatorio Astronómico de Tiana",
+      "en": "Tiana Astronomical Observatory"
     },
     "recommendations": [
       {
         "ca": "Consulta l'estat del temps i porta aigua.",
-        "es": "Consulta el tiempo y lleva agua.",
-        "en": "Check the weather and carry water."
+        "es": "Consulta el estado del tiempo y lleva agua.",
+        "en": "Check the weather and bring water."
       }
     ],
     "suitability": {
@@ -537,8 +537,8 @@
     },
     "description": {
       "ca": "Itinerari de la Serralada de Marina per l’àmbit del Rocar. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Itinerari de la Serralada de Marina per l’àmbit del Rocar. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Itinerari de la Serralada de Marina per l’àmbit del Rocar. Source: Ajuntament de Tiana. Approximate track based on published points."
+      "es": "Itinerario de la sierra de Marina por el ámbito del Rocar. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Route through the Serralada de Marina hills across the Rocar area. Source: Tiana Town Council. Approximate route based on published waypoints."
     },
     "difficulty": "medium",
     "estimated_time_min": 80,
@@ -573,19 +573,19 @@
     "elevation_gain_m": null,
     "start_label": {
       "ca": "Cementiri",
-      "es": "Cementiri",
-      "en": "Cementiri"
+      "es": "Cementerio",
+      "en": "Cemetery"
     },
     "end_label": {
       "ca": "Observatori Astrònomic de Tiana",
-      "es": "Observatori Astrònomic de Tiana",
-      "en": "Observatori Astrònomic de Tiana"
+      "es": "Observatorio Astronómico de Tiana",
+      "en": "Tiana Astronomical Observatory"
     },
     "recommendations": [
       {
         "ca": "Consulta l'estat del temps i porta aigua.",
-        "es": "Consulta el tiempo y lleva agua.",
-        "en": "Check the weather and carry water."
+        "es": "Consulta el estado del tiempo y lleva agua.",
+        "en": "Check the weather and bring water."
       }
     ],
     "suitability": {
@@ -609,12 +609,12 @@
     "name": {
       "ca": "Itinerari inclusiu pel centre",
       "es": "Itinerario inclusivo por el centro",
-      "en": "Inclusive town-centre route"
+      "en": "Inclusive route through the town centre"
     },
     "description": {
       "ca": "Itinerari inclusiu curt pels serveis i espais centrals del municipi. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Itinerari inclusiu curt pels serveis i espais centrals del municipi. Fuente: Ajuntament de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Itinerari inclusiu curt pels serveis i espais centrals del municipi. Source: Ajuntament de Tiana. Approximate track based on published points."
+      "es": "Itinerario inclusivo corto por los servicios y espacios centrales del municipio. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
+      "en": "Short inclusive route through the town’s central services and spaces. Source: Tiana Town Council. Approximate route based on published waypoints."
     },
     "difficulty": "easy",
     "estimated_time_min": 35,
@@ -656,18 +656,18 @@
     "start_label": {
       "ca": "Biblioteca Can Baratau",
       "es": "Biblioteca Can Baratau",
-      "en": "Biblioteca Can Baratau"
+      "en": "Can Baratau Library"
     },
     "end_label": {
       "ca": "Serveis Socials",
-      "es": "Serveis Socials",
-      "en": "Serveis Socials"
+      "es": "Servicios Sociales",
+      "en": "Social Services"
     },
     "recommendations": [
       {
         "ca": "Consulta l'estat del temps i porta aigua.",
-        "es": "Consulta el tiempo y lleva agua.",
-        "en": "Check the weather and carry water."
+        "es": "Consulta el estado del tiempo y lleva agua.",
+        "en": "Check the weather and bring water."
       }
     ],
     "suitability": {
@@ -691,13 +691,13 @@
     "id": "osm-route-de-la-font-d-alba-a-la-conreria",
     "name": {
       "ca": "De la font d'Alba a la Conreria (SL-C 146)",
-      "es": "De la font d'Alba a la Conreria (SL-C 146)",
-      "en": "De la font d'Alba a la Conreria (SL-C 146)"
+      "es": "De la fuente de Alba a la Conreria (SL-C 146)",
+      "en": "From the Alba spring to La Conreria (SL-C 146)"
     },
     "description": {
       "ca": "De la font d'Alba a la Conreria (SL-C 146). Itinerari per descobrir Tiana i l'entorn de la Serralada de Marina, amb una longitud aproximada de 3.4 km.",
-      "es": "De la font d'Alba a la Conreria (SL-C 146). Itinerario para descubrir Tiana y el entorno de la Serralada de Marina, con una longitud aproximada de 3.4 km.",
-      "en": "De la font d'Alba a la Conreria (SL-C 146). Route for exploring Tiana and the Serralada de Marina surroundings, approximately 3.4 km long."
+      "es": "De la fuente de Alba a la Conreria (SL-C 146). Itinerario para descubrir Tiana y el entorno de la sierra de Marina, con una longitud aproximada de 3.4 km.",
+      "en": "From the Alba spring to La Conreria (SL-C 146). A route to discover Tiana and the surroundings of the Serralada de Marina hills, approximately 3.4 km long."
     },
     "difficulty": "easy",
     "estimated_time_min": 52,
@@ -1107,8 +1107,8 @@
     "recommendations": [
       {
         "ca": "Consulta l'estat del temps i porta aigua.",
-        "es": "Consulta el tiempo y lleva agua.",
-        "en": "Check the weather and carry water."
+        "es": "Consulta el estado del tiempo y lleva agua.",
+        "en": "Check the weather and bring water."
       }
     ],
     "suitability": {
@@ -1127,13 +1127,13 @@
     "id": "osm-route-sender-del-rocar-descobrint-l-entorn-de-tiana",
     "name": {
       "ca": "Sender del Rocar, descobrint l'entorn de Tiana (SL-C 96)",
-      "es": "Sender del Rocar, descobrint l'entorn de Tiana (SL-C 96)",
-      "en": "Sender del Rocar, descobrint l'entorn de Tiana (SL-C 96)"
+      "es": "Sendero del Rocar, descubriendo el entorno de Tiana (SL-C 96)",
+      "en": "Rocar trail, discovering the surroundings of Tiana (SL-C 96)"
     },
     "description": {
       "ca": "Sender del Rocar, descobrint l'entorn de Tiana (SL-C 96). Itinerari per descobrir Tiana i l'entorn de la Serralada de Marina, amb una longitud aproximada de 30.8 km.",
-      "es": "Sender del Rocar, descobrint l'entorn de Tiana (SL-C 96). Itinerario para descubrir Tiana y el entorno de la Serralada de Marina, con una longitud aproximada de 30.8 km.",
-      "en": "Sender del Rocar, descobrint l'entorn de Tiana (SL-C 96). Route for exploring Tiana and the Serralada de Marina surroundings, approximately 30.8 km long."
+      "es": "Sendero del Rocar, descubriendo el entorno de Tiana (SL-C 96). Itinerario para descubrir Tiana y el entorno de la sierra de Marina, con una longitud aproximada de 30.8 km.",
+      "en": "Rocar trail, discovering the surroundings of Tiana (SL-C 96). A route to discover Tiana and the surroundings of the Serralada de Marina hills, approximately 30.8 km long."
     },
     "difficulty": "hard",
     "estimated_time_min": 462,
@@ -3159,8 +3159,8 @@
     "recommendations": [
       {
         "ca": "Consulta l'estat del temps i porta aigua.",
-        "es": "Consulta el tiempo y lleva agua.",
-        "en": "Check the weather and carry water."
+        "es": "Consulta el estado del tiempo y lleva agua.",
+        "en": "Check the weather and bring water."
       }
     ],
     "suitability": {
@@ -3184,8 +3184,8 @@
     },
     "description": {
       "ca": "Tiana-Turó d'en Galzeran (SL-C 95). Itinerari per descobrir Tiana i l'entorn de la Serralada de Marina, amb una longitud aproximada de 20.3 km.",
-      "es": "Tiana-Turó d'en Galzeran (SL-C 95). Itinerario para descubrir Tiana y el entorno de la Serralada de Marina, con una longitud aproximada de 20.3 km.",
-      "en": "Tiana-Turó d'en Galzeran (SL-C 95). Route for exploring Tiana and the Serralada de Marina surroundings, approximately 20.3 km long."
+      "es": "Tiana-Turó d'en Galzeran (SL-C 95). Itinerario para descubrir Tiana y el entorno de la sierra de Marina, con una longitud aproximada de 20.3 km.",
+      "en": "Tiana-Turó d'en Galzeran (SL-C 95). A route to discover Tiana and the surroundings of the Serralada de Marina hills, approximately 20.3 km long."
     },
     "difficulty": "hard",
     "estimated_time_min": 304,
@@ -5211,8 +5211,8 @@
     "recommendations": [
       {
         "ca": "Consulta l'estat del temps i porta aigua.",
-        "es": "Consulta el tiempo y lleva agua.",
-        "en": "Check the weather and carry water."
+        "es": "Consulta el estado del tiempo y lleva agua.",
+        "en": "Check the weather and bring water."
       }
     ],
     "suitability": {
@@ -5231,13 +5231,13 @@
     "id": "osm-route-circuit-inclusiu-tiana",
     "name": {
       "ca": "Circuit inclusiu Tiana (41)",
-      "es": "Circuit inclusiu Tiana (41)",
-      "en": "Circuit inclusiu Tiana (41)"
+      "es": "Circuito inclusivo Tiana (41)",
+      "en": "Tiana inclusive circuit (41)"
     },
     "description": {
       "ca": "Circuit inclusiu Tiana (41). Itinerari per descobrir Tiana i l'entorn de la Serralada de Marina, amb una longitud aproximada de 25.4 km.",
-      "es": "Circuit inclusiu Tiana (41). Itinerario para descubrir Tiana y el entorno de la Serralada de Marina, con una longitud aproximada de 25.4 km.",
-      "en": "Circuit inclusiu Tiana (41). Route for exploring Tiana and the Serralada de Marina surroundings, approximately 25.4 km long."
+      "es": "Circuito inclusivo Tiana (41). Itinerario para descubrir Tiana y el entorno de la sierra de Marina, con una longitud aproximada de 25.4 km.",
+      "en": "Tiana inclusive circuit (41). A route to discover Tiana and the surroundings of the Serralada de Marina hills, approximately 25.4 km long."
     },
     "difficulty": "hard",
     "estimated_time_min": 381,
@@ -7263,8 +7263,8 @@
     "recommendations": [
       {
         "ca": "Consulta l'estat del temps i porta aigua.",
-        "es": "Consulta el tiempo y lleva agua.",
-        "en": "Check the weather and carry water."
+        "es": "Consulta el estado del tiempo y lleva agua.",
+        "en": "Check the weather and bring water."
       }
     ],
     "suitability": {
