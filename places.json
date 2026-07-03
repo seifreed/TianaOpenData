@@ -12,8 +12,8 @@
     "properties": {
       "name": {
         "ca": "Aparcament públic carrer Verge del PIlar",
-        "es": "Aparcament públic carrer Verge del PIlar",
-        "en": "Aparcament públic carrer Verge del PIlar"
+        "es": "Aparcamiento público calle Verge del Pilar",
+        "en": "Verge del Pilar Street public car park"
       },
       "description": {
         "ca": "Aprcament al costat de la Plaça de la Vila Adreça: c/ Verge del Pilar. Font: Ajuntament de Tiana.",
@@ -87,8 +87,8 @@
     "properties": {
       "name": {
         "ca": "Aparcament públic Catequística",
-        "es": "Aparcament públic Catequística",
-        "en": "Aparcament públic Catequística"
+        "es": "Aparcamiento público Catequística",
+        "en": "Catequística public car park"
       },
       "description": {
         "ca": "Aparcament casa de la Palmera Adreça: Carrer Edith Llaurador, 7, 08391 Tiana, Barcelona. Font: Ajuntament de Tiana.",
@@ -168,8 +168,8 @@
     "properties": {
       "name": {
         "ca": "Aparcament públic de l’Església",
-        "es": "Aparcament públic de l’Església",
-        "en": "Aparcament públic de l’Església"
+        "es": "Aparcamiento público de la Iglesia",
+        "en": "Church public car park"
       },
       "description": {
         "ca": "Aparcament de l’Església Adreça: C/ sant Cebrià, 24. Font: Ajuntament de Tiana.",
@@ -659,8 +659,8 @@
     "properties": {
       "name": {
         "ca": "Centre de salut",
-        "es": "Centre de salut",
-        "en": "Centre de salut"
+        "es": "Centro de salud",
+        "en": "Health Centre"
       },
       "description": {
         "ca": "Consultori d’atenció primària de Tiana Adreça: C/Franci 9. Telèfon: 934603900. Font: Ajuntament de Tiana.",
@@ -735,8 +735,8 @@
     "properties": {
       "name": {
         "ca": "Deixalleria Municipal de Tiana i Montgat",
-        "es": "Deixalleria Municipal de Tiana i Montgat",
-        "en": "Deixalleria Municipal de Tiana i Montgat"
+        "es": "Punto limpio Municipal de Tiana y Montgat",
+        "en": "Tiana and Montgat Municipal Recycling Centre"
       },
       "description": {
         "ca": "La Deixalleria és el centre de recepció i emmagatzematge selectiu de residus municipals que no són objecte de recollida domiciliària. Adreça: Av. Eduard Fontseré, s/n - 08391 Tiana - Barcelona (Catalunya). Telèfon: 933 953 588. Font: Ajuntament de Tiana.",
@@ -906,8 +906,8 @@
     "properties": {
       "name": {
         "ca": "Escola bressol municipal de Tiana",
-        "es": "Escola bressol municipal de Tiana",
-        "en": "Escola bressol municipal de Tiana"
+        "es": "Escuela infantil municipal de Tiana",
+        "en": "Tiana Municipal Nursery School"
       },
       "description": {
         "ca": "L’escola bressol El Més Petit de Tots ofereix a l’infant sentir-se segur, tot creant un ambient positiu en un entorn de protecció i afecte. Més info. Adreça: c. Can Gaietà, 2–6 i c. Josep París, 12 (Escorxador) - 08391 Tiana, Barcelona. Telèfon: 93 465 82 89. Font: Ajuntament de Tiana.",
@@ -1000,8 +1000,8 @@
     "properties": {
       "name": {
         "ca": "Escola d’Adults Timó",
-        "es": "Escola d’Adults Timó",
-        "en": "Escola d’Adults Timó"
+        "es": "Escuela de Adultos Timó",
+        "en": "Timó Adult School"
       },
       "description": {
         "ca": "L’escola Timó es un punt d’informació i orientació del programa Acredita’t. És un centre municipal de formació de persones adultes on s’ofereixen metodologies per a adults, en un entorn de respecte, intercanvi i igualtat que afavoreix el procés d’aprenentatge. Més inflo. Adreça: Camí Vell a Tiana, s/n (cantonada carrer Matas)- 08391 Tiana, Barcelona. Telèfon: 934 690 172. Font: Ajuntament de Tiana.",
@@ -1088,8 +1088,8 @@
     "properties": {
       "name": {
         "ca": "Escola Lola Anglada",
-        "es": "Escola Lola Anglada",
-        "en": "Escola Lola Anglada"
+        "es": "Escuela Lola Anglada",
+        "en": "Lola Anglada School"
       },
       "description": {
         "ca": "L’escola Lola Anglada som una escola arrelada al nostre entorn. Acompanyem l’alumnat en el seu projecte de creixement personal i educatiu, ja que el nostre objectiu és que rebi una educació que el capaciti per a la participació activa i responsable dins de la societat on haurà de viure. Més info. Adreça: Castellar, 7 - 08391 Tiana, Barcelona. Web: https://escolalolaangladatiana.info. Font: Ajuntament de Tiana.",
@@ -1176,8 +1176,8 @@
     "properties": {
       "name": {
         "ca": "Escola municipal de Música i Dansa",
-        "es": "Escola municipal de Música i Dansa",
-        "en": "Escola municipal de Música i Dansa"
+        "es": "Escuela municipal de Música y Danza",
+        "en": "Municipal School of Music and Dance"
       },
       "description": {
         "ca": "L’Escola Municipal de Música i Dansa, autoritzada per la Generalitat de Catalunya, ofereix espais i formació en música i dansa de manera pràctica i creativa. L’escola compta amb programes per a totes les edats i un ampli ventall de disciplines. Més info. Adreça: Carrer Ciutadella, 1 - 08391 Tiana, Barcelona. Telèfon: 93 179 27 97. Font: Ajuntament de Tiana.",
@@ -1264,8 +1264,8 @@
     "properties": {
       "name": {
         "ca": "Escola Tiziana",
-        "es": "Escola Tiziana",
-        "en": "Escola Tiziana"
+        "es": "Escuela Tiziana",
+        "en": "Tiziana School"
       },
       "description": {
         "ca": "Volem que a l’escola l’alumnat sigui feliç, que els emocioni participar en les nostres propostes, que siguin protagonistes i constructors de la seva pròpia xarxa d’aprenentatges, que s’esforcin per estar satisfets dels seus progressos i que adquireixin valors de vida que els facin triar bé, ser bons i compromesos. Més info. Adreça: Av. Ciutadella, 9 - 08391 Tiana, Barcelona. Telèfon: 93 465 54 64. Web: https://www.escolatiziana.cat/ca/. Font: Ajuntament de Tiana.",
@@ -1353,8 +1353,8 @@
     "properties": {
       "name": {
         "ca": "Espai de dol perinatal",
-        "es": "Espai de dol perinatal",
-        "en": "Espai de dol perinatal"
+        "es": "Espacio de duelo perinatal",
+        "en": "Perinatal Grief Space"
       },
       "description": {
         "ca": "L’Espai del record per al dol gestacional i perinatal està ubicat al bosquet del Cementiri de Tiana, a la zona de l’Ermita de l’Alegria. Té una entrada independent pel Camí del Cementiri, està situat al mirador del bosquet i compta amb l’ escultura “ Penso en tu ” de Glòria Arrufat. Adreça: Camí del Cementiri, s/n - 08391 Tiana - Barcelona (Catalunya). Telèfon: 933 955 011. Font: Ajuntament de Tiana.",
@@ -1441,8 +1441,8 @@
     "properties": {
       "name": {
         "ca": "Espai Dioptria",
-        "es": "Espai Dioptria",
-        "en": "Espai Dioptria"
+        "es": "Espacio Dioptria",
+        "en": "Dioptria Space"
       },
       "description": {
         "ca": "Equipament municipal comunitari que ofereix un espai de treball i oportunitats per a les entitats, els col·lectius i els veïns i veïnes de Tiana. Engloba 3 blocs: l’espai de l’ AEIG Roger de Flor , la casa d’entitats i l’espai Jove , i la sala Dioptria , una sala de treball d’accés lliure per a veïns i veïnes. Adreça: Carrer Cals Frares, 29 Adreça electrònica dioptria@tiana.cat Lloc web tiana.cat/dioptria/. Web: https://tiana.cat/dioptria/. Font: Ajuntament de Tiana.",
@@ -1524,8 +1524,8 @@
     "properties": {
       "name": {
         "ca": "Espai Jove",
-        "es": "Espai Jove",
-        "en": "Espai Jove"
+        "es": "Espacio Joven",
+        "en": "Youth Space"
       },
       "description": {
         "ca": "L’ Espai Jove és un espai de lleure, formació i trobada per als joves de Tiana on s’hi desenvolupen activitats amb l’objectiu de fomentar l’aprenentatge i el creixement personal dels joves. L’Espai Jove forma part de la xarxa de punts d’informació juvenil de Catalunya (XNEJ). Adreça: Cals Frares, 29.. Web: https://tiana.cat/dioptria/. Font: Ajuntament de Tiana.",
@@ -1607,8 +1607,8 @@
     "properties": {
       "name": {
         "ca": "Institut Tiana",
-        "es": "Institut Tiana",
-        "en": "Institut Tiana"
+        "es": "Instituto Tiana",
+        "en": "Tiana Secondary School"
       },
       "description": {
         "ca": "El projecte educatiu de l’Institut Tiana vol potenciar el reconeixement pel treball personal i d’equip, l’esperit crític, l’ús de les noves tecnologies i la recerca innovadora. També vol acompanyar l’alumnat amb una acció tutorial personalitzada i orientada a la diversitat i al creixement personal. Adreça: Avinguda Eduard Fontserè, s/n, 08391 Tiana, Barcelona. Telèfon: 93 395 17 19. Font: Ajuntament de Tiana.",
@@ -1770,8 +1770,8 @@
     "properties": {
       "name": {
         "ca": "Llar de persones grans",
-        "es": "Llar de persones grans",
-        "en": "Llar de persones grans"
+        "es": "Hogar de personas mayores",
+        "en": "Seniors' home"
       },
       "description": {
         "ca": "L’associació de gent gran, jubilats i pensionistes de Tiana neix l’any 1978 i durant 20 anys té la seva seu social a El Casal, donant el servei de Centre de Dia. Adreça: C/ Anselm Clavé, 20 - 08391 Tiana - Barcelona (Catalunya). Web: https://www.facebook.com/llardepersonesgrans.lesplaitiana. Font: Ajuntament de Tiana.",
@@ -2010,8 +2010,8 @@
     "properties": {
       "name": {
         "ca": "Parc de can Puigcarbó",
-        "es": "Parc de can Puigcarbó",
-        "en": "Parc de can Puigcarbó"
+        "es": "Parque de Can Puigcarbó",
+        "en": "Can Puigcarbó Park"
       },
       "description": {
         "ca": "Equipament o lloc d’interès de Tiana. Adreça: c/ Sant Albert, 4. Font: Ajuntament de Tiana.",
@@ -2079,8 +2079,8 @@
     "properties": {
       "name": {
         "ca": "Parc de l’Antic Camp de Futbol",
-        "es": "Parc de l’Antic Camp de Futbol",
-        "en": "Parc de l’Antic Camp de Futbol"
+        "es": "Parque del Antiguo Campo de Fútbol",
+        "en": "Old Football Ground Park"
       },
       "description": {
         "ca": "Equipament o lloc d’interès de Tiana. Adreça: c/Matas, 19. Font: Ajuntament de Tiana.",
@@ -2154,8 +2154,8 @@
     "properties": {
       "name": {
         "ca": "Parc de les Olors",
-        "es": "Parc de les Olors",
-        "en": "Parc de les Olors"
+        "es": "Parque de los Aromas",
+        "en": "Park of Scents"
       },
       "description": {
         "ca": "Equipament o lloc d’interès de Tiana. Font: Ajuntament de Tiana.",
@@ -2223,8 +2223,8 @@
     "properties": {
       "name": {
         "ca": "Parc del Doctor Mascaró",
-        "es": "Parc del Doctor Mascaró",
-        "en": "Parc del Doctor Mascaró"
+        "es": "Parque del Doctor Mascaró",
+        "en": "Doctor Mascaró Park"
       },
       "description": {
         "ca": "Equipament o lloc d’interès de Tiana. Adreça: c/ Dr Mascaró, 21. Font: Ajuntament de Tiana.",
@@ -2292,8 +2292,8 @@
     "properties": {
       "name": {
         "ca": "Parc del Tramvia",
-        "es": "Parc del Tramvia",
-        "en": "Parc del Tramvia"
+        "es": "Parque del Tranvía",
+        "en": "Tram Park"
       },
       "description": {
         "ca": "Equipament o lloc d’interès de Tiana. Adreça: Passeig de la Vilesa, 87. Font: Ajuntament de Tiana.",
@@ -2367,8 +2367,8 @@
     "properties": {
       "name": {
         "ca": "Parc Doctor Barraquer",
-        "es": "Parc Doctor Barraquer",
-        "en": "Parc Doctor Barraquer"
+        "es": "Parque Doctor Barraquer",
+        "en": "Doctor Barraquer Park"
       },
       "description": {
         "ca": "Equipament o lloc d’interès de Tiana. Adreça: c/Dr. Barraquer, 14. Font: Ajuntament de Tiana.",
@@ -2442,8 +2442,8 @@
     "properties": {
       "name": {
         "ca": "Parc Doctor Lino Ferrandiz",
-        "es": "Parc Doctor Lino Ferrandiz",
-        "en": "Parc Doctor Lino Ferrandiz"
+        "es": "Parque Doctor Lino Ferrandiz",
+        "en": "Doctor Lino Ferrandiz Park"
       },
       "description": {
         "ca": "Equipament o lloc d’interès de Tiana. Adreça: Avinguda Creu de Terme. Font: Ajuntament de Tiana.",
@@ -2511,8 +2511,8 @@
     "properties": {
       "name": {
         "ca": "Parc Esportiu de Can Puigcarbó",
-        "es": "Parc Esportiu de Can Puigcarbó",
-        "en": "Parc Esportiu de Can Puigcarbó"
+        "es": "Parque Deportivo de Can Puigcarbó",
+        "en": "Can Puigcarbó Sports Park"
       },
       "description": {
         "ca": "L’objectiu del parc es fomentar l’activitat física (a través de la millora del condicionament físic de les persones i la promoció d’estils de vida saludables i actius) i augmentar l’oferta esportiva outdoor atenent sempre a les diferents necessitats esportives i públics objectius (gent gran, gent amb patologies, adults, joves i infants). Adreça: c/ Sant Albert 4-10. Font: Ajuntament de Tiana.",
@@ -2598,8 +2598,8 @@
     "properties": {
       "name": {
         "ca": "Parc Joan Armengol i Moliner",
-        "es": "Parc Joan Armengol i Moliner",
-        "en": "Parc Joan Armengol i Moliner"
+        "es": "Parque Joan Armengol i Moliner",
+        "en": "Joan Armengol i Moliner Park"
       },
       "description": {
         "ca": "Equipament o lloc d’interès de Tiana. Adreça: Cami de Dalt d'Alella, 15. Font: Ajuntament de Tiana.",
@@ -2667,8 +2667,8 @@
     "properties": {
       "name": {
         "ca": "Parc Rafael de Casanova",
-        "es": "Parc Rafael de Casanova",
-        "en": "Parc Rafael de Casanova"
+        "es": "Parque Rafael de Casanova",
+        "en": "Rafael de Casanova Park"
       },
       "description": {
         "ca": "Equipament o lloc d’interès de Tiana. Font: Ajuntament de Tiana.",
@@ -2737,7 +2737,7 @@
       "name": {
         "ca": "Petanca Tiana",
         "es": "Petanca Tiana",
-        "en": "Petanca Tiana"
+        "en": "Tiana Pétanque"
       },
       "description": {
         "ca": "Fundat l’any 1986 com a una de les seccions de l’Agrupació Recreativa del Casal. A principis del 1994 es registra com entitat esportiva a la Federació Catalana de Petanca amb el nom de Club Petanca Tiana. Adreça: Camí de Dalt d'Alella, 08391 Tiana, Barcelona. Telèfon: 933952303. Font: Ajuntament de Tiana.",
@@ -2918,8 +2918,8 @@
     "properties": {
       "name": {
         "ca": "Pista poliesportiva Escola Tiziana",
-        "es": "Pista poliesportiva Escola Tiziana",
-        "en": "Pista poliesportiva Escola Tiziana"
+        "es": "Pista polideportiva Escuela Tiziana",
+        "en": "Tiziana School Multi-sport Court"
       },
       "description": {
         "ca": "Les instal·lacions de l’escola Tiziana de Tiana ubicada a Avinguda Ciutadella, 9 consten d’un espai esportiu compost per una posta poliesportiva doble a l’aire lliure amb paviment de ciment i on es poden practicar esports com el bàsquet o el futbol sala. Adreça: c/ Ciutadella, 6. Telèfon: 93 465 54 64. Font: Ajuntament de Tiana.",
@@ -3006,8 +3006,8 @@
     "properties": {
       "name": {
         "ca": "Pista poliesportiva Parc de l’Antic Camp de Futbol",
-        "es": "Pista poliesportiva Parc de l’Antic Camp de Futbol",
-        "en": "Pista poliesportiva Parc de l’Antic Camp de Futbol"
+        "es": "Pista polideportiva Parque del Antiguo Campo de Fútbol",
+        "en": "Old Football Ground Park Multi-sport Court"
       },
       "description": {
         "ca": "Espai obert a l’aire lliure on es disposa de dues cistelles de mini-bàsquet exteriors i una porteria de futbol sala. El paviment de la pista poliesportiva és de ciment. Adreça: Parc antic Camp de Futbol. Font: Ajuntament de Tiana.",
@@ -3087,8 +3087,8 @@
     "properties": {
       "name": {
         "ca": "Pista poliesportiva Parc Doctor Barraquer",
-        "es": "Pista poliesportiva Parc Doctor Barraquer",
-        "en": "Pista poliesportiva Parc Doctor Barraquer"
+        "es": "Pista polideportiva Parque Doctor Barraquer",
+        "en": "Doctor Barraquer Park Multi-sport Court"
       },
       "description": {
         "ca": "Espai obert a l’aire lliure on es disposa de dues cistelles de bàsquet exteriors i paviment de sorra. Adreça: C/ Doctor Barraquer - 08391 Tiana - Barcelona (Catalunya). Font: Ajuntament de Tiana.",
@@ -3169,7 +3169,7 @@
       "name": {
         "ca": "Sala Albéniz",
         "es": "Sala Albéniz",
-        "en": "Sala Albéniz"
+        "en": "Albéniz Hall"
       },
       "description": {
         "ca": "Teatre i sala polivalent per portar a terme activitats culturals. Adreça: Av. Isaac Albéniz, 8-10 - 08391 Tiana - Barcelona (Catalunya). Telèfon: 933955011. Font: Ajuntament de Tiana.",
@@ -3250,8 +3250,8 @@
     "properties": {
       "name": {
         "ca": "Sala d’Exposicions casa de la Punxa",
-        "es": "Sala d’Exposicions casa de la Punxa",
-        "en": "Sala d’Exposicions casa de la Punxa"
+        "es": "Sala de Exposiciones casa de la Punxa",
+        "en": "Casa de la Punxa Exhibition Hall"
       },
       "description": {
         "ca": "Sala d’exposicions al Casal Adreça: Av. Isaac Albéniz, 8-10 - 08391 Tiana - Barcelona (Catalunya). Telèfon: 933955011. Font: Ajuntament de Tiana.",
@@ -3497,8 +3497,8 @@
     "properties": {
       "name": {
         "ca": "Zona esbarjo per gossos Parc del Tramvia",
-        "es": "Zona de esparcimiento para perros Parc del Tramvia",
-        "en": "Dog recreation area at Parc del Tramvia"
+        "es": "Zona de esparcimiento para perros del Parque del Tranvía",
+        "en": "Tramway Park dog recreation area"
       },
       "description": {
         "ca": "Espai d’esbarjo per a gossos Adreça: Passeig de la Vilesa, 87. Font: Ajuntament de Tiana.",
@@ -3578,8 +3578,8 @@
     "properties": {
       "name": {
         "ca": "Zona esbarjo per gossos Riera de Tiana",
-        "es": "Zona esbarjo per gossos Riera de Tiana",
-        "en": "Zona esbarjo per gossos Riera de Tiana"
+        "es": "Zona de esparcimiento para perros Riera de Tiana",
+        "en": "Riera de Tiana Dog Play Area"
       },
       "description": {
         "ca": "Espai d’esbarjo per a gossos Font: Ajuntament de Tiana.",
@@ -3844,13 +3844,13 @@
     "properties": {
       "name": {
         "ca": "Cementiri dels Empestats",
-        "es": "Cementiri dels Empestats",
-        "en": "Cementiri dels Empestats"
+        "es": "Cementerio dels Empestats",
+        "en": "Empestats Cemetery"
       },
       "description": {
         "ca": "Cementiri dels Empestats. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Cementiri dels Empestats. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Cementiri dels Empestats. A cultural, heritage or community landmark in Tiana."
+        "es": "Cementerio dels Empestats. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Empestats Cemetery. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -4157,12 +4157,12 @@
       "name": {
         "ca": "Centro Pilates Tiana",
         "es": "Centro Pilates Tiana",
-        "en": "Centro Pilates Tiana"
+        "en": "Tiana Pilates Centre"
       },
       "description": {
         "ca": "Centro Pilates Tiana. Equipament o servei esportiu de Tiana per a l'activitat física i la vida local.",
         "es": "Centro Pilates Tiana. Equipamiento o servicio deportivo de Tiana para la actividad física y la vida local.",
-        "en": "Centro Pilates Tiana. A sports facility or service in Tiana for physical activity and local life."
+        "en": "Tiana Pilates Centre. A sports facility or service in Tiana for physical activity and local life."
       },
       "tags": [
         "tiana",
@@ -4644,12 +4644,12 @@
       "name": {
         "ca": "Estanco",
         "es": "Estanco",
-        "en": "Estanco"
+        "en": "Tobacconist"
       },
       "description": {
         "ca": "Estanco. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
         "es": "Estanco. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Estanco. A local shop or service in Tiana tied to everyday life in the town."
+        "en": "Tobacconist. A local shop or service in Tiana tied to everyday life in the town."
       },
       "tags": [
         "tiana",
@@ -4704,13 +4704,13 @@
     "properties": {
       "name": {
         "ca": "Forn i Pastisseria Aixelà",
-        "es": "Forn i Pastisseria Aixelà",
-        "en": "Forn i Pastisseria Aixelà"
+        "es": "Panadería y Pastelería Aixelà",
+        "en": "Aixelà Bakery and Pastry Shop"
       },
       "description": {
         "ca": "Forn i Pastisseria Aixelà. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Forn i Pastisseria Aixelà. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Forn i Pastisseria Aixelà. A local shop or service in Tiana tied to everyday life in the town."
+        "es": "Panadería y Pastelería Aixelà. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Aixelà Bakery and Pastry Shop. A local shop or service in Tiana tied to everyday life in the town."
       },
       "tags": [
         "tiana",
@@ -5027,13 +5027,13 @@
     "properties": {
       "name": {
         "ca": "Petit Supermercat Tiana",
-        "es": "Petit Supermercat Tiana",
-        "en": "Petit Supermercat Tiana"
+        "es": "Petit Supermercado Tiana",
+        "en": "Petit Tiana Supermarket"
       },
       "description": {
         "ca": "Petit Supermercat Tiana. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Petit Supermercat Tiana. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Petit Supermercat Tiana. A local shop or service in Tiana tied to everyday life in the town."
+        "es": "Petit Supermercado Tiana. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Petit Tiana Supermarket. A local shop or service in Tiana tied to everyday life in the town."
       },
       "tags": [
         "tiana",
@@ -5088,13 +5088,13 @@
     "properties": {
       "name": {
         "ca": "Peixateria Cuní",
-        "es": "Peixateria Cuní",
-        "en": "Peixateria Cuní"
+        "es": "Pescadería Cuní",
+        "en": "Cuní Fishmonger's"
       },
       "description": {
         "ca": "Peixateria Cuní. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Peixateria Cuní. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Peixateria Cuní. A local shop or service in Tiana tied to everyday life in the town."
+        "es": "Pescadería Cuní. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Cuní Fishmonger's. A local shop or service in Tiana tied to everyday life in the town."
       },
       "tags": [
         "tiana",
@@ -5290,13 +5290,13 @@
     "properties": {
       "name": {
         "ca": "Consultori Local de Tiana",
-        "es": "Consultori Local de Tiana",
-        "en": "Consultori Local de Tiana"
+        "es": "Consultorio Local de Tiana",
+        "en": "Tiana Local Clinic"
       },
       "description": {
         "ca": "Consultori Local de Tiana. Punt d'interès de Tiana relacionat amb doctors.",
-        "es": "Consultori Local de Tiana. Punto de interés de Tiana relacionado con médicos.",
-        "en": "Consultori Local de Tiana. A point of interest in Tiana related to doctors."
+        "es": "Consultorio Local de Tiana. Punto de interés de Tiana relacionado con médicos.",
+        "en": "Tiana Local Clinic. A point of interest in Tiana related to doctors."
       },
       "tags": [
         "tiana",
@@ -5413,7 +5413,7 @@
       "name": {
         "ca": "Oficina de Correos",
         "es": "Oficina de Correos",
-        "en": "Oficina de Correos"
+        "en": "Post Office"
       },
       "description": {
         "ca": "Oficina de Correos. Punt d'interès de Tiana relacionat amb post office.",
@@ -5664,13 +5664,13 @@
     "properties": {
       "name": {
         "ca": "Tiana Supermercat",
-        "es": "Tiana Supermercat",
-        "en": "Tiana Supermercat"
+        "es": "Tiana Supermercado",
+        "en": "Tiana Supermarket"
       },
       "description": {
         "ca": "Tiana Supermercat. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Tiana Supermercat. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Tiana Supermercat. A local shop or service in Tiana tied to everyday life in the town."
+        "es": "Tiana Supermercado. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Tiana Supermarket. A local shop or service in Tiana tied to everyday life in the town."
       },
       "tags": [
         "tiana",
@@ -5726,12 +5726,12 @@
       "name": {
         "ca": "Restaurante Mas Blanc",
         "es": "Restaurante Mas Blanc",
-        "en": "Restaurante Mas Blanc"
+        "en": "Mas Blanc Restaurant"
       },
       "description": {
         "ca": "Restaurante Mas Blanc. Restaurant o establiment de restauració local a Tiana.",
         "es": "Restaurante Mas Blanc. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "Restaurante Mas Blanc. A local restaurant or eatery in Tiana."
+        "en": "Mas Blanc Restaurant. A local restaurant or eatery in Tiana."
       },
       "tags": [
         "tiana",
@@ -5900,13 +5900,13 @@
     "properties": {
       "name": {
         "ca": "Centre Veterinari Tiana",
-        "es": "Centre Veterinari Tiana",
-        "en": "Centre Veterinari Tiana"
+        "es": "Centro Veterinario Tiana",
+        "en": "Tiana Veterinary Centre"
       },
       "description": {
         "ca": "Centre Veterinari Tiana. Punt d'interès de Tiana relacionat amb veterinary.",
-        "es": "Centre Veterinari Tiana. Punto de interés de Tiana relacionado con veterinario.",
-        "en": "Centre Veterinari Tiana. A point of interest in Tiana related to a veterinary clinic."
+        "es": "Centro Veterinario Tiana. Punto de interés de Tiana relacionado con veterinario.",
+        "en": "Tiana Veterinary Centre. A point of interest in Tiana related to a veterinary clinic."
       },
       "tags": [
         "tiana",
@@ -6512,13 +6512,13 @@
     "properties": {
       "name": {
         "ca": "Font de Sant Bru",
-        "es": "Font de Sant Bru",
-        "en": "Font de Sant Bru"
+        "es": "Fuente de Sant Bru",
+        "en": "Sant Bru Spring"
       },
       "description": {
         "ca": "Font de Sant Bru. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Font de Sant Bru. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Font de Sant Bru. A cultural, heritage or community landmark in Tiana."
+        "es": "Fuente de Sant Bru. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Sant Bru Spring. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -6586,12 +6586,12 @@
       "name": {
         "ca": "ruta SL-C 146",
         "es": "ruta SL-C 146",
-        "en": "ruta SL-C 146"
+        "en": "SL-C 146 route"
       },
       "description": {
         "ca": "ruta SL-C 146. Punt cultural, patrimonial o comunitari de Tiana.",
         "es": "ruta SL-C 146. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "ruta SL-C 146. A cultural, heritage or community landmark in Tiana."
+        "en": "SL-C 146 route. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -6787,12 +6787,12 @@
       "name": {
         "ca": "ruta SL-C 145",
         "es": "ruta SL-C 145",
-        "en": "ruta SL-C 145"
+        "en": "SL-C 145 route"
       },
       "description": {
         "ca": "ruta SL-C 145. Punt cultural, patrimonial o comunitari de Tiana.",
         "es": "ruta SL-C 145. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "ruta SL-C 145. A cultural, heritage or community landmark in Tiana."
+        "en": "SL-C 145 route. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -6993,13 +6993,13 @@
     "properties": {
       "name": {
         "ca": "Les Terrasses de Sant Romà",
-        "es": "Les Terrasses de Sant Romà",
-        "en": "Les Terrasses de Sant Romà"
+        "es": "Las Terrazas de Sant Romà",
+        "en": "Sant Romà Terraces"
       },
       "description": {
         "ca": "Les Terrasses de Sant Romà. Restaurant o establiment de restauració local a Tiana.",
-        "es": "Les Terrasses de Sant Romà. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "Les Terrasses de Sant Romà. A local restaurant or eatery in Tiana."
+        "es": "Las Terrazas de Sant Romà. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "Sant Romà Terraces. A local restaurant or eatery in Tiana."
       },
       "tags": [
         "tiana",
@@ -7493,13 +7493,13 @@
     "properties": {
       "name": {
         "ca": "Monument a Joan Armengol",
-        "es": "Monument a Joan Armengol",
-        "en": "Monument a Joan Armengol"
+        "es": "Monumento a Joan Armengol",
+        "en": "Joan Armengol Monument"
       },
       "description": {
         "ca": "Monument a Joan Armengol. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Monument a Joan Armengol. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Monument a Joan Armengol. A cultural, heritage or community landmark in Tiana."
+        "es": "Monumento a Joan Armengol. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Joan Armengol Monument. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -7744,13 +7744,13 @@
     "properties": {
       "name": {
         "ca": "Forn de pa Enric Solà",
-        "es": "Forn de pa Enric Solà",
-        "en": "Forn de pa Enric Solà"
+        "es": "Panadería Enric Solà",
+        "en": "Enric Solà Bakery"
       },
       "description": {
         "ca": "Forn de pa Enric Solà. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Forn de pa Enric Solà. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Forn de pa Enric Solà. A local shop or service in Tiana tied to everyday life in the town."
+        "es": "Panadería Enric Solà. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
+        "en": "Enric Solà Bakery. A local shop or service in Tiana tied to everyday life in the town."
       },
       "tags": [
         "tiana",
@@ -7996,8 +7996,8 @@
     "properties": {
       "name": {
         "ca": "Tiana contra les agressions masclistes. Benvinguts a Tiana.",
-        "es": "Tiana contra les agressions masclistes. Benvinguts a Tiana.",
-        "en": "Tiana contra les agressions masclistes. Benvinguts a Tiana."
+        "es": "Tiana contra las agresiones machistas. Bienvenidos a Tiana.",
+        "en": "Tiana against sexist violence. Welcome to Tiana."
       },
       "description": {
         "ca": "Tiana contra les agressions masclistes. Benvinguts a Tiana.. Punt cultural, patrimonial o comunitari de Tiana.",
@@ -8063,13 +8063,13 @@
     "properties": {
       "name": {
         "ca": "Miracor de la vall de Montalegre",
-        "es": "Miracor de la vall de Montalegre",
-        "en": "Miracor de la vall de Montalegre"
+        "es": "Miracor del valle de Montalegre",
+        "en": "Miracor of the Montalegre Valley"
       },
       "description": {
         "ca": "Miracor de la vall de Montalegre. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Miracor de la vall de Montalegre. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Miracor de la vall de Montalegre. A cultural, heritage or community landmark in Tiana."
+        "es": "Miracor del valle de Montalegre. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Miracor of the Montalegre Valley. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -8130,13 +8130,13 @@
     "properties": {
       "name": {
         "ca": "La migració de les aus rapinyaires diürnes",
-        "es": "La migració de les aus rapinyaires diürnes",
-        "en": "La migració de les aus rapinyaires diürnes"
+        "es": "La migración de las aves rapaces diurnas",
+        "en": "The migration of diurnal birds of prey"
       },
       "description": {
         "ca": "La migració de les aus rapinyaires diürnes. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "La migració de les aus rapinyaires diürnes. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "La migració de les aus rapinyaires diürnes. A cultural, heritage or community landmark in Tiana."
+        "es": "La migración de las aves rapaces diurnas. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "The migration of diurnal birds of prey. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -8264,13 +8264,13 @@
     "properties": {
       "name": {
         "ca": "Coll del Turó d'en Galceran",
-        "es": "Coll del Turó d'en Galceran",
-        "en": "Coll del Turó d'en Galceran"
+        "es": "Collado del Turó d'en Galceran",
+        "en": "Turó d'en Galceran Mountain Pass"
       },
       "description": {
         "ca": "Coll del Turó d'en Galceran. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Coll del Turó d'en Galceran. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Coll del Turó d'en Galceran. A cultural, heritage or community landmark in Tiana."
+        "es": "Collado del Turó d'en Galceran. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Turó d'en Galceran Mountain Pass. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -8465,13 +8465,13 @@
     "properties": {
       "name": {
         "ca": "Celler Alta Alella Mirgin",
-        "es": "Celler Alta Alella Mirgin",
-        "en": "Celler Alta Alella Mirgin"
+        "es": "Bodega Alta Alella Mirgin",
+        "en": "Alta Alella Mirgin winery"
       },
       "description": {
         "ca": "Celler Alta Alella Mirgin. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Celler Alta Alella Mirgin. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Celler Alta Alella Mirgin. A cultural, heritage or community landmark in Tiana."
+        "es": "Bodega Alta Alella Mirgin. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Alta Alella Mirgin winery. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -8532,13 +8532,13 @@
     "properties": {
       "name": {
         "ca": "Eix Central del Maresme",
-        "es": "Eix Central del Maresme",
-        "en": "Eix Central del Maresme"
+        "es": "Eje Central del Maresme",
+        "en": "Maresme Central Axis"
       },
       "description": {
         "ca": "Eix Central del Maresme. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Eix Central del Maresme. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Eix Central del Maresme. A cultural, heritage or community landmark in Tiana."
+        "es": "Eje Central del Maresme. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Maresme Central Axis. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -8599,13 +8599,13 @@
     "properties": {
       "name": {
         "ca": "Tranvia de Montgat-Tiana",
-        "es": "Tranvia de Montgat-Tiana",
-        "en": "Tranvia de Montgat-Tiana"
+        "es": "Tranvía de Montgat-Tiana",
+        "en": "Montgat-Tiana Tram"
       },
       "description": {
         "ca": "Tranvia de Montgat-Tiana. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Tranvia de Montgat-Tiana. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Tranvia de Montgat-Tiana. A cultural, heritage or community landmark in Tiana."
+        "es": "Tranvía de Montgat-Tiana. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Montgat-Tiana Tram. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -8733,13 +8733,13 @@
     "properties": {
       "name": {
         "ca": "Jaciment de Ca l'Andreu",
-        "es": "Jaciment de Ca l'Andreu",
-        "en": "Jaciment de Ca l'Andreu"
+        "es": "Yacimiento de Ca l'Andreu",
+        "en": "Ca l'Andreu Archaeological Site"
       },
       "description": {
         "ca": "Jaciment de Ca l'Andreu. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Jaciment de Ca l'Andreu. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Jaciment de Ca l'Andreu. A cultural, heritage or community landmark in Tiana."
+        "es": "Yacimiento de Ca l'Andreu. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Ca l'Andreu Archaeological Site. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -9654,8 +9654,8 @@
     "properties": {
       "name": {
         "ca": "Alberg La Conreria. Fundació Pere Tarrés",
-        "es": "Alberg La Conreria. Fundació Pere Tarrés",
-        "en": "Alberg La Conreria. Fundació Pere Tarrés"
+        "es": "Albergue La Conreria. Fundació Pere Tarrés",
+        "en": "La Conreria hostel. Fundació Pere Tarrés"
       },
       "description": {
         "ca": "Alberg La Conreria. Fundació Pere Tarrés. Punt cultural, patrimonial o comunitari de Tiana.",
@@ -9723,13 +9723,13 @@
     "properties": {
       "name": {
         "ca": "Zona esportiva municipal de Tiana",
-        "es": "Zona esportiva municipal de Tiana",
-        "en": "Zona esportiva municipal de Tiana"
+        "es": "Zona deportiva municipal de Tiana",
+        "en": "Tiana Municipal Sports Area"
       },
       "description": {
         "ca": "Zona esportiva municipal de Tiana. Equipament o servei esportiu de Tiana per a l'activitat física i la vida local.",
-        "es": "Zona esportiva municipal de Tiana. Equipamiento o servicio deportivo de Tiana para la actividad física y la vida local.",
-        "en": "Zona esportiva municipal de Tiana. A sports facility or service in Tiana for physical activity and local life."
+        "es": "Zona deportiva municipal de Tiana. Equipamiento o servicio deportivo de Tiana para la actividad física y la vida local.",
+        "en": "Tiana Municipal Sports Area. A sports facility or service in Tiana for physical activity and local life."
       },
       "tags": [
         "tiana",
@@ -9790,13 +9790,13 @@
     "properties": {
       "name": {
         "ca": "Vil·la romana de Can Sent-romà",
-        "es": "Vil·la romana de Can Sent-romà",
-        "en": "Vil·la romana de Can Sent-romà"
+        "es": "Villa romana de Can Sent-romà",
+        "en": "Can Sent-romà Roman Villa"
       },
       "description": {
         "ca": "Vil·la romana de Can Sent-romà. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Vil·la romana de Can Sent-romà. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Vil·la romana de Can Sent-romà. A cultural, heritage or community landmark in Tiana."
+        "es": "Villa romana de Can Sent-romà. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Can Sent-romà Roman Villa. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -9857,13 +9857,13 @@
     "properties": {
       "name": {
         "ca": "Deixalleria de Tiana i Mongat",
-        "es": "Deixalleria de Tiana i Mongat",
-        "en": "Deixalleria de Tiana i Mongat"
+        "es": "Punto limpio de Tiana y Montgat",
+        "en": "Tiana and Montgat Recycling Centre"
       },
       "description": {
         "ca": "Deixalleria de Tiana i Mongat. Punt d'interès de Tiana relacionat amb recycling.",
-        "es": "Deixalleria de Tiana i Mongat. Punto de interés de Tiana relacionado con reciclaje.",
-        "en": "Deixalleria de Tiana i Mongat. A point of interest in Tiana related to recycling."
+        "es": "Punto limpio de Tiana y Montgat. Punto de interés de Tiana relacionado con reciclaje.",
+        "en": "Tiana and Montgat Recycling Centre. A point of interest in Tiana related to recycling."
       },
       "tags": [
         "tiana",
@@ -9987,12 +9987,12 @@
       "name": {
         "ca": "Piscina municipal Jordi Marí",
         "es": "Piscina municipal Jordi Marí",
-        "en": "Piscina municipal Jordi Marí"
+        "en": "Jordi Marí Municipal Pool"
       },
       "description": {
         "ca": "Piscina municipal Jordi Marí. Equipament o servei esportiu de Tiana per a l'activitat física i la vida local.",
         "es": "Piscina municipal Jordi Marí. Equipamiento o servicio deportivo de Tiana para la actividad física y la vida local.",
-        "en": "Piscina municipal Jordi Marí. A sports facility or service in Tiana for physical activity and local life."
+        "en": "Jordi Marí Municipal Pool. A sports facility or service in Tiana for physical activity and local life."
       },
       "tags": [
         "tiana",
@@ -10054,12 +10054,12 @@
       "name": {
         "ca": "Mirador de Nou Pins",
         "es": "Mirador de Nou Pins",
-        "en": "Mirador de Nou Pins"
+        "en": "Nou Pins Viewpoint"
       },
       "description": {
         "ca": "Mirador de Nou Pins. Punt cultural, patrimonial o comunitari de Tiana.",
         "es": "Mirador de Nou Pins. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Mirador de Nou Pins. A cultural, heritage or community landmark in Tiana."
+        "en": "Nou Pins Viewpoint. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -10120,13 +10120,13 @@
     "properties": {
       "name": {
         "ca": "Area d'en Galzeran",
-        "es": "Area d'en Galzeran",
-        "en": "Area d'en Galzeran"
+        "es": "Área d'en Galzeran",
+        "en": "d'en Galzeran Area"
       },
       "description": {
         "ca": "Area d'en Galzeran. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Area d'en Galzeran. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Area d'en Galzeran. A cultural, heritage or community landmark in Tiana."
+        "es": "Área d'en Galzeran. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "d'en Galzeran Area. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -10187,13 +10187,13 @@
     "properties": {
       "name": {
         "ca": "Parc del Doctor Barraquer",
-        "es": "Parc del Doctor Barraquer",
-        "en": "Parc del Doctor Barraquer"
+        "es": "Parque del Doctor Barraquer",
+        "en": "Doctor Barraquer Park"
       },
       "description": {
         "ca": "Parc del Doctor Barraquer. Espai natural o punt a l'aire lliure de Tiana per descobrir l'entorn del municipi.",
-        "es": "Parc del Doctor Barraquer. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
-        "en": "Parc del Doctor Barraquer. A natural space or outdoor spot in Tiana to explore the town's surroundings."
+        "es": "Parque del Doctor Barraquer. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
+        "en": "Doctor Barraquer Park. A natural space or outdoor spot in Tiana to explore the town's surroundings."
       },
       "tags": [
         "tiana",
@@ -10255,12 +10255,12 @@
       "name": {
         "ca": "Ermita de la Alegría",
         "es": "Ermita de la Alegría",
-        "en": "Ermita de la Alegría"
+        "en": "La Alegría Hermitage"
       },
       "description": {
         "ca": "Ermita de la Alegría. Punt d'interès de Tiana relacionat amb place of worship.",
         "es": "Ermita de la Alegría. Punto de interés de Tiana relacionado con lugar de culto.",
-        "en": "Ermita de la Alegría. A point of interest in Tiana related to a place of worship."
+        "en": "La Alegría Hermitage. A point of interest in Tiana related to a place of worship."
       },
       "tags": [
         "tiana",
@@ -10508,13 +10508,13 @@
     "properties": {
       "name": {
         "ca": "Oficina del Parc de la Serralada de Marina",
-        "es": "Oficina del Parc de la Serralada de Marina",
-        "en": "Oficina del Parc de la Serralada de Marina"
+        "es": "Oficina del Parque de la Serralada de Marina",
+        "en": "Serralada de Marina Park Office"
       },
       "description": {
         "ca": "Oficina del Parc de la Serralada de Marina. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Oficina del Parc de la Serralada de Marina. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Oficina del Parc de la Serralada de Marina. A cultural, heritage or community landmark in Tiana."
+        "es": "Oficina del Parque de la Serralada de Marina. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Serralada de Marina Park Office. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -10587,13 +10587,13 @@
     "properties": {
       "name": {
         "ca": "Piscina municipal descoberta",
-        "es": "Piscina municipal descoberta",
-        "en": "Piscina municipal descoberta"
+        "es": "Piscina municipal descubierta",
+        "en": "Municipal Outdoor Pool"
       },
       "description": {
         "ca": "Piscina municipal descoberta. Equipament o servei esportiu de Tiana per a l'activitat física i la vida local.",
-        "es": "Piscina municipal descoberta. Equipamiento o servicio deportivo de Tiana para la actividad física y la vida local.",
-        "en": "Piscina municipal descoberta. A sports facility or service in Tiana for physical activity and local life."
+        "es": "Piscina municipal descubierta. Equipamiento o servicio deportivo de Tiana para la actividad física y la vida local.",
+        "en": "Municipal Outdoor Pool. A sports facility or service in Tiana for physical activity and local life."
       },
       "tags": [
         "tiana",
@@ -10707,13 +10707,13 @@
     "properties": {
       "name": {
         "ca": "Casa de colònies Mas Po-Canyadó",
-        "es": "Casa de colònies Mas Po-Canyadó",
-        "en": "Casa de colònies Mas Po-Canyadó"
+        "es": "Casa de colonias Mas Po-Canyadó",
+        "en": "Mas Po-Canyadó summer camp house"
       },
       "description": {
         "ca": "Casa de colònies Mas Po-Canyadó. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Casa de colònies Mas Po-Canyadó. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Casa de colònies Mas Po-Canyadó. A cultural, heritage or community landmark in Tiana."
+        "es": "Casa de colonias Mas Po-Canyadó. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Mas Po-Canyadó summer camp house. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -10975,13 +10975,13 @@
     "properties": {
       "name": {
         "ca": "Restaurant Can Roca",
-        "es": "Restaurant Can Roca",
-        "en": "Restaurant Can Roca"
+        "es": "Restaurante Can Roca",
+        "en": "Can Roca Restaurant"
       },
       "description": {
         "ca": "Restaurant Can Roca. Restaurant o establiment de restauració local a Tiana.",
-        "es": "Restaurant Can Roca. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "Restaurant Can Roca. A local restaurant or eatery in Tiana."
+        "es": "Restaurante Can Roca. Restaurante o establecimiento de restauración local en Tiana.",
+        "en": "Can Roca Restaurant. A local restaurant or eatery in Tiana."
       },
       "tags": [
         "tiana",
@@ -11237,13 +11237,13 @@
     "properties": {
       "name": {
         "ca": "Parc de Gaietà",
-        "es": "Parc de Gaietà",
-        "en": "Parc de Gaietà"
+        "es": "Parque de Gaietà",
+        "en": "Gaietà Park"
       },
       "description": {
         "ca": "Parc de Gaietà. Espai natural o punt a l'aire lliure de Tiana per descobrir l'entorn del municipi.",
-        "es": "Parc de Gaietà. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
-        "en": "Parc de Gaietà. A natural space or outdoor spot in Tiana to explore the town's surroundings."
+        "es": "Parque de Gaietà. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
+        "en": "Gaietà Park. A natural space or outdoor spot in Tiana to explore the town's surroundings."
       },
       "tags": [
         "tiana",
@@ -12571,13 +12571,13 @@
     "properties": {
       "name": {
         "ca": "Convent de les Franciscanes",
-        "es": "Convent de les Franciscanes",
-        "en": "Convent de les Franciscanes"
+        "es": "Convento de las Franciscanas",
+        "en": "Convent of the Franciscan Nuns"
       },
       "description": {
         "ca": "Convent de les Franciscanes. Punt d'interès de Tiana relacionat amb place of worship.",
-        "es": "Convent de les Franciscanes. Punto de interés de Tiana relacionado con lugar de culto.",
-        "en": "Convent de les Franciscanes. A point of interest in Tiana related to a place of worship."
+        "es": "Convento de las Franciscanas. Punto de interés de Tiana relacionado con lugar de culto.",
+        "en": "Convent of the Franciscan Nuns. A point of interest in Tiana related to a place of worship."
       },
       "tags": [
         "tiana",
@@ -12758,13 +12758,13 @@
     "properties": {
       "name": {
         "ca": "Museu del poblat de Sent-romà",
-        "es": "Museu del poblat de Sent-romà",
-        "en": "Museu del poblat de Sent-romà"
+        "es": "Museo del poblado de Sent-romà",
+        "en": "Sent-romà Settlement Museum"
       },
       "description": {
         "ca": "Museu del poblat de Sent-romà. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Museu del poblat de Sent-romà. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Museu del poblat de Sent-romà. A cultural, heritage or community landmark in Tiana."
+        "es": "Museo del poblado de Sent-romà. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Sent-romà Settlement Museum. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -12825,13 +12825,13 @@
     "properties": {
       "name": {
         "ca": "Centre Ocupacional Verge de l'Alegria",
-        "es": "Centre Ocupacional Verge de l'Alegria",
-        "en": "Centre Ocupacional Verge de l'Alegria"
+        "es": "Centro Ocupacional Verge de l'Alegria",
+        "en": "Verge de l'Alegria Occupational Centre"
       },
       "description": {
         "ca": "Centre Ocupacional Verge de l'Alegria. Punt d'interès de Tiana relacionat amb social facility.",
-        "es": "Centre Ocupacional Verge de l'Alegria. Punto de interés de Tiana relacionado con equipamiento social.",
-        "en": "Centre Ocupacional Verge de l'Alegria. A point of interest in Tiana related to a social facility."
+        "es": "Centro Ocupacional Verge de l'Alegria. Punto de interés de Tiana relacionado con equipamiento social.",
+        "en": "Verge de l'Alegria Occupational Centre. A point of interest in Tiana related to a social facility."
       },
       "tags": [
         "tiana",
@@ -12878,13 +12878,13 @@
     "properties": {
       "name": {
         "ca": "Parc del Doctor Ferràndiz",
-        "es": "Parc del Doctor Ferràndiz",
-        "en": "Parc del Doctor Ferràndiz"
+        "es": "Parque del Doctor Ferràndiz",
+        "en": "Doctor Ferràndiz Park"
       },
       "description": {
         "ca": "Parc del Doctor Ferràndiz. Espai natural o punt a l'aire lliure de Tiana per descobrir l'entorn del municipi.",
-        "es": "Parc del Doctor Ferràndiz. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
-        "en": "Parc del Doctor Ferràndiz. A natural space or outdoor spot in Tiana to explore the town's surroundings."
+        "es": "Parque del Doctor Ferràndiz. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
+        "en": "Doctor Ferràndiz Park. A natural space or outdoor spot in Tiana to explore the town's surroundings."
       },
       "tags": [
         "tiana",
@@ -12939,13 +12939,13 @@
     "properties": {
       "name": {
         "ca": "Parc de Rafael de Casanovas",
-        "es": "Parc de Rafael de Casanovas",
-        "en": "Parc de Rafael de Casanovas"
+        "es": "Parque de Rafael de Casanovas",
+        "en": "Rafael de Casanovas Park"
       },
       "description": {
         "ca": "Parc de Rafael de Casanovas. Espai natural o punt a l'aire lliure de Tiana per descobrir l'entorn del municipi.",
-        "es": "Parc de Rafael de Casanovas. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
-        "en": "Parc de Rafael de Casanovas. A natural space or outdoor spot in Tiana to explore the town's surroundings."
+        "es": "Parque de Rafael de Casanovas. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
+        "en": "Rafael de Casanovas Park. A natural space or outdoor spot in Tiana to explore the town's surroundings."
       },
       "tags": [
         "tiana",
@@ -13001,12 +13001,12 @@
       "name": {
         "ca": "Petanca de Tiana",
         "es": "Petanca de Tiana",
-        "en": "Petanca de Tiana"
+        "en": "Tiana Pétanque"
       },
       "description": {
         "ca": "Petanca de Tiana. Restaurant o establiment de restauració local a Tiana.",
         "es": "Petanca de Tiana. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "Petanca de Tiana. A local restaurant or eatery in Tiana."
+        "en": "Tiana Pétanque. A local restaurant or eatery in Tiana."
       },
       "tags": [
         "tiana",
@@ -13061,13 +13061,13 @@
     "properties": {
       "name": {
         "ca": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià",
-        "es": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià",
-        "en": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià"
+        "es": "Residencia y Centro de Día Municipal de Tiana Sant Cebrià",
+        "en": "Tiana Sant Cebrià Municipal Care Home and Day Centre"
       },
       "description": {
         "ca": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià. Punt d'interès de Tiana relacionat amb social facility.",
-        "es": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià. Punto de interés de Tiana relacionado con equipamiento social.",
-        "en": "Residència i Centre de Dia Municipal de Tiana Sant Cebrià. A point of interest in Tiana related to a social facility."
+        "es": "Residencia y Centro de Día Municipal de Tiana Sant Cebrià. Punto de interés de Tiana relacionado con equipamiento social.",
+        "en": "Tiana Sant Cebrià Municipal Care Home and Day Centre. A point of interest in Tiana related to a social facility."
       },
       "tags": [
         "tiana",
@@ -13114,13 +13114,13 @@
     "properties": {
       "name": {
         "ca": "Jardins de Can Baratau",
-        "es": "Jardins de Can Baratau",
-        "en": "Jardins de Can Baratau"
+        "es": "Jardines de Can Baratau",
+        "en": "Can Baratau Gardens"
       },
       "description": {
         "ca": "Jardins de Can Baratau. Espai verd o punt a l'aire lliure de Tiana per descobrir l'entorn del municipi.",
-        "es": "Jardins de Can Baratau. Espacio verde o punto al aire libre de Tiana para descubrir el entorno del municipio.",
-        "en": "Jardins de Can Baratau. A green space or outdoor spot in Tiana to explore the town's surroundings."
+        "es": "Jardines de Can Baratau. Espacio verde o punto al aire libre de Tiana para descubrir el entorno del municipio.",
+        "en": "Can Baratau Gardens. A green space or outdoor spot in Tiana to explore the town's surroundings."
       },
       "tags": [
         "tiana",
@@ -13311,13 +13311,13 @@
     "properties": {
       "name": {
         "ca": "Policia Local Tiana",
-        "es": "Policia Local Tiana",
-        "en": "Policia Local Tiana"
+        "es": "Policía Local Tiana",
+        "en": "Tiana Local Police"
       },
       "description": {
         "ca": "Policia Local Tiana. Punt d'interès de Tiana relacionat amb police.",
-        "es": "Policia Local Tiana. Punto de interés de Tiana relacionado con policía.",
-        "en": "Policia Local Tiana. A point of interest in Tiana related to the police."
+        "es": "Policía Local Tiana. Punto de interés de Tiana relacionado con policía.",
+        "en": "Tiana Local Police. A point of interest in Tiana related to the police."
       },
       "tags": [
         "tiana",
@@ -13440,13 +13440,13 @@
     "properties": {
       "name": {
         "ca": "La Rectoria",
-        "es": "La Rectoria",
-        "en": "La Rectoria"
+        "es": "La Rectoría",
+        "en": "The Rectory"
       },
       "description": {
         "ca": "La Rectoria. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "La Rectoria. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "La Rectoria. A cultural, heritage or community landmark in Tiana."
+        "es": "La Rectoría. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "The Rectory. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -13962,13 +13962,13 @@
     "properties": {
       "name": {
         "ca": "Capella de Cant Sant Romà",
-        "es": "Capella de Cant Sant Romà",
-        "en": "Capella de Cant Sant Romà"
+        "es": "Capilla de Cant Sant Romà",
+        "en": "Cant Sant Romà Chapel"
       },
       "description": {
         "ca": "Capella de Cant Sant Romà. Punt d'interès de Tiana relacionat amb place of worship.",
-        "es": "Capella de Cant Sant Romà. Punto de interés de Tiana relacionado con lugar de culto.",
-        "en": "Capella de Cant Sant Romà. A point of interest in Tiana related to a place of worship."
+        "es": "Capilla de Cant Sant Romà. Punto de interés de Tiana relacionado con lugar de culto.",
+        "en": "Cant Sant Romà Chapel. A point of interest in Tiana related to a place of worship."
       },
       "tags": [
         "tiana",
@@ -14350,13 +14350,13 @@
     "properties": {
       "name": {
         "ca": "Antiga estació del Tramvia",
-        "es": "Antiga estació del Tramvia",
-        "en": "Antiga estació del Tramvia"
+        "es": "Antigua estación del Tranvía",
+        "en": "Old Tram Station"
       },
       "description": {
         "ca": "Antiga estació del Tramvia. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Antiga estació del Tramvia. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Antiga estació del Tramvia. A cultural, heritage or community landmark in Tiana."
+        "es": "Antigua estación del Tranvía. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Old Tram Station. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -14417,13 +14417,13 @@
     "properties": {
       "name": {
         "ca": "Antic Tramvia de Tiana",
-        "es": "Antic Tramvia de Tiana",
-        "en": "Antic Tramvia de Tiana"
+        "es": "Antiguo Tranvía de Tiana",
+        "en": "Tiana Old Tram"
       },
       "description": {
         "ca": "Antic Tramvia de Tiana. Punt cultural, patrimonial o comunitari de Tiana.",
-        "es": "Antic Tramvia de Tiana. Punto cultural, patrimonial o comunitario de Tiana.",
-        "en": "Antic Tramvia de Tiana. A cultural, heritage or community landmark in Tiana."
+        "es": "Antiguo Tranvía de Tiana. Punto cultural, patrimonial o comunitario de Tiana.",
+        "en": "Tiana Old Tram. A cultural, heritage or community landmark in Tiana."
       },
       "tags": [
         "tiana",
@@ -14484,13 +14484,13 @@
     "properties": {
       "name": {
         "ca": "Llar d'infants El Timbal",
-        "es": "Llar d'infants El Timbal",
-        "en": "Llar d'infants El Timbal"
+        "es": "Guardería El Timbal",
+        "en": "El Timbal Nursery"
       },
       "description": {
         "ca": "Llar d'infants El Timbal. Punt d'interès de Tiana relacionat amb kindergarten.",
-        "es": "Llar d'infants El Timbal. Punto de interés de Tiana relacionado con guardería.",
-        "en": "Llar d'infants El Timbal. A point of interest in Tiana related to a kindergarten."
+        "es": "Guardería El Timbal. Punto de interés de Tiana relacionado con guardería.",
+        "en": "El Timbal Nursery. A point of interest in Tiana related to a kindergarten."
       },
       "tags": [
         "tiana",
@@ -14551,13 +14551,13 @@
     "properties": {
       "name": {
         "ca": "Llar d'infants El més petit de tots",
-        "es": "Llar d'infants El més petit de tots",
-        "en": "Llar d'infants El més petit de tots"
+        "es": "Guardería El més petit de tots",
+        "en": "El més petit de tots Nursery"
       },
       "description": {
         "ca": "Llar d'infants El més petit de tots. Punt d'interès de Tiana relacionat amb kindergarten.",
-        "es": "Llar d'infants El més petit de tots. Punto de interés de Tiana relacionado con guardería.",
-        "en": "Llar d'infants El més petit de tots. A point of interest in Tiana related to a kindergarten."
+        "es": "Guardería El més petit de tots. Punto de interés de Tiana relacionado con guardería.",
+        "en": "El més petit de tots Nursery. A point of interest in Tiana related to a kindergarten."
       },
       "tags": [
         "tiana",
@@ -14618,13 +14618,13 @@
     "properties": {
       "name": {
         "ca": "Jardins de Can Peitx",
-        "es": "Jardins de Can Peitx",
-        "en": "Jardins de Can Peitx"
+        "es": "Jardines de Can Peitx",
+        "en": "Can Peitx Gardens"
       },
       "description": {
         "ca": "Jardins de Can Peitx. Espai natural o punt a l'aire lliure de Tiana per descobrir l'entorn del municipi.",
-        "es": "Jardins de Can Peitx. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
-        "en": "Jardins de Can Peitx. A natural space or outdoor spot in Tiana to explore the town's surroundings."
+        "es": "Jardines de Can Peitx. Espacio natural o punto al aire libre de Tiana para descubrir el entorno del municipio.",
+        "en": "Can Peitx Gardens. A natural space or outdoor spot in Tiana to explore the town's surroundings."
       },
       "tags": [
         "tiana",
@@ -14754,8 +14754,8 @@
     "properties": {
       "name": {
         "ca": "Pg. Vilesa - Consultori",
-        "es": "Pg. Vilesa - Consultori",
-        "en": "Pg. Vilesa - Consultori"
+        "es": "Paseo Vilesa - Consultorio",
+        "en": "Vilesa Promenade - Clinic"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -14835,8 +14835,8 @@
     "properties": {
       "name": {
         "ca": "Parc Antic Camp Futbol",
-        "es": "Parc Antic Camp Futbol",
-        "en": "Parc Antic Camp Futbol"
+        "es": "Parque Antiguo Campo de Fútbol",
+        "en": "Old Football Ground Park"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -14916,8 +14916,8 @@
     "properties": {
       "name": {
         "ca": "Pg. Vilesa - Can Facerias",
-        "es": "Pg. Vilesa - Can Facerias",
-        "en": "Pg. Vilesa - Can Facerias"
+        "es": "Paseo Vilesa - Can Facerias",
+        "en": "Vilesa Promenade - Can Facerias"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -14991,8 +14991,8 @@
     "properties": {
       "name": {
         "ca": "Creu de Terme",
-        "es": "Creu de Terme",
-        "en": "Creu de Terme"
+        "es": "Cruz de Término",
+        "en": "Boundary Cross"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -15066,8 +15066,8 @@
     "properties": {
       "name": {
         "ca": "Pl. Ciurana",
-        "es": "Pl. Ciurana",
-        "en": "Pl. Ciurana"
+        "es": "Plaza Ciurana",
+        "en": "Ciurana Sq."
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -15141,8 +15141,8 @@
     "properties": {
       "name": {
         "ca": "Creu de Terme",
-        "es": "Creu de Terme",
-        "en": "Creu de Terme"
+        "es": "Cruz de Término",
+        "en": "Boundary Cross"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -15216,8 +15216,8 @@
     "properties": {
       "name": {
         "ca": "Pg. Vilesa - Can Facerias",
-        "es": "Pg. Vilesa - Can Facerias",
-        "en": "Pg. Vilesa - Can Facerias"
+        "es": "Paseo Vilesa - Can Facerias",
+        "en": "Vilesa Promenade - Can Facerias"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -15291,8 +15291,8 @@
     "properties": {
       "name": {
         "ca": "Escola Lola Anglada",
-        "es": "Escola Lola Anglada",
-        "en": "Escola Lola Anglada"
+        "es": "Escuela Lola Anglada",
+        "en": "Lola Anglada School"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -15372,8 +15372,8 @@
     "properties": {
       "name": {
         "ca": "Pg. Vilesa - Consultori",
-        "es": "Pg. Vilesa - Consultori",
-        "en": "Pg. Vilesa - Consultori"
+        "es": "Paseo Vilesa - Consultorio",
+        "en": "Vilesa Promenade - Clinic"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -15528,8 +15528,8 @@
     "properties": {
       "name": {
         "ca": "Església",
-        "es": "Església",
-        "en": "Església"
+        "es": "Iglesia",
+        "en": "Church"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -15610,7 +15610,7 @@
       "name": {
         "ca": "Petanca",
         "es": "Petanca",
-        "en": "Petanca"
+        "en": "Pétanque"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -15685,7 +15685,7 @@
       "name": {
         "ca": "Petanca",
         "es": "Petanca",
-        "en": "Petanca"
+        "en": "Pétanque"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -15759,8 +15759,8 @@
     "properties": {
       "name": {
         "ca": "Residència St. Cebrià",
-        "es": "Residència St. Cebrià",
-        "en": "Residència St. Cebrià"
+        "es": "Residencia St. Cebrià",
+        "en": "St. Cebrià Care Home"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -15984,8 +15984,8 @@
     "properties": {
       "name": {
         "ca": "Camí dels Francesos",
-        "es": "Camí dels Francesos",
-        "en": "Camí dels Francesos"
+        "es": "Camino dels Francesos",
+        "en": "Francesos Path"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -16134,8 +16134,8 @@
     "properties": {
       "name": {
         "ca": "Av. President Companys - Joan Brossa",
-        "es": "Av. President Companys - Joan Brossa",
-        "en": "Av. President Companys - Joan Brossa"
+        "es": "Avenida President Companys - Joan Brossa",
+        "en": "President Companys Ave. - Joan Brossa"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -16284,8 +16284,8 @@
     "properties": {
       "name": {
         "ca": "Av. Joan Garí - Riera",
-        "es": "Av. Joan Garí - Riera",
-        "en": "Av. Joan Garí - Riera"
+        "es": "Avenida Joan Garí - Riera",
+        "en": "Joan Garí Ave. - Riera"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -16359,8 +16359,8 @@
     "properties": {
       "name": {
         "ca": "Camí de l'Alegria",
-        "es": "Camí de l'Alegria",
-        "en": "Camí de l'Alegria"
+        "es": "Camino de l'Alegria",
+        "en": "l'Alegria Path"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -16434,8 +16434,8 @@
     "properties": {
       "name": {
         "ca": "Camí del Mig d'Alella",
-        "es": "Camí del Mig d'Alella",
-        "en": "Camí del Mig d'Alella"
+        "es": "Camino del Mig d'Alella",
+        "en": "Mig d'Alella Path"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -16509,8 +16509,8 @@
     "properties": {
       "name": {
         "ca": "Camí de l'Alegria",
-        "es": "Camí de l'Alegria",
-        "en": "Camí de l'Alegria"
+        "es": "Camino de l'Alegria",
+        "en": "l'Alegria Path"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -16659,8 +16659,8 @@
     "properties": {
       "name": {
         "ca": "Barri Gosch",
-        "es": "Barri Gosch",
-        "en": "Barri Gosch"
+        "es": "Barrio Gosch",
+        "en": "Gosch Neighbourhood"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -16809,8 +16809,8 @@
     "properties": {
       "name": {
         "ca": "Barri Gosch",
-        "es": "Barri Gosch",
-        "en": "Barri Gosch"
+        "es": "Barrio Gosch",
+        "en": "Gosch Neighbourhood"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -16959,8 +16959,8 @@
     "properties": {
       "name": {
         "ca": "Av. Joan Garí - Riera",
-        "es": "Av. Joan Garí - Riera",
-        "en": "Av. Joan Garí - Riera"
+        "es": "Avenida Joan Garí - Riera",
+        "en": "Joan Garí Ave. - Riera"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -17259,8 +17259,8 @@
     "properties": {
       "name": {
         "ca": "Poliesportiu",
-        "es": "Poliesportiu",
-        "en": "Poliesportiu"
+        "es": "Polideportivo",
+        "en": "Sports Hall"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -17340,8 +17340,8 @@
     "properties": {
       "name": {
         "ca": "Parc Joan Armengol",
-        "es": "Parc Joan Armengol",
-        "en": "Parc Joan Armengol"
+        "es": "Parque Joan Armengol",
+        "en": "Joan Armengol Park"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -17421,8 +17421,8 @@
     "properties": {
       "name": {
         "ca": "Església",
-        "es": "Església",
-        "en": "Església"
+        "es": "Iglesia",
+        "en": "Church"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -17577,8 +17577,8 @@
     "properties": {
       "name": {
         "ca": "Escola Lola Anglada",
-        "es": "Escola Lola Anglada",
-        "en": "Escola Lola Anglada"
+        "es": "Escuela Lola Anglada",
+        "en": "Lola Anglada School"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -17658,8 +17658,8 @@
     "properties": {
       "name": {
         "ca": "Camí Dalt d'Alella - Edith Llaurador",
-        "es": "Camí Dalt d'Alella - Edith Llaurador",
-        "en": "Camí Dalt d'Alella - Edith Llaurador"
+        "es": "Camino Dalt d'Alella - Edith Llaurador",
+        "en": "Dalt d'Alella Path - Edith Llaurador"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -17733,8 +17733,8 @@
     "properties": {
       "name": {
         "ca": "Camí Dalt d'Alella - Edith Llaurador",
-        "es": "Camí Dalt d'Alella - Edith Llaurador",
-        "en": "Camí Dalt d'Alella - Edith Llaurador"
+        "es": "Camino Dalt d'Alella - Edith Llaurador",
+        "en": "Dalt d'Alella Path - Edith Llaurador"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
@@ -17808,8 +17808,8 @@
     "properties": {
       "name": {
         "ca": "Cals Frares - Escola Bressol",
-        "es": "Cals Frares - Escola Bressol",
-        "en": "Cals Frares - Escola Bressol"
+        "es": "Cals Frares - Escuela Infantil",
+        "en": "Cals Frares - Nursery School"
       },
       "description": {
         "ca": "Parada de bus de Tiana, integrada en la xarxa de transport públic del municipi.",
