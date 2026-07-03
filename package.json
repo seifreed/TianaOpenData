@@ -1,0 +1,13 @@
+{
+  "name": "tiana-open-data",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Public open-data corpus for the Tiana Viva app (places, routes, alerts).",
+  "scripts": {
+    "validate": "node validate.mjs ."
+  },
+  "dependencies": {
+    "zod": "4.4.3"
+  }
+}

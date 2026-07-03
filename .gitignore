@@ -1,6 +1,9 @@
 # Backups
 *.backup.*
 
+# Dependencies
+node_modules/
+
 # Cache
 .cache/
 __pycache__/
