@@ -3724,9 +3724,9 @@
         "en": "El nou Casal"
       },
       "description": {
-        "ca": "El nou Casal. Restaurant o establiment de restauració local a Tiana.",
-        "es": "El nou Casal. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "El nou Casal. A local restaurant or eatery in Tiana."
+        "ca": "Bar-restaurant situat a l'edifici històric del Casal de Tiana, amb cuina catalana i espanyola casolana i terrasses.",
+        "es": "Bar-restaurante situado en el edificio histórico del Casal de Tiana, con cocina catalana y española casera y terrazas.",
+        "en": "Bar-restaurant in the historic Casal building of Tiana, serving home-style Catalan and Spanish cooking with terraces."
       },
       "tags": [
         "tiana",
@@ -3745,7 +3745,7 @@
         "food"
       ],
       "contact": {
-        "address": null,
+        "address": "Avinguda d'Isaac Albéniz, 12, 08391 Tiana",
         "phone": null,
         "email": null,
         "website": null
@@ -3785,9 +3785,9 @@
         "en": "L'avi Mingo"
       },
       "description": {
-        "ca": "L'avi Mingo. Restaurant o establiment de restauració local a Tiana.",
-        "es": "L'avi Mingo. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "L'avi Mingo. A local restaurant or eatery in Tiana."
+        "ca": "Restaurant de cuina catalana casolana i de temporada, obert des de 1984.",
+        "es": "Restaurante de cocina catalana casera y de temporada, abierto desde 1984.",
+        "en": "Restaurant serving traditional, seasonal home-style Catalan cuisine, open since 1984."
       },
       "tags": [
         "tiana",
@@ -3808,8 +3808,8 @@
         "food"
       ],
       "contact": {
-        "address": null,
-        "phone": "+34933952206",
+        "address": "Carrer de Lola Anglada, 28, 08391 Tiana",
+        "phone": "933952206",
         "email": null,
         "website": "https://avimingo.com"
       },
@@ -3976,9 +3976,9 @@
         "en": "Llop"
       },
       "description": {
-        "ca": "Llop. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Llop. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Llop. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Perruqueria al centre de Tiana.",
+        "es": "Peluquería en el centro de Tiana.",
+        "en": "Hairdressing salon in the centre of Tiana."
       },
       "tags": [
         "tiana",
@@ -3997,7 +3997,7 @@
         "commerce"
       ],
       "contact": {
-        "address": null,
+        "address": "Carrer del Centre, 11, 08391 Tiana",
         "phone": null,
         "email": null,
         "website": null
@@ -4098,9 +4098,9 @@
         "en": "La cuina de Can Vilaró"
       },
       "description": {
-        "ca": "La cuina de Can Vilaró. Restaurant o establiment de restauració local a Tiana.",
-        "es": "La cuina de Can Vilaró. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "La cuina de Can Vilaró. A local restaurant or eatery in Tiana."
+        "ca": "Rostisseria i menjar per emportar amb cuina catalana tradicional, plats cuinats i servei de càtering.",
+        "es": "Rosticería y comida para llevar con cocina catalana tradicional, platos cocinados y servicio de catering.",
+        "en": "Rotisserie and takeaway offering traditional Catalan cooking, prepared meals and catering."
       },
       "tags": [
         "tiana",
@@ -4120,8 +4120,8 @@
         "food"
       ],
       "contact": {
-        "address": null,
-        "phone": null,
+        "address": "Carrer del Centre, 8, 08391 Tiana",
+        "phone": "934656738",
         "email": null,
         "website": null
       },
@@ -4290,9 +4290,9 @@
         "en": "La Centraleta"
       },
       "description": {
-        "ca": "La Centraleta. Restaurant o establiment de restauració local a Tiana.",
-        "es": "La Centraleta. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "La Centraleta. A local restaurant or eatery in Tiana."
+        "ca": "Bar de tapes casolanes al centre de Tiana.",
+        "es": "Bar de tapas caseras en el centro de Tiana.",
+        "en": "Bar serving homemade tapas in the centre of Tiana."
       },
       "tags": [
         "tiana",
@@ -4312,8 +4312,8 @@
         "food"
       ],
       "contact": {
-        "address": null,
-        "phone": null,
+        "address": "Carrer del Centre, 18, 08391 Tiana",
+        "phone": "682137836",
         "email": null,
         "website": null
       },
@@ -4352,9 +4352,9 @@
         "en": "Polit Swing"
       },
       "description": {
-        "ca": "Polit Swing. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Polit Swing. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Polit Swing. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Perruqueria a Tiana.",
+        "es": "Peluquería en Tiana.",
+        "en": "Hair salon in Tiana."
       },
       "tags": [
         "tiana",
@@ -4586,9 +4586,9 @@
         "en": "Portes i Finestres"
       },
       "description": {
-        "ca": "Portes i Finestres. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Portes i Finestres. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Portes i Finestres. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Empresa de fusteria especialitzada en la fabricació i instal·lació de portes i finestres.",
+        "es": "Empresa de carpintería especializada en la fabricación e instalación de puertas y ventanas.",
+        "en": "Carpentry company specializing in the manufacture and installation of doors and windows."
       },
       "tags": [
         "tiana",
@@ -4708,9 +4708,9 @@
         "en": "Aixelà Bakery and Pastry Shop"
       },
       "description": {
-        "ca": "Forn i Pastisseria Aixelà. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Panadería y Pastelería Aixelà. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Aixelà Bakery and Pastry Shop. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Forn i pastisseria que ven pa, brioixeria, pastisseria i dolços tradicionals.",
+        "es": "Horno y pastelería que vende pan, bollería, pastelería y dulces tradicionales.",
+        "en": "Bakery and pastry shop selling bread, pastries and traditional sweets."
       },
       "tags": [
         "tiana",
@@ -4732,8 +4732,8 @@
         "commerce"
       ],
       "contact": {
-        "address": null,
-        "phone": "+34933952702",
+        "address": "Avinguda d'Isaac Albéniz, 26, 08391 Tiana",
+        "phone": "933952702",
         "email": null,
         "website": null
       },
@@ -4847,9 +4847,9 @@
         "en": "Optica \"La Punxa\""
       },
       "description": {
-        "ca": "Optica \"La Punxa\". Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Optica \"La Punxa\". Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Optica \"La Punxa\". A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Òptica oberta des de 2001 que ven ulleres graduades i de sol, lents de contacte i audiòfons, amb servei de revisió visual i auditiva.",
+        "es": "Óptica abierta desde 2001 que vende gafas graduadas y de sol, lentillas y audífonos, con servicio de revisión visual y auditiva.",
+        "en": "Optician's shop open since 2001, selling prescription and sunglasses, contact lenses and hearing aids, with vision and hearing tests."
       },
       "tags": [
         "tiana",
@@ -4868,10 +4868,10 @@
         "commerce"
       ],
       "contact": {
-        "address": null,
-        "phone": null,
+        "address": "Avinguda d'Isaac Albéniz, 23, 08391 Tiana",
+        "phone": "934656029",
         "email": null,
-        "website": null
+        "website": "https://www.opticalapunxa.cat"
       },
       "opening_hours": null,
       "services": [
@@ -4908,9 +4908,9 @@
         "en": "Ca L'Anita"
       },
       "description": {
-        "ca": "Ca L'Anita. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Ca L'Anita. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Ca L'Anita. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Botiga de queviures històrica al centre de Tiana, amb prop d'un segle d'història.",
+        "es": "Tienda de comestibles histórica en el centro de Tiana, con cerca de un siglo de historia.",
+        "en": "Historic grocery shop in the centre of Tiana, with nearly a century of history."
       },
       "tags": [
         "tiana",
@@ -4929,8 +4929,8 @@
         "commerce"
       ],
       "contact": {
-        "address": null,
-        "phone": null,
+        "address": "Carrer del Marquès de Monistrol, 3, 08391 Tiana",
+        "phone": "934657579",
         "email": null,
         "website": null
       },
@@ -5031,9 +5031,9 @@
         "en": "Petit Tiana Supermarket"
       },
       "description": {
-        "ca": "Petit Supermercat Tiana. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Petit Supermercado Tiana. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Petit Tiana Supermarket. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Petit supermercat de barri amb productes bàsics com fruita, verdura, begudes i pa.",
+        "es": "Pequeño supermercado de barrio con productos básicos como fruta, verdura, bebidas y pan.",
+        "en": "Small neighbourhood supermarket selling basics such as fruit, vegetables, drinks and bread."
       },
       "tags": [
         "tiana",
@@ -5092,9 +5092,9 @@
         "en": "Cuní Fishmonger's"
       },
       "description": {
-        "ca": "Peixateria Cuní. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Pescadería Cuní. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Cuní Fishmonger's. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Peixateria de peix fresc al centre de Tiana, en funcionament des de 1946.",
+        "es": "Pescadería de pescado fresco en el centro de Tiana, en funcionamiento desde 1946.",
+        "en": "Fishmonger selling fresh fish in the centre of Tiana, in business since 1946."
       },
       "tags": [
         "tiana",
@@ -5114,7 +5114,7 @@
         "commerce"
       ],
       "contact": {
-        "address": null,
+        "address": "Carrer de Lola Anglada, 37, 08391 Tiana",
         "phone": null,
         "email": null,
         "website": null
@@ -5159,9 +5159,9 @@
         "en": "Ecological Space"
       },
       "description": {
-        "ca": "Espai Ecològic. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Espacio Ecológico. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Ecological Space. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Botiga de productes ecològics amb aliments locals i de temporada, fruita, verdura, vins i cosmètica.",
+        "es": "Tienda de productos ecológicos con alimentos locales y de temporada, fruta, verdura, vinos y cosmética.",
+        "en": "Organic products shop with local and seasonal food, fruit, vegetables, wines and cosmetics."
       },
       "tags": [
         "tiana",
@@ -5183,10 +5183,10 @@
         "commerce"
       ],
       "contact": {
-        "address": null,
-        "phone": null,
+        "address": "Carrer d'Anselm Clavé, 4, 08391 Tiana",
+        "phone": "934653644",
         "email": null,
-        "website": null
+        "website": "https://espaiecologic.com"
       },
       "opening_hours": null,
       "services": [
@@ -5233,9 +5233,9 @@
         "en": "Agropecuaria de Tiana S.COOP.S.L."
       },
       "description": {
-        "ca": "Agropecuaria de Tiana S.COOP.S.L.. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Agropecuaria de Tiana S.COOP.S.L.. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Agropecuaria de Tiana S.COOP.S.L.. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Cooperativa agrícola que ven adobs, llavors, plançons, eines de jardineria, ferreteria i pinso per a animals.",
+        "es": "Cooperativa agrícola que vende abonos, semillas, plantones, herramientas de jardinería, ferretería y pienso para animales.",
+        "en": "Agricultural cooperative selling fertilizers, seeds, seedlings, gardening tools, hardware and animal feed."
       },
       "tags": [
         "tiana",
@@ -5254,8 +5254,8 @@
         "commerce"
       ],
       "contact": {
-        "address": null,
-        "phone": null,
+        "address": "Carrer d'Anselm Clavé, 1, 08391 Tiana",
+        "phone": "933952552",
         "email": null,
         "website": null
       },
@@ -5355,9 +5355,9 @@
         "en": "Malenkas"
       },
       "description": {
-        "ca": "Malenkas. Restaurant o establiment de restauració local a Tiana.",
-        "es": "Malenkas. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "Malenkas. A local restaurant or eatery in Tiana."
+        "ca": "Cafeteria d'esmorzars que ofereix brioixeria i croissants d'estil argentí i cafè d'especialitat.",
+        "es": "Cafetería de desayunos que ofrece bollería y croissants de estilo argentino y café de especialidad.",
+        "en": "Breakfast café offering Argentine-style pastries and croissants and specialty coffee."
       },
       "tags": [
         "tiana",
@@ -5545,9 +5545,9 @@
         "en": "Mario Tarragó Tattoo"
       },
       "description": {
-        "ca": "Mario Tarragó Tattoo. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Mario Tarragó Tattoo. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Mario Tarragó Tattoo. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Estudi de tatuatge de l'artista Mario Tarragó, que fa tatuatges personalitzats i combina il·lustració i pintura.",
+        "es": "Estudio de tatuaje del artista Mario Tarragó, que realiza tatuajes personalizados y combina ilustración y pintura.",
+        "en": "Tattoo studio of artist Mario Tarragó, offering custom tattoos and combining illustration and painting."
       },
       "tags": [
         "tiana",
@@ -5606,9 +5606,9 @@
         "en": "Condis"
       },
       "description": {
-        "ca": "Condis. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Condis. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Condis. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Supermercat de la cadena Condis amb seccions de fruita i verdura, peixateria, carnisseria i xarcuteria.",
+        "es": "Supermercado de la cadena Condis con secciones de fruta y verdura, pescadería, carnicería y charcutería.",
+        "en": "Condis chain supermarket with fresh produce, fish, meat and delicatessen counters."
       },
       "tags": [
         "tiana",
@@ -5628,10 +5628,10 @@
         "commerce"
       ],
       "contact": {
-        "address": null,
-        "phone": null,
+        "address": "Avinguda d'Isaac Albéniz, 11, 08391 Tiana",
+        "phone": "934653602",
         "email": null,
-        "website": null
+        "website": "https://www.condis.es"
       },
       "opening_hours": null,
       "services": [
@@ -5729,9 +5729,9 @@
         "en": "Mas Blanc Restaurant"
       },
       "description": {
-        "ca": "Restaurante Mas Blanc. Restaurant o establiment de restauració local a Tiana.",
-        "es": "Restaurante Mas Blanc. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "Mas Blanc Restaurant. A local restaurant or eatery in Tiana."
+        "ca": "Restaurant amb terrassa i espai chill-out envoltat de natura, cuina de base tradicional amb influència mediterrània i plats fets a la brasa.",
+        "es": "Restaurante con terraza y espacio chill-out rodeado de naturaleza, cocina de base tradicional con influencia mediterránea y platos a la brasa.",
+        "en": "Restaurant with terrace and chill-out area surrounded by nature, serving traditional Mediterranean-influenced cuisine and charcoal-grilled dishes."
       },
       "tags": [
         "tiana",
@@ -5750,10 +5750,10 @@
         "food"
       ],
       "contact": {
-        "address": null,
-        "phone": null,
+        "address": "Camí de Dalt d'Alella, 15, 08391 Tiana",
+        "phone": "933 95 38 12",
         "email": null,
-        "website": null
+        "website": "https://masblanctiana.com"
       },
       "opening_hours": null,
       "services": [
@@ -5957,9 +5957,9 @@
         "en": "Quissos"
       },
       "description": {
-        "ca": "Quissos. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Quissos. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Quissos. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Perruqueria canina a Tiana.",
+        "es": "Peluquería canina en Tiana.",
+        "en": "Dog grooming salon in Tiana."
       },
       "tags": [
         "tiana",
@@ -5979,7 +5979,7 @@
       ],
       "contact": {
         "address": null,
-        "phone": null,
+        "phone": "+34 658 602 292",
         "email": null,
         "website": null
       },
@@ -6079,9 +6079,9 @@
         "en": "Mi bella serendipia"
       },
       "description": {
-        "ca": "Mi bella serendipia. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Mi bella serendipia. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Mi bella serendipia. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Llibreria especialitzada en llibres il·lustrats, narrativa i poesia per a totes les edats, amb botiga en línia.",
+        "es": "Librería especializada en libros ilustrados, narrativa y poesía para todas las edades, con tienda online.",
+        "en": "Bookshop specialising in illustrated books, narrative and poetry for all ages, with an online store."
       },
       "tags": [
         "tiana",
@@ -6103,7 +6103,7 @@
         "address": null,
         "phone": null,
         "email": null,
-        "website": null
+        "website": "https://www.mibellaserendipia.es"
       },
       "opening_hours": null,
       "services": [
@@ -6319,9 +6319,9 @@
         "en": "Modomio"
       },
       "description": {
-        "ca": "Modomio. Restaurant o establiment de restauració local a Tiana.",
-        "es": "Modomio. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "Modomio. A local restaurant or eatery in Tiana."
+        "ca": "Pizzeria amb servei a domicili i per emportar; ofereix pizzes clàssiques i premium, hamburgueses i acompanyaments.",
+        "es": "Pizzería con servicio a domicilio y para llevar; ofrece pizzas clásicas y premium, hamburguesas y acompañamientos.",
+        "en": "Pizzeria with home delivery and takeaway offering classic and premium pizzas, burgers and sides."
       },
       "tags": [
         "tiana",
@@ -6341,7 +6341,7 @@
         "food"
       ],
       "contact": {
-        "address": null,
+        "address": "Passeig de la Vilesa, 6, 08391 Tiana",
         "phone": null,
         "email": null,
         "website": null
@@ -6381,9 +6381,9 @@
         "en": "Badagres"
       },
       "description": {
-        "ca": "Badagres. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Badagres. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Badagres. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Establiment de materials de construcció que ofereix assessorament i productes per a obres, reformes, cuines i banys.",
+        "es": "Establecimiento de materiales de construcción que ofrece asesoramiento y productos para obras, reformas, cocinas y baños.",
+        "en": "Construction-materials store offering advice and products for building work, renovations, kitchens and bathrooms."
       },
       "tags": [
         "tiana",
@@ -6403,7 +6403,7 @@
         "commerce"
       ],
       "contact": {
-        "address": null,
+        "address": "Carretera B-500 (Badalona-Mollet), Km 3,2, Tiana",
         "phone": null,
         "email": null,
         "website": null
@@ -6997,9 +6997,9 @@
         "en": "Sant Romà Terraces"
       },
       "description": {
-        "ca": "Les Terrasses de Sant Romà. Restaurant o establiment de restauració local a Tiana.",
-        "es": "Las Terrazas de Sant Romà. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "Sant Romà Terraces. A local restaurant or eatery in Tiana."
+        "ca": "Restaurant en una masia amb jardins i terrasses i vistes a Barcelona, especialitzat en cuina catalana, arrossos i plats a la brasa, ideal per a celebracions.",
+        "es": "Restaurante en una masía con jardines y terrazas y vistas a Barcelona, especializado en cocina catalana, arroces y platos a la brasa, ideal para celebraciones.",
+        "en": "Restaurant in a farmhouse with gardens and terraces and views of Barcelona, specialising in Catalan cuisine, rice dishes and charcoal-grilled fare, ideal for celebrations."
       },
       "tags": [
         "tiana",
@@ -7019,7 +7019,7 @@
         "food"
       ],
       "contact": {
-        "address": null,
+        "address": "Carretera Badalona a Mollet B-500, Km 4, 08391 Tiana",
         "phone": null,
         "email": null,
         "website": "https://lesterrasses.cat/"
@@ -7435,9 +7435,9 @@
         "en": "La Bodega del Mascaró"
       },
       "description": {
-        "ca": "La Bodega del Mascaró. Restaurant o establiment de restauració local a Tiana.",
-        "es": "La Bodega del Mascaró. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "La Bodega del Mascaró. A local restaurant or eatery in Tiana."
+        "ca": "Botiga i bar de vins amb venda i tast de vins i cerveses, formatges i embotits, amb productes locals i de km0.",
+        "es": "Tienda y bar de vinos con venta y cata de vinos y cervezas, quesos y embutidos, con productos locales y de km0.",
+        "en": "Wine shop and bar with sale and tasting of wines and beers, cheeses and cured meats, featuring local and km0 products."
       },
       "tags": [
         "tiana",
@@ -7457,7 +7457,7 @@
         "food"
       ],
       "contact": {
-        "address": null,
+        "address": "Carrer del Doctor Mascaró, 22, 08391 Tiana",
         "phone": null,
         "email": null,
         "website": "https://labodegadelmascaro.cat/"
@@ -7619,9 +7619,9 @@
         "en": "Can Boter"
       },
       "description": {
-        "ca": "Can Boter. Restaurant o establiment de restauració local a Tiana.",
-        "es": "Can Boter. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "Can Boter. A local restaurant or eatery in Tiana."
+        "ca": "Masia històrica de Tiana que acull El Taller de Can Boter, un espai d'activitats culturals i gastronòmiques.",
+        "es": "Masía histórica de Tiana que acoge El Taller de Can Boter, un espacio de actividades culturales y gastronómicas.",
+        "en": "Historic Tiana farmhouse home to El Taller de Can Boter, a venue for cultural and gastronomic activities."
       },
       "tags": [
         "tiana",
@@ -7748,9 +7748,9 @@
         "en": "Enric Solà Bakery"
       },
       "description": {
-        "ca": "Forn de pa Enric Solà. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Panadería Enric Solà. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Enric Solà Bakery. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Forn de pa i pastisseria artesà (conegut com 'can Pau') que elabora pans de fermentació lenta amb farines ecològiques com espelta i sègol, i pastisseria artesana.",
+        "es": "Horno de pan y pastelería artesana (conocido como 'can Pau') que elabora panes de fermentación lenta con harinas ecológicas como espelta y centeno, y pastelería artesana.",
+        "en": "Artisan bakery and pastry shop (known as 'can Pau') making slow-fermentation breads with organic flours such as spelt and rye, plus artisan pastries."
       },
       "tags": [
         "tiana",
@@ -7771,8 +7771,8 @@
         "commerce"
       ],
       "contact": {
-        "address": null,
-        "phone": null,
+        "address": "Carrer Sant Jaume, 6, 08391 Tiana",
+        "phone": "933 95 26 02",
         "email": null,
         "website": null
       },
@@ -7816,9 +7816,9 @@
         "en": "la Fortune"
       },
       "description": {
-        "ca": "la Fortune. Restaurant o establiment de restauració local a Tiana.",
-        "es": "la Fortune. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "la Fortune. A local restaurant or eatery in Tiana."
+        "ca": "Restaurant ubicat a l'edifici del Casino de Tiana, amb cuina mediterrània i servei d'esmorzars, dinars i sopars.",
+        "es": "Restaurante ubicado en el edificio del Casino de Tiana, con cocina mediterránea y servicio de desayunos, comidas y cenas.",
+        "en": "Restaurant located in the Casino building of Tiana, with Mediterranean cuisine serving breakfast, lunch and dinner."
       },
       "tags": [
         "tiana",
@@ -7838,8 +7838,8 @@
         "food"
       ],
       "contact": {
-        "address": null,
-        "phone": null,
+        "address": "Carrer Edith Llaurador, 08391 Tiana",
+        "phone": "+34 933 95 49 02",
         "email": null,
         "website": null
       },
@@ -7939,9 +7939,9 @@
         "en": "igreen Garden"
       },
       "description": {
-        "ca": "igreen Garden. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "igreen Garden. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "igreen Garden. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Centre de jardineria amb plantes, arbres, eines i materials, i serveis de paisatgisme, reg i cura de plantes.",
+        "es": "Centro de jardinería con plantas, árboles, herramientas y materiales, y servicios de paisajismo, riego y cuidado de plantas.",
+        "en": "Garden centre offering plants, trees, tools and materials, plus landscaping, irrigation and plant-care services."
       },
       "tags": [
         "tiana",
@@ -7960,8 +7960,8 @@
         "commerce"
       ],
       "contact": {
-        "address": null,
-        "phone": null,
+        "address": "Carretera de la Conreria, km 3,5, Tiana",
+        "phone": "+34 93 497 60 04",
         "email": null,
         "website": null
       },
@@ -9474,9 +9474,9 @@
         "en": "Verd es bo"
       },
       "description": {
-        "ca": "Verd es bo. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Verd es bo. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Verd es bo. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Floristeria amb flors fresques, rams, plantes d'interior i exterior i decoració per a esdeveniments; també ofereix llibres, joieria d'autor i complements tèxtils.",
+        "es": "Floristería con flores frescas, ramos, plantas de interior y exterior y decoración para eventos; también ofrece libros, joyería de autor y complementos textiles.",
+        "en": "Florist offering fresh flowers, bouquets, indoor and outdoor plants and event decoration; also books, author jewellery and textile accessories."
       },
       "tags": [
         "tiana",
@@ -9496,7 +9496,7 @@
         "commerce"
       ],
       "contact": {
-        "address": null,
+        "address": "Carrer Sant Cebrià, 1, 08391 Tiana",
         "phone": null,
         "email": null,
         "website": null
@@ -9536,9 +9536,9 @@
         "en": "VSK Beauty Experience"
       },
       "description": {
-        "ca": "VSK Beauty Experience. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "VSK Beauty Experience. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "VSK Beauty Experience. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Centre d'estètica a Tiana especialitzat en tractaments de celles i pestanyes.",
+        "es": "Centro de estética en Tiana especializado en tratamientos de cejas y pestañas.",
+        "en": "Beauty centre in Tiana specialising in eyebrow and eyelash treatments."
       },
       "tags": [
         "tiana",
@@ -9557,7 +9557,7 @@
         "commerce"
       ],
       "contact": {
-        "address": null,
+        "address": "Carrer de Lola Anglada, 16, 08391 Tiana",
         "phone": null,
         "email": null,
         "website": null
@@ -9597,9 +9597,9 @@
         "en": "Petit Micacu"
       },
       "description": {
-        "ca": "Petit Micacu. Comerç o servei local de Tiana vinculat a la vida quotidiana del municipi.",
-        "es": "Petit Micacu. Comercio o servicio local de Tiana vinculado a la vida cotidiana del municipio.",
-        "en": "Petit Micacu. A local shop or service in Tiana tied to everyday life in the town."
+        "ca": "Botiga d'accessoris infantils de marca pròpia (motxilles, ampolles, portamerendes, pitets i complements), amb botiga física i en línia.",
+        "es": "Tienda de accesorios infantiles de marca propia (mochilas, botellas, portameriendas, baberos y complementos), con tienda física y online.",
+        "en": "Children's accessories shop with its own brand (backpacks, bottles, lunch bags, bibs and accessories), with a physical and online store."
       },
       "tags": [
         "tiana",
@@ -9618,10 +9618,10 @@
         "commerce"
       ],
       "contact": {
-        "address": null,
+        "address": "Carrer Lola Anglada, 16, 08391 Tiana",
         "phone": null,
         "email": null,
-        "website": null
+        "website": "https://www.petitmicacu.com"
       },
       "opening_hours": null,
       "services": [
@@ -10979,9 +10979,9 @@
         "en": "Can Roca Restaurant"
       },
       "description": {
-        "ca": "Restaurant Can Roca. Restaurant o establiment de restauració local a Tiana.",
-        "es": "Restaurante Can Roca. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "Can Roca Restaurant. A local restaurant or eatery in Tiana."
+        "ca": "Restaurant en una masia rústica que ofereix cuina catalana tradicional des de 1952, amb plats casolans i a la brasa i calçots de temporada.",
+        "es": "Restaurante en una masía rústica que ofrece cocina catalana tradicional desde 1952, con platos caseros y a la brasa y calçots de temporada.",
+        "en": "Restaurant in a rustic farmhouse serving traditional Catalan cuisine since 1952, with homemade and grilled dishes and seasonal calçots."
       },
       "tags": [
         "tiana",
@@ -11000,10 +11000,10 @@
         "food"
       ],
       "contact": {
-        "address": null,
+        "address": "Can Roca, s/n, 08391 Tiana",
         "phone": null,
         "email": null,
-        "website": null
+        "website": "https://canrocarestaurant.com"
       },
       "opening_hours": null,
       "services": [
@@ -13191,9 +13191,9 @@
         "en": "Tirati Tiriti"
       },
       "description": {
-        "ca": "Tirati Tiriti. Restaurant o establiment de restauració local a Tiana.",
-        "es": "Tirati Tiriti. Restaurante o establecimiento de restauración local en Tiana.",
-        "en": "Tirati Tiriti. A local restaurant or eatery in Tiana."
+        "ca": "Bar, restaurant i pizzeria al centre de Tiana, davant de la plaça de la Vila, especialitzat en pizzes a la pedra, amb pasta, amanides, torrades i hamburgueses.",
+        "es": "Bar, restaurante y pizzería en el centro de Tiana, frente a la plaza de la Vila, especializado en pizzas a la piedra, con pasta, ensaladas, tostadas y hamburguesas.",
+        "en": "Bar, restaurant and pizzeria in the centre of Tiana, opposite the Plaça de la Vila, specialising in stone-baked pizzas, with pasta, salads, toasts and burgers."
       },
       "tags": [
         "tiana",
@@ -13212,10 +13212,10 @@
         "food"
       ],
       "contact": {
-        "address": null,
+        "address": "Plaça de la Vila, 6, 08391 Tiana",
         "phone": null,
         "email": null,
-        "website": null
+        "website": "https://tiriti.es"
       },
       "opening_hours": null,
       "services": [
