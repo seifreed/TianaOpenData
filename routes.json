@@ -7,9 +7,9 @@
       "en": "Cultural route through the town centre"
     },
     "description": {
-      "ca": "Itinerari cultural per Can Baratau, el Jardí Lola Anglada, les sales culturals i l’entorn del centre. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Itinerario cultural por Can Baratau, el Jardín Lola Anglada, las salas culturales y el entorno del centro. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Cultural route through Can Baratau, the Lola Anglada Garden, the cultural halls and the town centre surroundings. Source: Tiana Town Council. Approximate route based on published waypoints."
+      "ca": "Itinerari cultural pel nucli de Tiana que enllaça punts patrimonials com la font de can Comas, la parròquia de Sant Cebrià, l'antiga sala Giral (Cine Tiana), l'antiga parada del tramvia, el Casal, el jardí romàntic de la Lola Anglada i la biblioteca de Can Baratau.",
+      "es": "Itinerario cultural por el núcleo de Tiana que enlaza puntos patrimoniales como la fuente de can Comas, la parroquia de Sant Cebrià, la antigua sala Giral (Cine Tiana), la antigua parada del tranvía, el Casal, el jardín romántico de Lola Anglada y la biblioteca de Can Baratau.",
+      "en": "Cultural itinerary through the centre of Tiana linking heritage points such as the Can Comas fountain, the Sant Cebrià parish church, the former Sala Giral (Cine Tiana), the old tram stop, the Casal, Lola Anglada's romantic garden and the Can Baratau library."
     },
     "difficulty": "easy",
     "estimated_time_min": 60,
@@ -77,7 +77,7 @@
     ],
     "source": {
       "name": "Ajuntament de Tiana",
-      "url": "https://tiana.cat/rutes/",
+      "url": "https://tiana.cat/rutes/rutes-culturals/",
       "updated_at": "2026-06-30T00:00:00.000Z"
     },
     "report_url": "https://tiana.cat/bustia/"
@@ -90,9 +90,9 @@
       "en": "Healthy sports route"
     },
     "description": {
-      "ca": "Ruta saludable vinculada als equipaments esportius municipals. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Ruta saludable ligada a los equipamientos deportivos municipales. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Healthy route linked to the municipal sports facilities. Source: Tiana Town Council. Approximate route based on published waypoints."
+      "ca": "Ruta saludable circular que ofereix una visió de 360° del perímetre urbà de Tiana, amb pujades i baixades suaus i freqüents; no és un recorregut pla.",
+      "es": "Ruta saludable circular que ofrece una visión de 360° del perímetro urbano de Tiana, con subidas y bajadas suaves y frecuentes; no es un recorrido llano.",
+      "en": "Circular health route offering a 360° view of Tiana's urban perimeter, with frequent gentle ascents and descents; it is not a flat route."
     },
     "difficulty": "easy",
     "estimated_time_min": 50,
@@ -155,7 +155,7 @@
     ],
     "source": {
       "name": "Ajuntament de Tiana",
-      "url": "https://tiana.cat/rutes/",
+      "url": "https://tiana.cat/rutes/rutes-saludables/",
       "updated_at": "2026-06-30T00:00:00.000Z"
     },
     "report_url": "https://tiana.cat/bustia/"
@@ -168,9 +168,9 @@
       "en": "Vineyard and wine route"
     },
     "description": {
-      "ca": "Ruta saludable per l’entorn rural i el paisatge agrícola de Tiana. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Ruta saludable por el entorno rural y el paisaje agrícola de Tiana. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Healthy route through Tiana’s rural surroundings and farmland landscape. Source: Tiana Town Council. Approximate route based on published waypoints."
+      "ca": "Ruta saludable lineal (anada i tornada pel mateix camí) per l'entorn vitivinícola de Tiana, que va des de vinyes situades a uns 250 m d'altitud fins a d'altres més baixes i allunyades.",
+      "es": "Ruta saludable lineal (ida y vuelta por el mismo camino) por el entorno vitivinícola de Tiana, que va desde viñas situadas a unos 250 m de altitud hasta otras más bajas y alejadas.",
+      "en": "Linear health route (out and back on the same path) through Tiana's wine-growing landscape, running from vineyards at about 250 m altitude down to others lower and farther away."
     },
     "difficulty": "medium",
     "estimated_time_min": 75,
@@ -235,7 +235,7 @@
     ],
     "source": {
       "name": "Ajuntament de Tiana",
-      "url": "https://tiana.cat/rutes/",
+      "url": "https://tiana.cat/rutes/rutes-saludables/",
       "updated_at": "2026-06-30T00:00:00.000Z"
     },
     "report_url": "https://tiana.cat/bustia/"
@@ -248,9 +248,9 @@
       "en": "Rural and woodland route"
     },
     "description": {
-      "ca": "Ruta saludable pels espais naturals i forestals del municipi. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Ruta saludable por los espacios naturales y forestales del municipio. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Healthy route through the town’s natural and woodland areas. Source: Tiana Town Council. Approximate route based on published waypoints."
+      "ca": "Ruta saludable que mostra racons de la Tiana rural i forestal, amb pinedes i antics conreus i molt bones vistes des del Rocar.",
+      "es": "Ruta saludable que muestra rincones de la Tiana rural y forestal, con pinares y antiguos cultivos y muy buenas vistas desde el Rocar.",
+      "en": "Health route showcasing corners of rural and wooded Tiana, with pine forests and old crop fields and fine views from El Rocar."
     },
     "difficulty": "medium",
     "estimated_time_min": 90,
@@ -311,7 +311,7 @@
     ],
     "source": {
       "name": "Ajuntament de Tiana",
-      "url": "https://tiana.cat/rutes/",
+      "url": "https://tiana.cat/rutes/rutes-saludables/",
       "updated_at": "2026-06-30T00:00:00.000Z"
     },
     "report_url": "https://tiana.cat/bustia/"
@@ -324,9 +324,9 @@
       "en": "The Montalegre valley"
     },
     "description": {
-      "ca": "Ruta de la Serralada de Marina per l’entorn de Montalegre. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Ruta de la sierra de Marina por el entorno de Montalegre. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Route through the Serralada de Marina hills across the Montalegre surroundings. Source: Tiana Town Council. Approximate route based on published waypoints."
+      "ca": "Sender local SL-C 145 que surt del punt d'informació de l'Observatori Astronòmic de Tiana i recorre corriols i pistes del Parc de la Serralada de Marina per la vall de Montalegre, prop de la cartoixa de Montalegre, l'única cartoixa de Catalunya. Dificultat mitjana.",
+      "es": "Sendero local SL-C 145 que parte del punto de información del Observatorio Astronómico de Tiana y recorre senderos y pistas del Parc de la Serralada de Marina por el valle de Montalegre, cerca de la cartuja de Montalegre, la única cartuja de Cataluña. Dificultad media.",
+      "en": "Local trail SL-C 145 starting at the information point of Tiana's Astronomical Observatory, following paths and tracks of the Serralada de Marina park through the Montalegre valley, near the Montalegre charterhouse, the only Carthusian monastery in Catalonia. Medium difficulty."
     },
     "difficulty": "medium",
     "estimated_time_min": 120,
@@ -356,8 +356,8 @@
       "cementiri"
     ],
     "last_updated": "2026-06-30T00:00:00.000Z",
-    "distance_km": 2.13,
-    "elevation_gain_m": null,
+    "distance_km": 7,
+    "elevation_gain_m": 266,
     "start_label": {
       "ca": "Cementiri",
       "es": "Cementerio",
@@ -385,7 +385,7 @@
     ],
     "source": {
       "name": "Ajuntament de Tiana",
-      "url": "https://tiana.cat/rutes/",
+      "url": "https://www.alltrails.com/trail/spain/catalonia/sl-c-145-la-vall-de-montealegre",
       "updated_at": "2026-06-30T00:00:00.000Z"
     },
     "report_url": "https://tiana.cat/bustia/"
@@ -398,9 +398,9 @@
       "en": "From the Alba spring to La Conreria"
     },
     "description": {
-      "ca": "Ruta de la Serralada de Marina entre la font de l’Alba i la Conreria. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Ruta de la sierra de Marina entre la fuente del Alba y la Conreria. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Route through the Serralada de Marina hills between the Alba spring and La Conreria. Source: Tiana Town Council. Approximate route based on published waypoints."
+      "ca": "Sender local SL-C 146, curt i planer, que va de la zona esportiva de Tiana pel camí de la font de l'Alba fins al coll de la Conreria, passant pel cementiri de la Conreria —on hi ha enterrades víctimes del còlera de 1870— i arriba a l'Observatori Astronòmic de Tiana.",
+      "es": "Sendero local SL-C 146, corto y llano, que va de la zona deportiva de Tiana por el camino de la fuente de l'Alba hasta el collado de la Conreria, pasando por el cementerio de la Conreria —donde están enterradas víctimas del cólera de 1870— y llega al Observatorio Astronómico de Tiana.",
+      "en": "Short, easy local trail SL-C 146 running from Tiana's sports area along the Font de l'Alba path to the Conreria pass, passing the Conreria cemetery —where victims of the 1870 cholera outbreak are buried— and reaching Tiana's Astronomical Observatory."
     },
     "difficulty": "medium",
     "estimated_time_min": 100,
@@ -425,7 +425,7 @@
       "observatori-astronomic-de-tiana"
     ],
     "last_updated": "2026-06-30T00:00:00.000Z",
-    "distance_km": 1.99,
+    "distance_km": 1.2,
     "elevation_gain_m": null,
     "start_label": {
       "ca": "Observatori Astrònomic de Tiana",
@@ -453,7 +453,7 @@
     ],
     "source": {
       "name": "Ajuntament de Tiana",
-      "url": "https://tiana.cat/rutes/",
+      "url": "https://itineraris-senyalitzats.diba.cat/routes/view/sl-c-146-de-la-font-de-l-alba-a-la-conreria",
       "updated_at": "2026-06-30T00:00:00.000Z"
     },
     "report_url": "https://tiana.cat/bustia/"
@@ -466,9 +466,9 @@
       "en": "From Tiana to Turó d’en Galceran hill"
     },
     "description": {
-      "ca": "Ruta de la Serralada de Marina cap al turó d’en Galceran. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Ruta de la sierra de Marina hacia el cerro de Galceran. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Route through the Serralada de Marina hills towards Turó d’en Galceran hill. Source: Tiana Town Council. Approximate route based on published waypoints."
+      "ca": "Sender local que puja des de la zona esportiva de Tiana, vora l'Observatori Astronòmic, per corriols i pistes del Parc de la Serralada de Marina fins al turó d'en Galzeran (uns 484 m), un dels punts més alts del parc, amb vistes panoràmiques.",
+      "es": "Sendero local que sube desde la zona deportiva de Tiana, junto al Observatorio Astronómico, por senderos y pistas del Parc de la Serralada de Marina hasta el turó d'en Galzeran (unos 484 m), uno de los puntos más altos del parque, con vistas panorámicas.",
+      "en": "Local trail climbing from Tiana's sports area, next to the Astronomical Observatory, along paths and tracks of the Serralada de Marina park up to Turó d'en Galzeran (about 484 m), one of the highest points in the park, with panoramic views."
     },
     "difficulty": "hard",
     "estimated_time_min": 130,
@@ -494,8 +494,8 @@
       "observatori-astronomic-de-tiana"
     ],
     "last_updated": "2026-06-30T00:00:00.000Z",
-    "distance_km": 3.05,
-    "elevation_gain_m": null,
+    "distance_km": 7.6,
+    "elevation_gain_m": 352,
     "start_label": {
       "ca": "Jardí Lola Anglada",
       "es": "Jardín Lola Anglada",
@@ -523,7 +523,7 @@
     ],
     "source": {
       "name": "Ajuntament de Tiana",
-      "url": "https://tiana.cat/rutes/",
+      "url": "https://www.alltrails.com/trail/spain/catalonia/sl-c-95-tiana-turo-d-en-galzeran",
       "updated_at": "2026-06-30T00:00:00.000Z"
     },
     "report_url": "https://tiana.cat/bustia/"
@@ -536,9 +536,9 @@
       "en": "El Rocar"
     },
     "description": {
-      "ca": "Itinerari de la Serralada de Marina per l’àmbit del Rocar. Font: Ajuntament de Tiana. Traçat aproximat a partir dels punts publicats.",
-      "es": "Itinerario de la sierra de Marina por el ámbito del Rocar. Fuente: Ayuntamiento de Tiana. Trazado aproximado a partir de los puntos publicados.",
-      "en": "Route through the Serralada de Marina hills across the Rocar area. Source: Tiana Town Council. Approximate route based on published waypoints."
+      "ca": "Sender local circular SL-C 96 que surt del parc de l'antic camp de futbol de Tiana, vora el passeig de la Vilesa, i recorre la carena del Rocar i els voltants de l'ermita de la Mare de Déu de l'Alegria, entre pinedes, vinyes i camps de conreu.",
+      "es": "Sendero local circular SL-C 96 que parte del parque del antiguo campo de fútbol de Tiana, junto al paseo de la Vilesa, y recorre la cresta del Rocar y los alrededores de la ermita de la Mare de Déu de l'Alegria, entre pinares, viñas y campos de cultivo.",
+      "en": "Circular local trail SL-C 96 starting from the park of Tiana's former football ground, next to Passeig de la Vilesa, running along the Rocar ridge and around the Mare de Déu de l'Alegria hermitage, through pine woods, vineyards and farm fields."
     },
     "difficulty": "medium",
     "estimated_time_min": 80,
@@ -569,7 +569,7 @@
       "observatori-astronomic-de-tiana"
     ],
     "last_updated": "2026-06-30T00:00:00.000Z",
-    "distance_km": 0.74,
+    "distance_km": 8.2,
     "elevation_gain_m": null,
     "start_label": {
       "ca": "Cementiri",
@@ -599,7 +599,7 @@
     ],
     "source": {
       "name": "Ajuntament de Tiana",
-      "url": "https://tiana.cat/rutes/",
+      "url": "https://itineraris-senyalitzats.diba.cat/routes/view/sl-c-96-el-rocar",
       "updated_at": "2026-06-30T00:00:00.000Z"
     },
     "report_url": "https://tiana.cat/bustia/"
@@ -695,9 +695,9 @@
       "en": "From the Alba spring to La Conreria (SL-C 146)"
     },
     "description": {
-      "ca": "De la font d'Alba a la Conreria (SL-C 146). Itinerari per descobrir Tiana i l'entorn de la Serralada de Marina, amb una longitud aproximada de 3.4 km.",
-      "es": "De la fuente de Alba a la Conreria (SL-C 146). Itinerario para descubrir Tiana y el entorno de la sierra de Marina, con una longitud aproximada de 3.4 km.",
-      "en": "From the Alba spring to La Conreria (SL-C 146). A route to discover Tiana and the surroundings of the Serralada de Marina hills, approximately 3.4 km long."
+      "ca": "Sender local SL-C 146, curt i planer, que va de la zona esportiva de Tiana pel camí de la font de l'Alba fins al coll de la Conreria, passant pel cementiri de la Conreria —on hi ha enterrades víctimes del còlera de 1870— i arriba a l'Observatori Astronòmic de Tiana.",
+      "es": "Sendero local SL-C 146, corto y llano, que va de la zona deportiva de Tiana por el camino de la fuente de l'Alba hasta el collado de la Conreria, pasando por el cementerio de la Conreria —donde están enterradas víctimas del cólera de 1870— y llega al Observatorio Astronómico de Tiana.",
+      "en": "Short, easy local trail SL-C 146 running from Tiana's sports area along the Font de l'Alba path to the Conreria pass, passing the Conreria cemetery —where victims of the 1870 cholera outbreak are buried— and reaching Tiana's Astronomical Observatory."
     },
     "difficulty": "easy",
     "estimated_time_min": 52,
@@ -1092,7 +1092,7 @@
     },
     "related_pois": [],
     "last_updated": "2026-06-30T00:00:00.000Z",
-    "distance_km": 3.44,
+    "distance_km": 1.2,
     "elevation_gain_m": null,
     "start_label": {
       "ca": "41.49410, 2.25731",
@@ -1118,7 +1118,7 @@
     "images": [],
     "source": {
       "name": "OpenStreetMap",
-      "url": "https://www.openstreetmap.org/",
+      "url": "https://itineraris-senyalitzats.diba.cat/routes/view/sl-c-146-de-la-font-de-l-alba-a-la-conreria",
       "updated_at": "2026-06-30T00:00:00.000Z"
     },
     "report_url": "https://tiana.cat/bustia/"
@@ -1131,9 +1131,9 @@
       "en": "Rocar trail, discovering the surroundings of Tiana (SL-C 96)"
     },
     "description": {
-      "ca": "Sender del Rocar, descobrint l'entorn de Tiana (SL-C 96). Itinerari per descobrir Tiana i l'entorn de la Serralada de Marina, amb una longitud aproximada de 30.8 km.",
-      "es": "Sendero del Rocar, descubriendo el entorno de Tiana (SL-C 96). Itinerario para descubrir Tiana y el entorno de la sierra de Marina, con una longitud aproximada de 30.8 km.",
-      "en": "Rocar trail, discovering the surroundings of Tiana (SL-C 96). A route to discover Tiana and the surroundings of the Serralada de Marina hills, approximately 30.8 km long."
+      "ca": "Sender local circular SL-C 96 que surt del parc de l'antic camp de futbol de Tiana, vora el passeig de la Vilesa, i recorre la carena del Rocar i els voltants de l'ermita de la Mare de Déu de l'Alegria, entre pinedes, vinyes i camps de conreu.",
+      "es": "Sendero local circular SL-C 96 que parte del parque del antiguo campo de fútbol de Tiana, junto al paseo de la Vilesa, y recorre la cresta del Rocar y los alrededores de la ermita de la Mare de Déu de l'Alegria, entre pinares, viñas y campos de cultivo.",
+      "en": "Circular local trail SL-C 96 starting from the park of Tiana's former football ground, next to Passeig de la Vilesa, running along the Rocar ridge and around the Mare de Déu de l'Alegria hermitage, through pine woods, vineyards and farm fields."
     },
     "difficulty": "hard",
     "estimated_time_min": 462,
@@ -3144,7 +3144,7 @@
     },
     "related_pois": [],
     "last_updated": "2026-06-30T00:00:00.000Z",
-    "distance_km": 30.81,
+    "distance_km": 8.2,
     "elevation_gain_m": null,
     "start_label": {
       "ca": "41.47731, 2.27917",
@@ -3170,7 +3170,7 @@
     "images": [],
     "source": {
       "name": "OpenStreetMap",
-      "url": "https://www.openstreetmap.org/",
+      "url": "https://itineraris-senyalitzats.diba.cat/routes/view/sl-c-96-el-rocar",
       "updated_at": "2026-06-30T00:00:00.000Z"
     },
     "report_url": "https://tiana.cat/bustia/"
@@ -3183,9 +3183,9 @@
       "en": "Tiana-Turó d'en Galzeran (SL-C 95)"
     },
     "description": {
-      "ca": "Tiana-Turó d'en Galzeran (SL-C 95). Itinerari per descobrir Tiana i l'entorn de la Serralada de Marina, amb una longitud aproximada de 20.3 km.",
-      "es": "Tiana-Turó d'en Galzeran (SL-C 95). Itinerario para descubrir Tiana y el entorno de la sierra de Marina, con una longitud aproximada de 20.3 km.",
-      "en": "Tiana-Turó d'en Galzeran (SL-C 95). A route to discover Tiana and the surroundings of the Serralada de Marina hills, approximately 20.3 km long."
+      "ca": "Sender local que puja des de la zona esportiva de Tiana, vora l'Observatori Astronòmic, per corriols i pistes del Parc de la Serralada de Marina fins al turó d'en Galzeran (uns 484 m), un dels punts més alts del parc, amb vistes panoràmiques.",
+      "es": "Sendero local que sube desde la zona deportiva de Tiana, junto al Observatorio Astronómico, por senderos y pistas del Parc de la Serralada de Marina hasta el turó d'en Galzeran (unos 484 m), uno de los puntos más altos del parque, con vistas panorámicas.",
+      "en": "Local trail climbing from Tiana's sports area, next to the Astronomical Observatory, along paths and tracks of the Serralada de Marina park up to Turó d'en Galzeran (about 484 m), one of the highest points in the park, with panoramic views."
     },
     "difficulty": "hard",
     "estimated_time_min": 304,
@@ -5196,8 +5196,8 @@
     },
     "related_pois": [],
     "last_updated": "2026-06-30T00:00:00.000Z",
-    "distance_km": 20.26,
-    "elevation_gain_m": null,
+    "distance_km": 7.6,
+    "elevation_gain_m": 352,
     "start_label": {
       "ca": "41.50166, 2.26825",
       "es": "41.50166, 2.26825",
@@ -5222,7 +5222,7 @@
     "images": [],
     "source": {
       "name": "OpenStreetMap",
-      "url": "https://www.openstreetmap.org/",
+      "url": "https://www.alltrails.com/trail/spain/catalonia/sl-c-95-tiana-turo-d-en-galzeran",
       "updated_at": "2026-06-30T00:00:00.000Z"
     },
     "report_url": "https://tiana.cat/bustia/"
@@ -5235,9 +5235,9 @@
       "en": "Tiana inclusive circuit (41)"
     },
     "description": {
-      "ca": "Circuit inclusiu Tiana (41). Itinerari per descobrir Tiana i l'entorn de la Serralada de Marina, amb una longitud aproximada de 25.4 km.",
-      "es": "Circuito inclusivo Tiana (41). Itinerario para descubrir Tiana y el entorno de la sierra de Marina, con una longitud aproximada de 25.4 km.",
-      "en": "Tiana inclusive circuit (41). A route to discover Tiana and the surroundings of the Serralada de Marina hills, approximately 25.4 km long."
+      "ca": "Circuit inclusiu de Tiana (recorregut rosa, núm. 41), el més llarg dels tres circuits inclusius del municipi, per l'entorn de la Serralada de Marina.",
+      "es": "Circuito inclusivo de Tiana (recorrido rosa, nº 41), el más largo de los tres circuitos inclusivos del municipio, por el entorno de la Serralada de Marina.",
+      "en": "Tiana inclusive circuit (pink route, no. 41), the longest of the three inclusive circuits in the municipality, through the Serralada de Marina surroundings."
     },
     "difficulty": "hard",
     "estimated_time_min": 381,
@@ -7248,8 +7248,8 @@
     },
     "related_pois": [],
     "last_updated": "2026-06-30T00:00:00.000Z",
-    "distance_km": 25.31,
-    "elevation_gain_m": null,
+    "distance_km": 7,
+    "elevation_gain_m": 295,
     "start_label": {
       "ca": "41.48943, 2.28101",
       "es": "41.48943, 2.28101",
@@ -7274,7 +7274,7 @@
     "images": [],
     "source": {
       "name": "OpenStreetMap",
-      "url": "https://www.openstreetmap.org/",
+      "url": "https://tiana.cat/rutes/rutes-serralada-marina/",
       "updated_at": "2026-06-30T00:00:00.000Z"
     },
     "report_url": "https://tiana.cat/bustia/"
